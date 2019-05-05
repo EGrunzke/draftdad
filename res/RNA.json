@@ -1,0 +1,1658 @@
+[
+	{
+		"id": 23482,
+		"card": "Rubble Slinger",
+		"rating": "1.5",
+		"reason": "This is both defensive and mediocre, and Gruul is interested in neither. Maybe a Simic deck wants Rubble Slinger, but I’m still suspicious.",
+		"format": 34,
+		"rator": 2
+	},
+	{
+		"id": 23381,
+		"card": "Quench",
+		"rating": "2.0",
+		"reason": "This is great early but falls off a lot in the late game. The circumstances where I wouldn’t mind running a Quench or two are the following:\r\n1. Fast aggro decks where you’re focused on winning the early/midgame\r\n2. Control decks that need low drops, especially if they have 1-2 Prying Eyes to discard late game Quenches.\r\nWhere I don’t like this is midrange, because you too often will end up with dead Quenches in your hand, so keep that in mind.",
+		"format": 34,
+		"rator": 2
+	},
+	{
+		"id": 23387,
+		"card": "Slimebind",
+		"rating": "2.0",
+		"reason": "Here’s another defensive removal spell and like others, is good for control decks and flyer decks. It’s not a catch-all, but it’s cheap enough to put your opponent in a bind.",
+		"format": 34,
+		"rator": 2
+	},
+	{
+		"id": 23481,
+		"card": "Absorb",
+		"rating": "2.0",
+		"reason": "Azorius will be in the market for 3-mana counters often enough that Absorb will be a solid playable, but it’s nothing special. 3 life is enough of a bonus that I’ll feel good about this, but not enough of one to make me prioritize it.",
+		"format": 34,
+		"rator": 2
+	},
+	{
+		"id": 23370,
+		"card": "Coral Commando",
+		"rating": "1.0",
+		"reason": "Bad stats and no abilities makes this a fishy inclusion in any deck.",
+		"format": 34,
+		"rator": 2
+	},
+	{
+		"id": 23421,
+		"card": "Act of Treason",
+		"rating": "1.5 // 3.0",
+		"reason": "Act is always a fun one. On the surface, it looks like an aggressive card where you take their biggest blocker and whack them over the head with it. As threatening as that may be, that’s not the best use for this, and this is a marginal aggressive card at best (because it’s pretty situational, and when it isn’t good, it does basically nothing). Where Act of Treason really shines (and gets a 3.0 rating) is in a deck with multiple ways to sacrifice creatures. Then it turns into a removal spell that gives you a free attack and the benefit of the sacrifice outlet, which is quite powerful. It’s also a card you’ll get late, because it’s rare that anyone else will want it.",
+		"format": 34,
+		"rator": 2
+	},
+	{
+		"id": 23530,
+		"card": "Aeromunculus",
+		"rating": "3.0",
+		"reason": "Aeromunculus is rock-solid, and a welcome addition to any Simic deck. A 2/3 flyer for 3 is passable, and turning into a 3/4 is a huge game.",
+		"format": 34,
+		"rator": 2
+	},
+	{
+		"id": 23512,
+		"card": "Azorius Locket",
+		"rating": "2.0",
+		"reason": "Lockets get a bad rap. In slower decks, they are often worth a slot, as they help cast expensive spells and can be cracked for a pair of cards later. The non-red ones are better, as the red decks are often lower to the ground, but all of them have their uses.",
+		"format": 34,
+		"rator": 2
+	},
+	{
+		"id": 23422,
+		"card": "Amplifire",
+		"rating": "3.5",
+		"reason": "This card is indeed fire. It may start small, but it’s going to be a 4/4 at worst, and will easily be a 6/6 or 8/8 at various points. The effect also lasts until your next turn, which means it can be a good blocker if needed. I wouldn’t go too far in changing what creatures I play because of this, but it does get worse if you’ve got a bunch of 1/1s in your deck.",
+		"format": 34,
+		"rator": 2
+	},
+	{
+		"id": 23339,
+		"card": "Angel of Grace",
+		"rating": "4.5",
+		"reason": "It doesn’t get much better than this. Not only is this a huge flash flyer that is cheap and great at ambushing, it can also save you in even the most dire situations. You could take a lot away from this card and it would still be great, which is a sign of a true bomb. If you draw this early, you can pick off an attacker and start smashing the opponent. Later in the game, it saves you from lethal, and you may even want to trade this off (or chump) so that you can go back up to 10 on your next turn. This is a great card, and one that does well in almost any situation.",
+		"format": 34,
+		"rator": 2
+	},
+	{
+		"id": 23338,
+		"card": "Angelic Exaltation",
+		"rating": "3.0",
+		"reason": "This one is a little hard to nail down because I’m not sure what the average Azorius/Orzhov deck will look like, but it’s a powerful effect if you have 14+ creatures in your deck. If you can get +3/+3, the card is quite strong, and it’s not that hard to imagine getting there.",
+		"format": 34,
+		"rator": 2
+	},
+	{
+		"id": 23529,
+		"card": "Applied Biomancy",
+		"rating": "3.0",
+		"reason": "I’ve gotten to apply some Biomancy on Arena and the results have been promising. This plays well in a ton of different situations, such as winning a combat and bouncing one of their other creatures, or blowing out double-blocks. This is cheap enough and effective enough that it should always make the cut.",
+		"format": 34,
+		"rator": 2
+	},
+	{
+		"id": 23340,
+		"card": "Archway Angel",
+		"rating": "1.0 // 3.0",
+		"reason": "This is a build-around for sure, as you need to gain 4+ life before it’s worth paying 6 for a 3/4 flyer. I’m excited about the Gate deck, as it looks like it’s getting a lot of solid payoffs this time around.",
+		"format": 34,
+		"rator": 2
+	},
+	{
+		"id": 23480,
+		"card": "Azorius Skyguard",
+		"rating": "3.5",
+		"reason": "As expensive as Azorius Skyguard is, the effect is worth it. Giving their whole team -1 power is a huge deal, and is much more powerful than it looks. This dominates the board, and is a must-kill if the opponent wants to get any kind of offense going.",
+		"format": 34,
+		"rator": 2
+	},
+	{
+		"id": 23394,
+		"card": "Awaken the Erstwhile",
+		"rating": "0.0",
+		"reason": "Let’s just leave the Erstwhile asleep, shall we? This is a symmetrical effect that costs you 5 mana and a card, and there’s not really any good way to get an edge from it. I’d heavily advise against playing this.",
+		"format": 34,
+		"rator": 2
+	},
+	{
+		"id": 23468,
+		"card": "Axebane Beast",
+		"rating": "2.5",
+		"reason": "The stats here are good enough that I’d recommend playing Axebane Beast more often than not. It’s not the flashiest card, but it will fill out your curve like the best of them.",
+		"format": 34,
+		"rator": 2
+	},
+	{
+		"id": 23395,
+		"card": "Bankrupt in Blood",
+		"rating": "1.0",
+		"reason": "Bankrupt is exactly what you’ll be if you base your plans on this. Sacrificing two creatures is way too high a cost, so I’d leave this to the Constructed masterminds to break.",
+		"format": 34,
+		"rator": 2
+	},
+	{
+		"id": 23542,
+		"card": "Bedevil",
+		"rating": "3.5",
+		"reason": "Unconditional removal is always welcome, and the devil is in the details. This kills everything you care about, even if 99% of the time that just means “creatures.”",
+		"format": 34,
+		"rator": 2
+	},
+	{
+		"id": 23366,
+		"card": "Benthic Biomancer",
+		"rating": "2.5",
+		"reason": "The Biomancer is a fine card on its own, if unexciting (3 mana for a 2/2 plus a loot isn’t too crazy). Where it gets interesting is when you have ways to add more counters, as it gives you more looting triggers, which is a powerful engine. I’d look to combine this with Combine Guildmage, which will give you a steady stream of counters and action.",
+		"format": 34,
+		"rator": 2
+	},
+	{
+		"id": 23467,
+		"card": "Biogenic Ooze",
+		"rating": "4.5",
+		"reason": "I really like this card. Unless the opponent has instant-speed interaction, it immediately gives you a pair of 3/3s, and the turn after you likely can add another Ooze to the board. That leaves you with two 4/4s and a 3/3, and it just gets better from there. If this does get answered, you traded 1-for-1 and either have a 2/2 or 3/3 left over, depending on when the opponent killed it. A card that wins the game if it isn’t killed, trades advantageously against removal, and can help mount a comeback, all for 5 mana, gets a high grade in my book.",
+		"format": 34,
+		"rator": 2
+	},
+	{
+		"id": 23466,
+		"card": "Biogenic Upgrade",
+		"rating": "3.0",
+		"reason": "Biogenic Upgrade is quite the finisher. By itself, it gives you six +1/+1 counters, and each counter you already have gives you a bonus one. That’s a lot of stats to throw around, making this a very threatening card if you have any kind of board presence at all. This isn’t the best in a control deck, as it’s not great when you are behind, but in any midrange or aggressive deck it will do good work.",
+		"format": 34,
+		"rator": 2
+	},
+	{
+		"id": 23528,
+		"card": "Biomancer's Familiar",
+		"rating": "2.0 // 3.5",
+		"reason": "In a heavy adapt deck, this card is nuts. Your creatures all get insanely big, and it makes adapting incredibly efficient. I’d run this with even one other adapt creature, and with multiples this will be one of the best cards in your deck. Even in an adapt-light deck, your opponent may kill this just to be safe.",
+		"format": 34,
+		"rator": 2
+	},
+	{
+		"id": 23396,
+		"card": "Blade Juggler",
+		"rating": "3.0",
+		"reason": "I’m a big fan of this—it’s got exactly the qualities I look for in a spectacle card. It’s reasonable to cast straight up, and very good if you spectacle it out. I’d pay 5 for a 3/2 that replaces itself, and at 3 mana this is quite strong.",
+		"format": 34,
+		"rator": 2
+	},
+	{
+		"id": 23397,
+		"card": "Bladebrand",
+		"rating": "2.0",
+		"reason": "I have this a little higher than tricks like these tend to be for a couple of reasons. The first is that it costs 2 instead of the usual 3, which is a real step forward. The second is that spectacle makes the opponent more prone to block, so you’ll have more opportunities to use this, and if you think of this as “sacrifice a creature to kill any creature it’s blocking or blocked by,” it becomes a lot more appealing. Plus, the combo with Dagger Caster is very real, and quite effective.",
+		"format": 34,
+		"rator": 2
+	},
+	{
+		"id": 23398,
+		"card": "Bloodmist Infiltrator",
+		"rating": "2.0",
+		"reason": "Even though Orzhov wants to sacrifice creatures, it isn’t like you have an infinite well to draw from, so this isn’t busted. It is a good finisher, as chunks of 3 damage add up quickly, and in a pinch it can enable spectacle. I’ll play this in creature-heavy aggressive decks, especially with synergies like afterlife or Act of Treason, but it’s not great in control decks.",
+		"format": 34,
+		"rator": 2
+	},
+	{
+		"id": 23513,
+		"card": "Orzhov Locket",
+		"rating": "2.0",
+		"reason": "Lockets get a bad rap. In slower decks, they are often worth a slot, as they help cast expensive spells and can be cracked for a pair of cards later. The non-red ones are better, as the red decks are often lower to the ground, but all of them have their uses.",
+		"format": 34,
+		"rator": 2
+	},
+	{
+		"id": 23341,
+		"card": "Bring to Trial",
+		"rating": "2.5",
+		"reason": "At 3 mana I’m likely to main deck the first copy of this almost every time. You won’t want to run multiples unless the format features a ton of gigantic monsters. I would run as many as you have in Sealed, though.",
+		"format": 34,
+		"rator": 2
+	},
+	{
+		"id": 23423,
+		"card": "Burn Bright",
+		"rating": "1.0",
+		"reason": "I guess you can use this defensively, unlike Trumpet Blast, but that’s not what I’d call a burning change. If your deck has a lot of small creatures, this may be worth a slot, but neither Gruul nor Rakdos really lend themselves to that, so this seems like it doesn’t fit in this format.",
+		"format": 34,
+		"rator": 2
+	},
+	{
+		"id": 23344,
+		"card": "Expose to Daylight",
+		"rating": "1.0",
+		"reason": "As usual, I like sideboarding disenchants in Draft and main decking them in Sealed. This is no different, so I’d recommend choosing wisely when to expose yourself.",
+		"format": 34,
+		"rator": 2
+	},
+	{
+		"id": 23541,
+		"card": "Captive Audience",
+		"rating": "2.5 // 3.5",
+		"reason": "As a 7-drop, not every deck is in the target audience for this, but it’s very strong if you can land it. I’d be looking to splash this in Orzhov control, or perhaps Gruul ramp, more than I would just jam it in Rakdos aggro. One thing to note is that putting the opponent to 4 is an effective threat even out of a control deck, as long as you have a couple creatures hanging around.",
+		"format": 34,
+		"rator": 2
+	},
+	{
+		"id": 23399,
+		"card": "Carrion Imp",
+		"rating": "1.5",
+		"reason": "A 4-mana 2/3 flyer needs a little extra punch to get it over the line, and sometimes gaining 2 isn’t quite it. It’s not a disaster if you end up playing this, but I wouldn’t be thrilled about it either.",
+		"format": 34,
+		"rator": 2
+	},
+	{
+		"id": 23400,
+		"card": "Catacomb Crocodile",
+		"rating": "2.5",
+		"reason": "Douser of Lights wildly overperformed, so don’t be caught sleeping on the Croc. This is a lot of stats, even if they are strangely distributed, and I’m likely running one of these with no complaints. Well, I’ll have complaints, but they won’t be about the Croc.",
+		"format": 34,
+		"rator": 2
+	},
+	{
+		"id": 23424,
+		"card": "Cavalcade of Calamity",
+		"rating": "1.0",
+		"reason": "There are more go-wide payoffs in red than I’d expect, given that there aren’t a ton of enablers. I guess you could go off with Goblins from Goblin Gathering or Spirits from black afterlife cards, but I’m skeptical. Cavalcade of Calamity looks like more trouble than the payoff is worth, as you need a ton of small creatures to make this worth it.",
+		"format": 34,
+		"rator": 2
+	},
+	{
+		"id": 23367,
+		"card": "Chillbringer",
+		"rating": "3.5",
+		"reason": "This card has no chill, despite the name. It’s a large flying threat that locks down the opponent’s best creature for a turn (and stops two turns of blocks), which is awesome in aggressive and control decks alike. Multiples of these stack well, and this looks like one of the best commons in the set.",
+		"format": 34,
+		"rator": 2
+	},
+	{
+		"id": 23493,
+		"card": "Cindervines",
+		"rating": "1.0",
+		"reason": "Cindervines is still a sideboard card, despite the ping effect being somewhat broad. It doesn’t do quite enough without having good targets to kill, so bring this in and treat it as a Naturalize with upside.",
+		"format": 34,
+		"rator": 2
+	},
+	{
+		"id": 23342,
+		"card": "Civic Stalwart",
+		"rating": "2.5",
+		"reason": "The floor on this is pretty high—it’s a 3/3 for 4, which is at least a card. In the best case scenario, it leads to a ton of damage, both via the extra power and the fact that it enables your 2/2s to attack into 3/3s. The more aggressive you are, the better this gets, but it’s a fine playable in your average midrange deck too. It is very important to have a curve to maximize this, so focus on getting good 2s and 3s if you have a couple of Stalwarts.",
+		"format": 34,
+		"rator": 2
+	},
+	{
+		"id": 23425,
+		"card": "Clamor Shaman",
+		"rating": "3.0",
+		"reason": "Clamor Shaman is going to make some noise. This is excellent in any aggressive deck, and heavily pushes you toward choosing the haste mode. If you can clear their only blocker, then next turn have a removal spell to put them down to one blocker again, you probably have won the game. You can even attack with this when they have two blockers, and they will often be forced to block this and let everything else through, which turns into a ton of damage. The only thing holding this back from a 3.5 is that it’s not great in anything but aggro, so if you know you’re going to be aggressive, feel free to take this highly.",
+		"format": 34,
+		"rator": 2
+	},
+	{
+		"id": 23492,
+		"card": "Clan Guildmage",
+		"rating": "3.0",
+		"reason": "Clan Guildmage pushes the spears pretty well, but is somewhat lacking when you don’t have a good offense lined up. That, plus the need to spend mana each turn, makes me less high on this than some of the other Guildmages. Note that the green ability puts your lands at risk, so it’s not just sending in a 4/4 token if you use it.",
+		"format": 34,
+		"rator": 2
+	},
+	{
+		"id": 23368,
+		"card": "Clear the Mind",
+		"rating": "1.0",
+		"reason": "While it may be clear that I’ll try and prevent myself from decking with this, that’s not a game plan I can recommend in good conscience. Maybe you can sideboard this in a control mirror, but for the most part it shouldn’t make it off the bench.",
+		"format": 34,
+		"rator": 2
+	},
+	{
+		"id": 23401,
+		"card": "Clear the Stage",
+		"rating": "3.0",
+		"reason": "If you can’t enable the 4 power part, this becomes much worse, but if it’s on about half the time then I really like the card. Getting a 2-for-1 attached to a kill spell is worthy of applause, and this is well worth spending 5 mana on.",
+		"format": 34,
+		"rator": 2
+	},
+	{
+		"id": 23369,
+		"card": "Code of Constraint",
+		"rating": "3.0",
+		"reason": "Code of Constraint plays as two different cards, and both are good. It’s either a combat trick that offers a 2-for-1, or a way to lock down an opposing creature without losing a card. I like how addendum is used on this card, and I’m happy playing as many copies as I can get.",
+		"format": 34,
+		"rator": 2
+	},
+	{
+		"id": 23527,
+		"card": "Combine Guildmage",
+		"rating": "3.5",
+		"reason": "With these abilities combined, this is a windmill slam. You don’t even need adapt creatures to make it pop, as this provides counters by itself (albeit at a somewhat expensive rate).",
+		"format": 34,
+		"rator": 2
+	},
+	{
+		"id": 23343,
+		"card": "Concordia Pegasus",
+		"rating": "2.5",
+		"reason": "The 2-mana 1/3 flyer is a classic, and tends to be better than it looks. I’m usually in for the first of these, and even two of them are solid if your curve needs to be lower. It just happens that these stats and cost are a good combination, and with all the 1/1 flyers from afterlife, this could be even better than normal.",
+		"format": 34,
+		"rator": 2
+	},
+	{
+		"id": 23402,
+		"card": "Cry of the Carnarium",
+		"rating": "3.0",
+		"reason": "Sweepers can lead to huge blowouts, and this even stops afterlife from working. There are matchups where this will be one of your best cards and matchups where it won’t do a lot, but overall I suspect it’ll be worth a slot. I wouldn’t cry about getting a 1-for-1 either—this doesn’t have to kill three things to be good.",
+		"format": 34,
+		"rator": 2
+	},
+	{
+		"id": 23540,
+		"card": "Cult Guildmage",
+		"rating": "3.5",
+		"reason": "I’m a fan of this Guildmage, and not even because I was forced to watch the performance. It enables spectacle cheaply, chips at the opponent’s life total, and in a longer game, can get card advantage from the black ability. That’s a nice combination of options, making this one of the better Guildmages.",
+		"format": 34,
+		"rator": 2
+	},
+	{
+		"id": 23426,
+		"card": "Dagger Caster",
+		"rating": "3.5",
+		"reason": "Dagger Caster is great to begin with, but there are a couple of ways to make it one of the best cards in your deck. The easiest is Bladebrand, as this is a two-card combo that wipes the opponent’s board. It’s a really strong pairing and both cards are fine on their own, which makes me think this is worth speculating on for that alone. This does good work on its own, as it can pick off x/1s and give you good attacks, where you send in 2/2s into 3/3s and whatnot. I’m pretty high on Dagger Caster, and suspect the Bladebrand dream is real enough that it will be an early pick.",
+		"format": 34,
+		"rator": 2
+	},
+	{
+		"id": 23403,
+		"card": "Dead Revels",
+		"rating": "2.5",
+		"reason": "I want exactly one Dead Revels in most of my decks, and I can even see playing two if my deck is particularly creature-heavy and aggressive. At 4 cost, this is acceptable, and it’s a great deal at 2, making it exactly the kind of spectacle card I’m in for.",
+		"format": 34,
+		"rator": 2
+	},
+	{
+		"id": 23404,
+		"card": "Debtors' Transport",
+		"rating": "1.5",
+		"reason": "The games where you trade Debtors’ Transport for a 4+ drop and get two tokens, it’ll seem great. The ones where it gets bounced or Arrested less so. Overall this is a fine way to top out your curve, but you can ideally do better.",
+		"format": 34,
+		"rator": 2
+	},
+	{
+		"id": 23427,
+		"card": "Deface",
+		"rating": "1.0",
+		"reason": "This looks like sideboard material to me. Every now and then, the opponent will have 3+ targets, at which point this is worth bringing in (it is very efficient if you can cast it).",
+		"format": 34,
+		"rator": 2
+	},
+	{
+		"id": 23479,
+		"card": "Deputy of Detention",
+		"rating": "3.5",
+		"reason": "Deputy of Detention handles anything you are worried about, and can even snipe multiples from time to time. That’s a great deal for 3 mana, and this is one of the best Azorius removal spells around.",
+		"format": 34,
+		"rator": 2
+	},
+	{
+		"id": 23491,
+		"card": "Domri, Chaos Bringer",
+		"rating": "3.5",
+		"reason": "Domri is good as long as he has some backup. So much for that Gruul independence, eh? Finding and playing a stream of hasty/large creatures is powerful, so try and stay ahead on board, and Domri will deliver.",
+		"format": 34,
+		"rator": 2
+	},
+	{
+		"id": 23526,
+		"card": "Frilled Mystic",
+		"rating": "3.0",
+		"reason": "Here the mana cost is a much greater drawback than normal. When you have a counterspell, you need to have it on specific turns, and Frilled Mystic will sometimes be staring at you while you have three Forests and an Island in play. That said, countering their spell is a sick 2-for-1 that leaves you with a 3/2 in play, so I’d be frilled to have this in any Simic deck. Later in the Draft, if you have 3+ Simic Gates, this probably deserves a flat 3.5.",
+		"format": 34,
+		"rator": 2
+	},
+	{
+		"id": 23477,
+		"card": "Dovin's Acuity",
+		"rating": "2.5",
+		"reason": "Information Campaign is the only thing I’m ever calling this, and it’s pretty sweet. It won’t fit into all decks, but in a deck with 5+ instants that you don’t mind mainphasing, it does do some good work. The 2 life buys you the time to use those extra cards, and Dovin’s Acuity sets you up well for the late game. It’s also too accurate that Disinformation Campaign trumps Information Campaign, but that is how the world works.",
+		"format": 34,
+		"rator": 2
+	},
+	{
+		"id": 23515,
+		"card": "Rakdos Locket",
+		"rating": "1.5",
+		"reason": "Lockets get a bad rap. In slower decks, they are often worth a slot, as they help cast expensive spells and can be cracked for a pair of cards later. The non-red ones are better, as the red decks are often lower to the ground, but all of them have their uses.",
+		"format": 34,
+		"rator": 2
+	},
+	{
+		"id": 23478,
+		"card": "Dovin, Grand Arbiter",
+		"rating": "4.0",
+		"reason": "Dovin can run away with a game quickly, and gets a high rating as a result. There are definitely times when this makes one Thopter and gains you 2 life, but that’s balanced by the times when you play this on the play and the opponent can’t stop you from making a million Thopters. I put a high premium on cards that can dominate the game single-handedly, and Dovin can do that.",
+		"format": 34,
+		"rator": 2
+	},
+	{
+		"id": 23405,
+		"card": "Drill Bit",
+		"rating": "1.5",
+		"reason": "You need to be able to reliably pay 1 mana for this to be worth a main deck slot. Paying 3 mana for this effect is only good in specific matchups (mostly control mirrors, or against a deck with a high-impact finisher), and I would be a bit unhappy to play it main deck most of the time.",
+		"format": 34,
+		"rator": 2
+	},
+	{
+		"id": 23428,
+		"card": "Electrodominance",
+		"rating": "4.0",
+		"reason": "This card lives up to its name. I’m actually a little cooler on X-spells than most people because Limited is fast enough these days that they aren’t deal-10s, but Electrodominance gives you such a tempo boost that I’m into it. Casting this with X at 4+ isn’t that hard, and can kill one of their threats plus drop a midsized threat of your own. That’s good enough for me, and sometimes this will do a ludicrous amount of damage. Instant speed also leads to ambush possibilities, which is a nice bonus.",
+		"format": 34,
+		"rator": 2
+	},
+	{
+		"id": 23464,
+		"card": "Gatebreaker Ram",
+		"rating": "1.0 // 3.0",
+		"reason": "I’m loving these Gate payoffs. Outside the dedicated Gate deck this is wildly unplayable, but once you hit 6-7+ Gates it gets pretty broken. All you need is a 4/4 and you’re in the money, with anything past that being awesome. The Gate deck doesn’t need finishers all that badly, but this is still a nice pickup once you’re doing the thing.",
+		"format": 34,
+		"rator": 2
+	},
+	{
+		"id": 23505,
+		"card": "Ethereal Absolution",
+		"rating": "5.0",
+		"reason": "I have this as the best card in the set right now. There are some giant monsters that look powerful, but this is just so hard to interact with. It kills all their X/1s, makes your creatures 2points of stats better relative to their creatures, and even pumps out 1/1 (that are actually 2/2) flyers. This card just seems absurd, and impossible to beat unless you’re overwhelmingly behind when you play it. I’d slam this, splash for it, whatever it takes—it’s unbelievably good.",
+		"format": 34,
+		"rator": 2
+	},
+	{
+		"id": 23476,
+		"card": "Emergency Powers",
+		"rating": "1.0 // ??",
+		"reason": "My starting position is that this card is not good. It costs a lot of mana and is mostly symmetrical, and isn’t great if you’re behind (which you’re more likely to be if you have a 7-drop rotting in your hand). That said, you can put something large into play or cast Emergency Powers at the end of the opponent’s turn, and both of those break the symmetry somewhat. I suspect this isn’t a card you want to play, but some strange control decks may be able to make use of it.",
+		"format": 34,
+		"rator": 2
+	},
+	{
+		"id": 23465,
+		"card": "Enraged Ceratok",
+		"rating": "3.5",
+		"reason": "4/4 for 4 is above the curve enough to be appealing, and the fact that Enraged Ceratok gets around chump blocks or double-blocks by small creatures is relevant too. That makes this a premium uncommon, and a card any deck will be interested in.",
+		"format": 34,
+		"rator": 2
+	},
+	{
+		"id": 23371,
+		"card": "Essence Capture",
+		"rating": "2.5",
+		"reason": "See, this captures the essence instead of just scattering it! The casting cost is obviously the issue here, as the card is quite powerful. A 2-mana counter that buffs one of your units and has +1/+1 counter synergies is great, but UU means you won’t be able to cast this turn 2 some of the time, and that’s a big hit. Once you’re looking at 9+ blue sources, I’d bump this up a little, but early in the Draft I wouldn’t prioritize it.",
+		"format": 34,
+		"rator": 2
+	},
+	{
+		"id": 23372,
+		"card": "Eyes Everywhere",
+		"rating": "1.0",
+		"reason": "I don’t think Eyes Everywhere is particularly good. It costs a lot of mana to steal a creature, and leaves the opponent with a permanent scry 1 each turn. If the opponent has blue mana, things get worse, as they might start swapping this back and forth. That can lead to a weird lock where that’s all players do, but even then I don’t think this is really a card you want in your deck. If your opponent has insane creatures you can’t deal with and isn’t playing blue, maybe this is a sideboard card, but I’m not really going to be keeping an eye on this one.",
+		"format": 34,
+		"rator": 2
+	},
+	{
+		"id": 23373,
+		"card": "Faerie Duelist",
+		"rating": "3.0",
+		"reason": "I like this little guy (though he’d probably poke me for saying that). You can win combats when your 2/2 or 3/3 runs into theirs, and on defense flashing this in and double blocking lets you take down something bigger (sometimes without losing anything). Having a 1/2 flyer as a leftover isn’t bad, and I think this pesky bug will be a solid playable.",
+		"format": 34,
+		"rator": 2
+	},
+	{
+		"id": 23429,
+		"card": "Feral Maaka",
+		"rating": "1.5",
+		"reason": "It’s not a catastrophe if you have to run this, but it sure isn’t good. 2/2s for 2 with no abilities don’t quite maaka the cut these days.",
+		"format": 34,
+		"rator": 2
+	},
+	{
+		"id": 23504,
+		"card": "Final Payment",
+		"rating": "3.0",
+		"reason": "The first Final Payment\r\n(which is a phrase that sounds off) is quite good. The cost goes up as you try and cast more of them, but having one will be excellent. If you’ve got a lot of afterlife cards, you can afford multiples, so keep that in mind before going into debt.",
+		"format": 34,
+		"rator": 2
+	},
+	{
+		"id": 23430,
+		"card": "Gates Ablaze",
+		"rating": "1.0 // 3.5",
+		"reason": "I love this as a Gate deck payoff. In a deck with 4 or fewer Gates, Gates Ablaze is unplayable, and it’s only OK if you have 5-6 Gates. Once you get to 7+ this becomes awesome, and does exactly what a slow Gate deck wants. I’m looking forward to lighting people up with this one.",
+		"format": 34,
+		"rator": 2
+	},
+	{
+		"id": 23539,
+		"card": "Fireblade Artist",
+		"rating": "3.0",
+		"reason": "Fireblade Artist\r\nfits very neatly into Rakdos’s strategy, and is efficient enough to always make the cut. It’s a shame this doesn’t work with Act of Treason\r\n due to the timing of the sacrifice, but this still pressures the opponent effectively. If you have this, black afterlife cards should go up in your pick order.",
+		"format": 34,
+		"rator": 2
+	},
+	{
+		"id": 23463,
+		"card": "Gift of Strength",
+		"rating": "2.0",
+		"reason": "I wouldn’t call this a gift—it’s a run-of-the-mill trick that you’ll play if you have a slot for it. Reach opens up ambushing possibilities, which does add a little more flying defense at no cost.",
+		"format": 34,
+		"rator": 2
+	},
+	{
+		"id": 23406,
+		"card": "Font of Agonies",
+		"rating": "0.0 // 1.5",
+		"reason": "This is a build-around, and a pretty narrow one at that. You need 3-4 life payment cards before this even enters the equation, and even then it doesn’t seem all that great.",
+		"format": 34,
+		"rator": 2
+	},
+	{
+		"id": 23531,
+		"card": "Footlight Fiend",
+		"rating": "2.5",
+		"reason": "From what I’ve seen, most Rakdos decks will be fiending for this, and it also fits nicely into Orzhov. I’m a little less high on this in Gruul decks, but it’s cheap and flexible, so it’s not the worst even there. This trades for 2/2s, forces spectacle through, and plays nicely with sacrifice effects. That’s a lot for 1 mana, and I like this little guy as a result.",
+		"format": 34,
+		"rator": 2
+	},
+	{
+		"id": 23345,
+		"card": "Forbidding Spirit",
+		"rating": "3.0",
+		"reason": "In a close race this will often gain you a good amount of life (or force the opponent to take a turn off of playing spells). That’s good text on a 3/3 for 3, making this a solid addition to any white deck, whether it’s aggressive or controlling.",
+		"format": 34,
+		"rator": 2
+	},
+	{
+		"id": 23490,
+		"card": "Frenzied Arynx",
+		"rating": "3.5",
+		"reason": "Frenzied Arynx is a pushed common. It’s either a 3/3 haste or 4/4, both of which have trample, and in case that wasn’t enough, this has a pump ability. That is a ton of rate and abilities, making me think this got moved from uncommon at some point in the process. Either way, I’m in a frenzy thinking about getting decks with two or three of these, as they are huge threats at any point in the game. You mostly want this as a 4/4, but there are definitely games where the haste mode is better.",
+		"format": 34,
+		"rator": 2
+	},
+	{
+		"id": 23525,
+		"card": "Galloping Lizrog",
+		"rating": "3.0",
+		"reason": "Much like the other Simic cards, how good Galloping Lizrog is highly depends on how many +1/+1 counters you can assemble. It’s a great payoff, as a 7/7 trample (or greater) is a lot, so if you have 4-5 cards with counters this can be a real beating. I am a little tilted that a card with the name “Galloping” doesn’t have haste, but that’s a minor issue.",
+		"format": 34,
+		"rator": 2
+	},
+	{
+		"id": 23511,
+		"card": "Gate Colossus",
+		"rating": "1.0 // 3.0",
+		"reason": "Unplayable without Gates, and quite strong with 5+ (ideally 6 or 7), this is exactly the kind of card I love. It’s the perfect finisher for the Gates deck, and a card nobody else is likely to want.",
+		"format": 34,
+		"rator": 2
+	},
+	{
+		"id": 23374,
+		"card": "Gateway Sneak",
+		"rating": "2.5 // 3.5",
+		"reason": "This is a build-around, but an extreme one. I’d play this in any deck with even two Gates, as a 1/3 that draws a card on damage makes all your bounce and removal spells very dangerous. Once you have 5+ Gates it becomes a sick threat and can take over a game with ease. Don’t assume only the Gate deck wants this—it’ll go quickly in most any Draft.",
+		"format": 34,
+		"rator": 2
+	},
+	{
+		"id": 23538,
+		"card": "Get the Point",
+		"rating": "3.0",
+		"reason": "I feel like I can’t even make a joke about the name here because the card itself already does that. Either way, it’s a good removal spell with a nice little scry 1 attached, making it a card I’ll always play and often splash for.",
+		"format": 34,
+		"rator": 2
+	},
+	{
+		"id": 23431,
+		"card": "Goblin Gathering",
+		"rating": "1.5 // 2.5",
+		"reason": "By itself, Goblin Gathering is a little below rate. Not a ton, so it’s not a disaster if you have to run one, but definitely not exciting. Once you have 3+, Goblin Gathering becomes the real deal, and even gives you a reason to run some of the go-wide payoffs. I don’t think this is a huge build-around, but it’s a nice bit of extra action for a common.",
+		"format": 34,
+		"rator": 2
+	},
+	{
+		"id": 23503,
+		"card": "Grasping Thrull",
+		"rating": "3.5",
+		"reason": "I’ve been impressed by Grasping Thrull\r\n. A 3/3 flyer for 5 doesn’t need a whole lot more to be good, and a 2-point drain life certainly gets it there. This applies pressure quickly, helps when you’re behind, and is a 5-drop I’d play as many copies of as I could get.",
+		"format": 34,
+		"rator": 2
+	},
+	{
+		"id": 23407,
+		"card": "Grotesque Demise",
+		"rating": "3.0",
+		"reason": "Clean, efficient removal that gets around afterlife? Sign me up.",
+		"format": 34,
+		"rator": 2
+	},
+	{
+		"id": 23524,
+		"card": "Growth Spiral",
+		"rating": "2.0",
+		"reason": "There’s nothing wrong with Growth Spiral, but it’s rarely going to be a critical part of your deck. Needing exactly blue and green on turn 2 to ramp is a constraint, even if it is nice that your ramp card cycles in the late game.",
+		"format": 34,
+		"rator": 2
+	},
+	{
+		"id": 23462,
+		"card": "Gruul Beastmaster",
+		"rating": "3.0",
+		"reason": "Gruul Beastmaster puts a ton of power into play, especially if you have time to play it as a 3/3 and wait a turn. It works nicely with pump spells, even if you have to play them before attacking, and thrashes anyone who doesn’t have a solid defense set up. I’d mostly want to play this as a 3/3, but it’s pretty context-dependent—if you have the opportunity to get a nice shot in, then go for it.",
+		"format": 34,
+		"rator": 2
+	},
+	{
+		"id": 23516,
+		"card": "Gruul Locket",
+		"rating": "1.5",
+		"reason": "Lockets get a bad rap. In slower decks, they are often worth a slot, as they help cast expensive spells and can be cracked for a pair of cards later. The non-red ones are better, as the red decks are often lower to the ground, but all of them have their uses.",
+		"format": 34,
+		"rator": 2
+	},
+	{
+		"id": 23349,
+		"card": "Knight of Sorrows",
+		"rating": "2.0",
+		"reason": "To my great sorrow, you can only play so many 5-drops in your deck. That said, this is a good one, as it will often trade off and net you a 1/1 in the process. It’s also a nice last-ditch defender, as it can step in front of two huge monsters and buy you a ton of time.",
+		"format": 34,
+		"rator": 2
+	},
+	{
+		"id": 23489,
+		"card": "Gruul Spellbreaker",
+		"rating": "3.5",
+		"reason": "Gruul Spellbreaker is an elegant way to stop Settle the Wreckage\r\nin Constructed, or at least an effective way. In Limited, this is a beater, and I’d happily play it on stats alone. It’s mostly just a 3-mana 4/4 trample, which spells broken to me.",
+		"format": 34,
+		"rator": 2
+	},
+	{
+		"id": 23461,
+		"card": "Guardian Project",
+		"rating": "3.5",
+		"reason": "I may just be projecting, but wow does this card look good. It’s like a Beast Whisperer that is almost unkillable, and all it asks is that you don’t run a bunch of duplicates. That’s not a big ask, and it doesn’t even stop working if you have a duplicate—you just miss out on one card. I like Guardian Project a lot, and think it’ll be a very powerful engine.",
+		"format": 34,
+		"rator": 2
+	},
+	{
+		"id": 23408,
+		"card": "Gutterbones",
+		"rating": "3.0",
+		"reason": "The difference between entering tapped and being unable to block is huge in Limited, and it makes this a much more useful card. You can trade it off and get it back without too much trouble, and it’s efficient enough that you don’t even need to return it to get your money’s worth. I’d play this in midrange decks happily—you don’t need to be a beatdown deck to want Ol’ Gutterbones.",
+		"format": 34,
+		"rator": 2
+	},
+	{
+		"id": 23523,
+		"card": "Gyre Engineer",
+		"rating": "3.0",
+		"reason": "If this survives, it’s awesome. Tapping for 2 mana is essentially card advantage, and Simic has a lot of great mana sinks to make use of this. It is small enough to get picked off easily but I’m in for Sol Rings, even ones that cost 3 mana.",
+		"format": 34,
+		"rator": 2
+	},
+	{
+		"id": 23346,
+		"card": "Haazda Officer",
+		"rating": "1.5",
+		"reason": "I’m not a huge fan of 3/2s for 3, as they trade down in combat too often for my liking. Pumping a creature makes this a little more appealing, but it’s still not enough to make it more than a filler.",
+		"format": 34,
+		"rator": 2
+	},
+	{
+		"id": 23500,
+		"card": "Knight of the Last Breath",
+		"rating": "2.0",
+		"reason": "This doesn’t cast Last Breath\r\nnor can it die to it. I call shenanigans. Knight of the Last Breath\r\nis expensive, and quite vulnerable to bounce and exile effects. It is nice that afterlife 3 punishes a lot of removal, and the activated ability here is a strong one. I like this as a control finisher, but sideboard it out if your opponent has answers that don’t kill it.",
+		"format": 34,
+		"rator": 2
+	},
+	{
+		"id": 23537,
+		"card": "Hackrobat",
+		"rating": "3.0",
+		"reason": "Rakdos loves their pun names, huh? Seems a little too clever by half for this guild, but I guess I’ll roll with it. Hackrobat\r\nis an effective combatant, as it can trade with anything and beats 2/x creatures in a fight thanks to deathtouch. The spectacle cost isn’t a huge discount, but every now and then it’ll be a nice bonus.",
+		"format": 34,
+		"rator": 2
+	},
+	{
+		"id": 23347,
+		"card": "Hero of Precinct One",
+		"rating": "3.5",
+		"reason": "It’s funny that a lowly Precinct Captain beats a Hero, but I’m still happy to play this whenever I can get it. It won’t be hard to make a couple of tokens over the course of the game, and once you get the first one you are already profiting well. This does lend itself to an aggressive deck, but even in a control deck it’s going to be a solid performer, as you can use it to generate a stream of chump blockers.",
+		"format": 34,
+		"rator": 2
+	},
+	{
+		"id": 23475,
+		"card": "High Alert",
+		"rating": "1.0 // 2.0",
+		"reason": "High Alert is unplayable in most decks and doesn’t even seem that great if you build around it. It does buff some of your Azorius creatures, but spending a card on that and having it only work on a subset of creatures isn’t where I want to be. Maybe I’ll change my mind once someone makes the three Concordia Pegasus + three Knight-Arbiter deck, but I’m not sold right now.",
+		"format": 34,
+		"rator": 2
+	},
+	{
+		"id": 23375,
+		"card": "Humongulus",
+		"rating": "1.5",
+		"reason": "There aren’t a ton of enticing Auras, which makes me a lot less inclined to run the Humongulus (great name notwithstanding). Against a ground-based aggro deck with more removal and fewer pump spells, this can be a great sideboard card, and it can (eventually) kill a control deck if need be. It’s filler, but filler that does at least have high upside.",
+		"format": 34,
+		"rator": 2
+	},
+	{
+		"id": 23522,
+		"card": "Hydroid Krasis",
+		"rating": "4.5",
+		"reason": "I’m for being well-Hydroided, and this really does the trick. At 6 mana, it gives you a 4/4 flying trample that draws two cards and gains 4 life, which is a card I’d already give a 4.0. This is even more flexible than that, and can be cast for larger and larger amounts. This is a splashable bomb, and you should almost always take it when you have the option to do so.",
+		"format": 34,
+		"rator": 2
+	},
+	{
+		"id": 23432,
+		"card": "Immolation Shaman",
+		"rating": "3.0",
+		"reason": "A 1/3 is a little dorky, and I don’t think the triggered ability comes up all that often. Later in the game, this does get to hit for solid amounts of damage, and a 4/6 is big enough that I’ll always run this.",
+		"format": 34,
+		"rator": 2
+	},
+	{
+		"id": 23348,
+		"card": "Impassioned Orator",
+		"rating": "2.5",
+		"reason": "There are a lot of good bears in this set, and this one is giving out free hugs. You don’t need a token or life gain theme to run this—as long as you have a decent amount of creatures you’ll be happy.",
+		"format": 34,
+		"rator": 2
+	},
+	{
+		"id": 23502,
+		"card": "Imperious Oligarch",
+		"rating": "3.0",
+		"reason": "Imperious Oligarch\r\nis a really sweet 2-drop. It always provides value, and vigilance means that it can hit for 2 a turn while still defending you, which is relevant on a creature the opponent won’t want to trade with. You don’t have to do anything special to make this good, and it delivers in any style of Orzhov deck.",
+		"format": 34,
+		"rator": 2
+	},
+	{
+		"id": 23460,
+		"card": "Incubation Druid",
+		"rating": "3.5",
+		"reason": "I’m tempted to give Incubation Druid a 4.0, but drawing it late game isn’t quite impressive enough. This does do a ton if you draw it early, and once you adapt it, you have all the mana you could ever need. You also get a 3/5 body out of the deal, which is pretty great considering you already got value from the mana ramp.",
+		"format": 34,
+		"rator": 2
+	},
+	{
+		"id": 23510,
+		"card": "Junktroller",
+		"rating": "1.0",
+		"reason": "This is junk, and for once I’m not trolling you. Technically it stops you from decking, but most of the time that isn’t particularly worth a card.",
+		"format": 34,
+		"rator": 2
+	},
+	{
+		"id": 23501,
+		"card": "Kaya's Wrath",
+		"rating": "4.0",
+		"reason": "The cost is a little rough for a card you really want to be able to cast on turn 4, but this is still a powerful card that fits nicely into Orzhov’s strategy. It leaves you with some afterlife tokens, and often the opponent will have to overextend into your afterlife cards to begin with. That’s a lot of action on a card that already has a strong text box, and I’d take Kaya’s Wrath\r\nearly and try to build a control deck.",
+		"format": 34,
+		"rator": 2
+	},
+	{
+		"id": 23474,
+		"card": "Lavinia, Azorius Renegade",
+		"rating": "1.0",
+		"reason": "Lavinia, Azorius Renegade is a hard-to-cast bear in Limited, and that’s about the end of it. Neither ability is likely to ever come up, so only play this if you want a 2/2 for 2.",
+		"format": 34,
+		"rator": 2
+	},
+	{
+		"id": 23473,
+		"card": "Lawmage's Binding",
+		"rating": "3.5",
+		"reason": "Instant-speed unconditional removal for 3 mana is a steal, and this even shuts off activated abilities. Lawmage’s Binding\r\nis a premium common, and one of the best reasons to start off in Azorius.",
+		"format": 34,
+		"rator": 2
+	},
+	{
+		"id": 23350,
+		"card": "Lumbering Battlement",
+		"rating": "4.0",
+		"reason": "This card is awesome in both form and function. It’s an enormous beast for 5 mana, and if the opponent does kill it, you might get some nice ETB triggers. The biggest risk with this is a Pacifism effect, as you lose the Battlement and all of its passengers.",
+		"format": 34,
+		"rator": 2
+	},
+	{
+		"id": 23499,
+		"card": "Mortify",
+		"rating": "3.5",
+		"reason": "This is premium removal, and I wouldn’t be embarrassed to splash it either. Taking out enchantments is a nice touch, as killing Lawmage’s Binding\r\nmidcombat can lead to a nice 2-for-1.",
+		"format": 34,
+		"rator": 2
+	},
+	{
+		"id": 23536,
+		"card": "Macabre Mockery",
+		"rating": "1.5",
+		"reason": "This either functions as a burn spell or a defensive play, which is kind of a strange combination. I like this more out of the sideboard, as it can be very strong against creatures with ETB abilities or evasion, but you won’t know that until you’ve seen your opponent’s deck.",
+		"format": 34,
+		"rator": 2
+	},
+	{
+		"id": 23459,
+		"card": "Mammoth Spider",
+		"rating": "3.0",
+		"reason": "After how good Mammoth Spider was in Dominaria, and seeing that both Orzhov and Azorious have a lot of flyers, I’m giving this a flat 3. You’ll play multiples of these, and be happy to do so.",
+		"format": 34,
+		"rator": 2
+	},
+	{
+		"id": 23376,
+		"card": "Mass Manipulation",
+		"rating": "3.0 // 4.0",
+		"reason": "The split ratings here are to convey how good this is in a normal blue deck versus how good this is in a deck built for the late game. Paying 6 mana (4 of which is blue) to steal one creature is still pretty good, and most decks can swing that as long as you play like 10 Islands. Where this becomes a flat-out bomb is when you make a ramp/control deck with a lot of defensive measures, and reliably can cast this to take two creatures. That’s almost impossible to beat, and a very big incentive to build such a deck.",
+		"format": 34,
+		"rator": 2
+	},
+	{
+		"id": 23377,
+		"card": "Mesmerizing Benthid",
+		"rating": "4.0",
+		"reason": "I, for one, am mesmerized. Even if you discount my soft spot for octopi, this card is just a beating. A 4/5 hexproof for 5 with upside is awesome, and the Illusions give you a lot of breathing room. You’ll often want to chump with one and conserve the other, just so hexproof sticks around, but no matter how you use this it will be great.",
+		"format": 34,
+		"rator": 2
+	},
+	{
+		"id": 23351,
+		"card": "Ministrant of Obligation",
+		"rating": "3.5",
+		"reason": "I really like this card. I’m not obliged to like everything that provides card advantage, but I do like this one. It trades off and leaves you with a substantial board presence, and combines nicely with sacrifice effects if your opponent isn’t cooperating to kill it.",
+		"format": 34,
+		"rator": 2
+	},
+	{
+		"id": 23433,
+		"card": "Mirror March",
+		"rating": "0.0",
+		"reason": "I’m not into this. You pay a big up-front cost, and you don’t get a permanent advantage unless you trigger a bunch of ETB abilities. The coin-flipping part adds some spice, but if you assume Mirror March makes one token on average, that’s close enough for evaluation purposes (and makes this clearly not good enough).",
+		"format": 34,
+		"rator": 2
+	},
+	{
+		"id": 23488,
+		"card": "Nikya of the Old Ways",
+		"rating": "4.0",
+		"reason": "The asterisk there indicates that some decks just can’t play this card. If you have Nikya, I’d look to play 2-4 spells max, and hope you can use them in the early game. This effect is super powerful, and I think very good. Turn 5 Nikya, turn 6 dump your hand of creatures is a nice play pattern, and it isn’t like the opponent can ignore a 5/5 either, so you will unlock your spells. I could see Nikya being an even bigger bomb, deckbuilding constraints and all. Note that you can use the extra mana on adapt, which is absurd too.",
+		"format": 34,
+		"rator": 2
+	},
+	{
+		"id": 23409,
+		"card": "Noxious Groodion",
+		"rating": "2.5",
+		"reason": "I’m glad there aren’t seven deathtouch creatures at common this time around—that was obnoxious. This will do a good job blocking against Gruul or Simic, and can get in to threaten spectacle nonsense in Rakdos.",
+		"format": 34,
+		"rator": 2
+	},
+	{
+		"id": 23389,
+		"card": "Swirling Torrent",
+		"rating": "3.0",
+		"reason": "At 6 mana, this looks expensive, but I still think it’s a good deal. You’re bouncing more than 6 mana worth of creatures most of the time, and putting one on top means you aren’t down a card either. I like this in any style of deck, though it’s at its best in aggro.",
+		"format": 34,
+		"rator": 2
+	},
+	{
+		"id": 23458,
+		"card": "Open the Gates",
+		"rating": "1.5",
+		"reason": "The only time I’d recommend playing Open the Gates is when you are 3+ colors or if your deck wants 10+ Forests and has double-green cards. Playing a fixer that requires green to start only helps when you have a lot of green sources, a need to get Gates, or your 3rd/4th/5th color. The fail case I’m worried about is drawing this and two Mountains in your red-green decks, which is very bad.",
+		"format": 34,
+		"rator": 2
+	},
+	{
+		"id": 23410,
+		"card": "Orzhov Enforcer",
+		"rating": "3.0",
+		"reason": "I really like this card, and it’s on the verge of getting a 3.5. It’s just so efficient, and often trades up in mana and leaves you with a 1/1 flyer. It’s good in aggro spectacle decks or anything defensive, and the rate is high enough that I’ll always play it.",
+		"format": 34,
+		"rator": 2
+	},
+	{
+		"id": 23544,
+		"card": "Orzhov Racketeers",
+		"rating": "3.0",
+		"reason": "Even though this is a little expensive, it presents the opponent with a difficult choice: they either let it through and are down a card, or trade and give you two 1/1 flyers. If you can remove blockers, it runs away with the game, and even without any additional work it will often lead to a favorable exchange.",
+		"format": 34,
+		"rator": 2
+	},
+	{
+		"id": 23411,
+		"card": "Pestilent Spirit",
+		"rating": "3.5",
+		"reason": "Giving your spells deathtouch is neat, even if it won’t come up all that often. I suppose a Rakdos deck could end up killing giant things with burn spells, which is a nice little bonus. What I’m most interested in is a 3/2 menace with deathtouch, as that’s a great deal for 3 mana. I’d look to skew aggressive here, as forcing the opponent to double-block is incredible value.",
+		"format": 34,
+		"rator": 2
+	},
+	{
+		"id": 23498,
+		"card": "Pitiless Pontiff",
+		"rating": "3.0",
+		"reason": "Pontiff\r\ngives you the ability to trade your worst creature for whatever is battling against this, and gives you a sacrifice outlet if you ever want to cash in an afterlife creature or trigger any other death ability. That’s a lot of action for 2 mana, and I’m always happy running this one.",
+		"format": 34,
+		"rator": 2
+	},
+	{
+		"id": 23365,
+		"card": "Watchful Giant",
+		"rating": "1.5",
+		"reason": "While this is a fine deal for 6 mana, there just isn’t a pressing need to pick 6-drops early, and I suspect this will be pretty replaceable. I still like one at the top of the curve, so if you’re lacking you can bump up the rating later in the Draft.",
+		"format": 34,
+		"rator": 2
+	},
+	{
+		"id": 23412,
+		"card": "Plague Wight",
+		"rating": "2.0",
+		"reason": "Plague Wight only works on offense, unlike Ornery Goblin, and is a solid little attacker as a result. It also walks right past Spirit tokens, putting it in the ideal spot to try and get spectacle going.",
+		"format": 34,
+		"rator": 2
+	},
+	{
+		"id": 23378,
+		"card": "Precognitive Perception",
+		"rating": "3.0",
+		"reason": "Drawing three and scrying three sets up your long game quite nicely. This isn’t cheap, but if you can stabilize this will win you the game in short order. I’d mostly recommend playing this main phase, but if you have a bunch of counterspells and tricks, you may end up playing it at instant speed.",
+		"format": 34,
+		"rator": 2
+	},
+	{
+		"id": 23413,
+		"card": "Priest of Forgotten Gods",
+		"rating": "1.0 // 3.0",
+		"reason": "Because of the steep cost, you can’t just throw Priest of Forgotten Gods in your deck, but it’s a potent engine when it works. Sacrificing two creatures is big, but you get a card and your opponent sacrifices a creature, plus you get 2 mana and drain them for 2. That adds up to a lot, and I’d look to be an afterlife-heavy Orzhov deck if I saw this early. This is a build-around worth remembering.",
+		"format": 34,
+		"rator": 2
+	},
+	{
+		"id": 23521,
+		"card": "Prime Speaker Vannifar",
+		"rating": "3.5",
+		"reason": "While you aren’t going to get to go off like with Birthing Pod, Vannifar still gives you a solid edge over the course of the game. You need to remember exactly what creatures are left in your deck, which is easier to do online, but upgrading your creatures by 1 mana is worth it. Plus, this impacts the board nicely, and is not easy to kill. If I had a Prime Speaker, I’d change my pick order a little, as this is a real payoff for having a Pod curve.",
+		"format": 34,
+		"rator": 2
+	},
+	{
+		"id": 23352,
+		"card": "Prowling Caracal",
+		"rating": "1.5",
+		"reason": "In a world of 1/1 flyers, a 3/1 seems particularly poorly-positioned. We all knew cats were worse than dogs, and in this set, they are worse than bears too.",
+		"format": 34,
+		"rator": 2
+	},
+	{
+		"id": 23379,
+		"card": "Prying Eyes",
+		"rating": "1.5",
+		"reason": "While I love taking the opportunity to draw four, this costs enough mana and requires discarding, making it a niche control card more than a card I’d happily take early. Most decks just aren’t in the market to pay 6 mana and not affect the board, even if it’s an effect I like building around.",
+		"format": 34,
+		"rator": 2
+	},
+	{
+		"id": 23380,
+		"card": "Pteramander",
+		"rating": "3.0",
+		"reason": "I like Pteramander, even if you aren’t going to activate it for much less than 5 or 6. I’m still in for a flying man that eventually turns into a Dragon, and if you have a five or six spells in your deck, that’s enough to adapt by the time you hit 6 mana.",
+		"format": 34,
+		"rator": 2
+	},
+	{
+		"id": 23535,
+		"card": "Rafter Demon",
+		"rating": "1.5",
+		"reason": "Neither mode on Rafter Demon is especially exciting, which makes this filler more than anything else. A 4-mana 4/2 is a bad deal, and a 5-mana 4/2 plus a discard is a little better, but it does take work to set up. I’m not impressed.",
+		"format": 34,
+		"rator": 2
+	},
+	{
+		"id": 23534,
+		"card": "Rakdos Firewheeler",
+		"rating": "4.0",
+		"reason": "Firewheeler\r\nis a huge beating, even if it’s hard to cast. It eats a creature, pings them for 2, and leaves you with a 4/3 body in return. That’s a ton of action for 4 mana, and this is easily the best ofthe cycle.",
+		"format": 34,
+		"rator": 2
+	},
+	{
+		"id": 23533,
+		"card": "Rakdos Roustabout",
+		"rating": "3.0",
+		"reason": "Rakdos decks seem pretty into this. A 3/2 for 3 is a little below the curve, but adding the ability to guarantee spectacle and getting extra damage through is enough to make this an always-run. Like many of the other Rakdos cards, this also plays nicely with combat tricks since the opponent will probably want to block it.",
+		"format": 34,
+		"rator": 2
+	},
+	{
+		"id": 23414,
+		"card": "Rakdos Trumpeter",
+		"rating": "2.5",
+		"reason": "The activated ability here is expensive, but a 1/3 menace for 2 is a great way to get spectacle going. That makes the firebreathing ability more of a bonus than anything else, and aggro decks will be happy to get their hands on Rakdos Trumpeter.",
+		"format": 34,
+		"rator": 2
+	},
+	{
+		"id": 23532,
+		"card": "Rakdos, the Showstopper",
+		"rating": "4.5",
+		"reason": "While there aren’t a ton of other Demons, Devils, and Imps running around, Rakdos is still a huge beating. The combo of a 6/6 flyer plus a Thanos snap is a potent one, and it’ll leave your opponents not feeling so good (unless you are Pat Cox, who tried to kill five Zombie tokens with Rakdos and missed on all of them).",
+		"format": 34,
+		"rator": 2
+	},
+	{
+		"id": 23353,
+		"card": "Rally to Battle",
+		"rating": "2.5 // 3.5",
+		"reason": "In a creature-heavy deck, this has a very high ceiling. When it’s good, it will often be great, as you can easily get a 2- or 3-for-1 in combat. It’s pretty sweet that attacking with everything is hard to punish, since the opponent can’t even attack back without getting ambushed. The average deck will play this, and aggressive decks full of creatures will rally love it.",
+		"format": 34,
+		"rator": 2
+	},
+	{
+		"id": 23457,
+		"card": "Rampage of the Clans",
+		"rating": "0.0",
+		"reason": "I don’t even like Rampage of the Clans as a sideboard card because giving them a 3/3 Centaur for each thing I blow up is a horrendous deal. Do not play this.",
+		"format": 34,
+		"rator": 2
+	},
+	{
+		"id": 23456,
+		"card": "Rampaging Rendhorn",
+		"rating": "3.0",
+		"reason": "This is a solid split card, and I suspect you’ll choose each mode pretty close to half the time. Either way, you’re getting a good deal for 5 mana.",
+		"format": 34,
+		"rator": 2
+	},
+	{
+		"id": 23487,
+		"card": "Ravager Wurm",
+		"rating": "4.5",
+		"reason": "You have a couple choices here, and all of them are great. This eats one of the opponent’s best creatures right away, and either cracks in as a 4/5 haste or sits there as a 5/6. Note that thefight does damage this, so you are less likely to want to haste it up as a result. I don’t think you can even pick the non-fight mode, so let’s save that one for Constructed.",
+		"format": 34,
+		"rator": 2
+	},
+	{
+		"id": 23455,
+		"card": "Regenesis",
+		"rating": "1.0",
+		"reason": "Only picking up permanents really dampens my enthusiasm for Regenesis. It’s hard to set this up, and it basically ends up being an expensive Soul Salvage, which is not exciting.",
+		"format": 34,
+		"rator": 2
+	},
+	{
+		"id": 23484,
+		"card": "Savage Smash",
+		"rating": "3.5",
+		"reason": "I’ve been impressed with this so far (watching people play Sealed on Twitch), as this mostly leads to a nice smashing indeed. You get to kill just about any creature you want, and the +2/+2 means that you often have a nice attack afterwards.",
+		"format": 34,
+		"rator": 2
+	},
+	{
+		"id": 23435,
+		"card": "Rubble Reading",
+		"rating": "0.0",
+		"reason": "I’ve read this story, and it doesn’t end well. Please don’t put land destruction in your deck.",
+		"format": 34,
+		"rator": 2
+	},
+	{
+		"id": 23354,
+		"card": "Resolute Watchdog",
+		"rating": "3.0",
+		"reason": "This is a really good dog. It defends you early, and defends any of your creatures late. It’s a potent on-board trick that really makes your best creatures better—it ensures they survive through most dangers.",
+		"format": 34,
+		"rator": 2
+	},
+	{
+		"id": 23438,
+		"card": "Scorchmark",
+		"rating": "3.0",
+		"reason": "Nothing wrong with 2 damage for 2 mana, and this has the upside of getting around afterlife too.",
+		"format": 34,
+		"rator": 2
+	},
+	{
+		"id": 23486,
+		"card": "Rhythm of the Wild",
+		"rating": "3.5",
+		"reason": "It will be awkward when you topdeck this late in the game, but it’s so powerful early that I’m willing to take that risk. Once your creatures start getting down with the Rhythm, your opponentis forced to either leave back blockers to fight against haste, at which point you just choose +1/+1, or try and race, at which point haste wins the day. Plus, it randomly hoses counterspells, which can be a nice upside.",
+		"format": 34,
+		"rator": 2
+	},
+	{
+		"id": 23434,
+		"card": "Rix Maadi Reveler",
+		"rating": "3.0",
+		"reason": "This card is sweet. Weird, but sweet. The discard isn’t optional, in either case, so keep that in mind, but it still makes this a good card for either cost. It gets a lot better in Rakdos, obviously, but I’d still play it in Gruul as a Rummaging Bear.",
+		"format": 34,
+		"rator": 2
+	},
+	{
+		"id": 23454,
+		"card": "Root Snare",
+		"rating": "0.5",
+		"reason": "There’s a niche argument for this as a sideboard card against End-Raze Forerunners, but don’t get snared up in it. They would still have a 7/7 in play and all their creatures untapped, so you don’t even get ahead. Outside of that, this is pure unplayable nonsense.",
+		"format": 34,
+		"rator": 2
+	},
+	{
+		"id": 23436,
+		"card": "Rubblebelt Recluse",
+		"rating": "3.0",
+		"reason": "Must attack is not a huge drawback on a huge monster, so Rubblebelt Recluse is basically just an undercosted giant. I’m in for that, and will happily play a pair of these.",
+		"format": 34,
+		"rator": 2
+	},
+	{
+		"id": 23485,
+		"card": "Rubblebelt Runner",
+		"rating": "3.0",
+		"reason": "Not much to see here—you’ll run this, it’ll be solid, and every now and then it will avoid some Spirit tokens and you’ll get extra damage through.",
+		"format": 34,
+		"rator": 2
+	},
+	{
+		"id": 23509,
+		"card": "Scrabbling Claws",
+		"rating": "1.0",
+		"reason": "There’s not much going on here. Most decks don’t have graveyard synergies, and if you find one that does, you can side in the Claws",
+		"format": 34,
+		"rator": 2
+	},
+	{
+		"id": 23437,
+		"card": "Rumbling Ruin",
+		"rating": "3.0",
+		"reason": "As strange as this text is (and flavor too), this will ruin some people. At worst, it’s a 6/6 for 6, and if you manage to untap with a big adapt creature it can lead to getting a ton of damage through. This would make me prioritize adapt creatures a little more, though it works out fine with riot creatures too.",
+		"format": 34,
+		"rator": 2
+	},
+	{
+		"id": 23382,
+		"card": "Sage's Row Savant",
+		"rating": "2.5",
+		"reason": "You never feel too bad about running this, as it helps smooth out your draws at every point of the game. It’s never amazing, but cards like this do a great job of making sure you have enough playables.",
+		"format": 34,
+		"rator": 2
+	},
+	{
+		"id": 23453,
+		"card": "Saruli Caretaker",
+		"rating": "0.0",
+		"reason": "Saruli Caretaker requires another creature to provide mana, making it an efficient and unreliable ramp option, and one I don’t care for at all.",
+		"format": 34,
+		"rator": 2
+	},
+	{
+		"id": 23452,
+		"card": "Sauroform Hybrid",
+		"rating": "3.0",
+		"reason": "I’m a big fan of flexibility, and you don’t get to be a Human Lizard Warrior without being flexible. Sauroform Hybrid fills out your curve early and becomes a real threat late, which is all you can ask for from a 2-drop.",
+		"format": 34,
+		"rator": 2
+	},
+	{
+		"id": 23443,
+		"card": "Storm Strike",
+		"rating": "2.0",
+		"reason": "Adding scry 1 to Kindled Fury isn’t bad since that card was already a playable trick. Spectacle also encourages blocking, making Storm Strike a mana-efficient way to get an advantage.",
+		"format": 34,
+		"rator": 2
+	},
+	{
+		"id": 23508,
+		"card": "Screaming Shield",
+		"rating": "1.0",
+		"reason": "If this didn’t take mana to activate, I’d be a lot more interested. As is, it takes a ton of mana to get going, which makes it hard to use this and defend yourself.",
+		"format": 34,
+		"rator": 2
+	},
+	{
+		"id": 23517,
+		"card": "Scuttlegator",
+		"rating": "1.5",
+		"reason": "Many decks are going to want one Gator as a finisher, but it’s expensive enough that it shouldn’t be a high priority. It blocks well for a while, and eventually gets motivated to go chomp on the opponent.",
+		"format": 34,
+		"rator": 2
+	},
+	{
+		"id": 23383,
+		"card": "Senate Courier",
+		"rating": "2.5",
+		"reason": "A 1/4 flyer for 3 is a great defensive play, and plenty of control decks will be interested in this. I don’t care whether you have white mana or not because giving it vigilance is essentially meaningless, so this is actually just a mono-blue card.",
+		"format": 34,
+		"rator": 2
+	},
+	{
+		"id": 23469,
+		"card": "Senate Griffin",
+		"rating": "3.0",
+		"reason": "Senate Griffin is a nice, solid flyer, and the scry 1 makes it a welcome addition to any deck.",
+		"format": 34,
+		"rator": 2
+	},
+	{
+		"id": 23472,
+		"card": "Senate Guildmage",
+		"rating": "3.5",
+		"reason": "Cheap looting is great, and gaining life can help stabilize. Two good and cheap abilities on a 2-drop is exactly where I want to be, and Senate Guildmage\r\ndelivers (unlike our current Senate).",
+		"format": 34,
+		"rator": 2
+	},
+	{
+		"id": 23355,
+		"card": "Sentinel's Mark",
+		"rating": "3.5",
+		"reason": "Sentinel’s Mark is an extremely punishing trick. If you land it and win a combat, having a +1/+2 and vigilance left over is huge. It also gives you the option of mainphasing it for a big life swing, and the two options together make a potent card indeed. Mark my words—this is the real deal.",
+		"format": 34,
+		"rator": 2
+	},
+	{
+		"id": 23497,
+		"card": "Seraph of the Scales",
+		"rating": "4.5",
+		"reason": "Afterlife 2 is really what puts Seraph of the Scales over the top. It would be great without it, as a 4/3 with flying, vigilance, and deathtouch is a beater, but having this turn into two 1/1flyers when its dealt with elevates this to true bomb status.",
+		"format": 34,
+		"rator": 2
+	},
+	{
+		"id": 23520,
+		"card": "Sharktocrab",
+		"rating": "4.0",
+		"reason": "Every week is shark week, and I think this is a borderline bomb. It’s huge even before adapt, it pressures the opponent by tapping down blockers, and if you can put more counters on it then it runs the opponent over quickly. I love this card, and have seen it take enough bites out of helpless players to think it’s incredible.",
+		"format": 34,
+		"rator": 2
+	},
+	{
+		"id": 23384,
+		"card": "Shimmer of Possibility",
+		"rating": "2.0",
+		"reason": "It’s always fine to play this card because it helps you find your good cards (or lands), but you often just won’t have space for it. It isn’t a card that actually does anything, and my first impulse is to take it about the middle of the pack.",
+		"format": 34,
+		"rator": 2
+	},
+	{
+		"id": 23451,
+		"card": "Silhana Wayfinder",
+		"rating": "3.0",
+		"reason": "Even though Silhana Wayfinder isn’t card advantage, it’s still a 2-drop that helps you hit your third land drop when you need to, and digs for quality creatures when you don’t. Note that youcan elect not to reveal anything, making this ability strict upside.",
+		"format": 34,
+		"rator": 2
+	},
+	{
+		"id": 23519,
+		"card": "Simic Ascendancy",
+		"rating": "3.0",
+		"reason": "Simic Ascendancy will dominate any long game, though you do need to get there for it to really be good. It’s awesome at triggering cards like Sharktocrab over and over, and the alternate win condition might come up once in a blue moon.",
+		"format": 34,
+		"rator": 2
+	},
+	{
+		"id": 23514,
+		"card": "Simic Locket",
+		"rating": "2.0",
+		"reason": "Lockets get a bad rap. In slower decks, they are often worth a slot, as they help cast expensive spells and can be cracked for a pair of cards later. The non-red ones are better, as the red decks are often lower to the ground, but all of them have their uses.",
+		"format": 34,
+		"rator": 2
+	},
+	{
+		"id": 23439,
+		"card": "Skarrgan Hellkite",
+		"rating": "4.5",
+		"reason": "All modes of Skarrgan Hellkite are great, though there’s a lot of incentive to have it come in with a +1/+1 counter. The activated ability is very powerful, and once you get to 8 mana it is almost unbeatable (especially given that you have a 5/5 flyer in play). The backup plan of a 4/4 haste flyer is a good one, and if they are at a low life total you may want to go down that road.",
+		"format": 34,
+		"rator": 2
+	},
+	{
+		"id": 23385,
+		"card": "Skatewing Spy",
+		"rating": "3.5",
+		"reason": "I spy a fantastic card. This ends up as a 4/5 flyer by itself, which is already great, and it can lift your other creatures to the sky as well. That’s a lot of power for just 4 mana, and I’m taking this early whenever I can.",
+		"format": 34,
+		"rator": 2
+	},
+	{
+		"id": 23440,
+		"card": "Skewer the Critics",
+		"rating": "3.5",
+		"reason": "This is good at 3 mana and hyper-efficient at 1 mana, making it easily the best red common and a card I want as many of as I can get. The name is cute too.",
+		"format": 34,
+		"rator": 2
+	},
+	{
+		"id": 23386,
+		"card": "Skitter Eel",
+		"rating": "3.0",
+		"reason": "This is the bread and butter of blue commons, just disgustingly eel-flavored. What will usually end up happening is that your opponent has to let this through for a few turns, and you can cast all your other spells instead of adapting it. Eventually you have nothing better to do, and this adapts into a beater, giving you a great deal overall.",
+		"format": 34,
+		"rator": 2
+	},
+	{
+		"id": 23356,
+		"card": "Sky Tether",
+		"rating": "3.0",
+		"reason": "Ground-based attack decks won’t want this, but everyone else will (control decks and flyer decks most prominently). It’s an efficient way to stop an attacker, and losing flying adds some nice flavor and a real gameplay advantage.",
+		"format": 34,
+		"rator": 2
+	},
+	{
+		"id": 23357,
+		"card": "Smothering Tithe",
+		"rating": "1.0",
+		"reason": "Even if this was just “make a Treasure per turn,” I wouldn’t be a big fan, and this is largely worse. Yes, it’s a little better against someone drawing a lot of extra cards, but that’s going to come up less than the opponent deciding they can just pay for it.",
+		"format": 34,
+		"rator": 2
+	},
+	{
+		"id": 23495,
+		"card": "Teysa Karlov",
+		"rating": "1.5 // 3.0",
+		"reason": "A 2/4 for 4 impacts the board enough that I would be fine running this with just a few afterlife cards, and once you have 4+ then Teysa becomes quite good. There are also a couple other scattered death triggers around, and she works with those too.",
+		"format": 34,
+		"rator": 2
+	},
+	{
+		"id": 23415,
+		"card": "Spawn of Mayhem",
+		"rating": "4.0",
+		"reason": "You don’t need to spectacle Spawn of Mayhem for it to be incredible. It’s a huge flyer with multiple upsides, even if it can be a little risky if you’re low on life. This does fit much better in Rakdos (especially since it keeps spectacle on once in play), but I’d slam it in Orzhov too.",
+		"format": 34,
+		"rator": 2
+	},
+	{
+		"id": 23441,
+		"card": "Spear Spewer",
+		"rating": "3.0",
+		"reason": "The rating here is tricky. In a deck with spectacle cards, Spear Spewer is an auto-play and a great way to make your deck work. That puts it into solid 3 territory because the decks that want it really want it. It isn’t great in control or midrange decks without spectacle nonsense, so keep that in mind, but the effect here is powerful enough (even if symmetrical) that I’d take this early. As a side note, I don’t find this kind of card (Goblin Fireslinger being the earlier example) to be very interesting when they enable spectacle/bloodthirst. The ability is just always on when this is in play, and there’s nothing the opponent can do about it. That’s not very good game play, and I don’t see why this has to be a common at such a good rate.",
+		"format": 34,
+		"rator": 2
+	},
+	{
+		"id": 23388,
+		"card": "Sphinx of Foresight",
+		"rating": "4.0",
+		"reason": "The opening hand scry bit is cute, but ultimately not a big upside. The 4/4 flyer for 4 part, on the other hand, that’s just money. It’s also nice that if this survives you get to scry each turn, not that the card needs it.",
+		"format": 34,
+		"rator": 2
+	},
+	{
+		"id": 23471,
+		"card": "Sphinx of New Prahv",
+		"rating": "3.5",
+		"reason": "While Senate Guildmage may not have the raw power of some of the counterparts in the “hard to cast” cycle, this is still a 4-power flyer that has vigilance and an annoying protection ability. That’s enough for me, and should prahv to be a card you’ll always be happy to run in Azorius.",
+		"format": 34,
+		"rator": 2
+	},
+	{
+		"id": 23507,
+		"card": "Sphinx of the Guildpact",
+		"rating": "1.5",
+		"reason": "Sphinx is a bit expensive for my tastes, and my tastes do run expensive. I just don’t like that it dies to multiple common removal spells, so I see this more as a sideboard option against decks that can’t deal with it.",
+		"format": 34,
+		"rator": 2
+	},
+	{
+		"id": 23470,
+		"card": "Sphinx's Insight",
+		"rating": "2.5",
+		"reason": "I will play Sphinx’s Insight and be happy about it in control decks, but I would avoid it if you’re looking to tempo the opponent out. Most of the time you should cast this on your turn, with counterspells and combat tricks being the main reasons not to.",
+		"format": 34,
+		"rator": 2
+	},
+	{
+		"id": 23442,
+		"card": "Spikewheel Acrobat",
+		"rating": "1.0",
+		"reason": "Wow, if you spectacle Spikewheel Acrobat out it can… still trade for a 2-drop. Wheee.",
+		"format": 34,
+		"rator": 2
+	},
+	{
+		"id": 23416,
+		"card": "Spire Mangler",
+		"rating": "3.0",
+		"reason": "Spire Mangler is an efficient little flyer that can ambush as a 4/1 blocker, or pump one of your Spirit tokens to trade up (with the additional option of getting extra damage through). It also leaves behind a 2/1 flyer for 3, making this a solid deal all around.",
+		"format": 34,
+		"rator": 2
+	},
+	{
+		"id": 23358,
+		"card": "Spirit of the Spires",
+		"rating": "3.5",
+		"reason": "A good-rate flyer that makes your other flyers better is an effect I’m always in for, and this is especially good because it slots well into both Azorius and Orzhov.",
+		"format": 34,
+		"rator": 2
+	},
+	{
+		"id": 23359,
+		"card": "Summary Judgment",
+		"rating": "3.0",
+		"reason": "This is a defensive removal spell, but it’s cheap enough and effective enough that I don’t see cutting it unless your deck is both very aggressive and has no flyers. We’ll get a better picture later, but my summary judgment is that this is a good card.",
+		"format": 34,
+		"rator": 2
+	},
+	{
+		"id": 23483,
+		"card": "Sunder Shaman",
+		"rating": "3.5",
+		"reason": "The casting cost on these does limit them a tiny bit, but this is still a 4-mana 5/5 that’s hard to block. That goes a long way, and if you do smash them, you also get to smash an artifact or enchantment for additional value.",
+		"format": 34,
+		"rator": 2
+	},
+	{
+		"id": 23496,
+		"card": "Syndicate Guildmage",
+		"rating": "3.0",
+		"reason": "This Guildmage is passable, but not absurd. It taps down big threats, but not 3-power flyers, and while it can end the game, 5 mana is a lot to pay for the second ability. You’ll always play this in Orzhov, but won’t take it over premium removal.",
+		"format": 34,
+		"rator": 2
+	},
+	{
+		"id": 23360,
+		"card": "Syndicate Messenger",
+		"rating": "3.0",
+		"reason": "It’s all about sending a message, and afterlife on ensures that something is getting through. This gives you just enough stats to make it worth it, and I wouldn’t cut Syndicate Messenger unless I had a ton of playables.",
+		"format": 34,
+		"rator": 2
+	},
+	{
+		"id": 23361,
+		"card": "Tenth District Veteran",
+		"rating": "1.5",
+		"reason": "Everyone from the 10th District really needs to step up their game. The Guard was bad in Guilds of Ravnica, and the Veteran here isn’t much better. Untapping your own creatures during your attack step isn’t that valuable, and a 2/3 for 3 is not a good set of stats.",
+		"format": 34,
+		"rator": 2
+	},
+	{
+		"id": 23450,
+		"card": "Territorial Boar",
+		"rating": "2.0",
+		"reason": "If you’ve got a Gruul deck with a lot of 4-power creatures, Territorial Boar is an exciting way to put pressure on the opponent. If you’ve only got 1-2 cards that trigger this, it gets very boaring very quickly. Note that riot creatures with 3 power won’t do the trick, as the timing isn’t right for the Boar.",
+		"format": 34,
+		"rator": 2
+	},
+	{
+		"id": 23417,
+		"card": "Thirsting Shade",
+		"rating": "1.0",
+		"reason": "I’m not so thirsty for spectacle enablers that I’d play a 1/1 with bad abilities, and that’s exactly what this is. It’s expensive to pump, and ends up being too small at every point in the game.",
+		"format": 34,
+		"rator": 2
+	},
+	{
+		"id": 23390,
+		"card": "Thought Collapse",
+		"rating": "2.0",
+		"reason": "Cancel is only looking OK in this format, and this is essentially the same thing. Milling them for three randomly doesn’t do much, and may even be bad for you if they have graveyard synergies. I’ll play this in or against control, but am not excited about it.",
+		"format": 34,
+		"rator": 2
+	},
+	{
+		"id": 23446,
+		"card": "Wilderness Reclamation",
+		"rating": "0.5",
+		"reason": "The only way I could see Wilderness Reclamation making the cut is if you have 10+ instants/adapt creatures, and even then I’m suspicious. It’s just too hard to make use of the extra mana, and spending a card on this isn’t great.",
+		"format": 34,
+		"rator": 2
+	},
+	{
+		"id": 23444,
+		"card": "Tin Street Dodger",
+		"rating": "1.0",
+		"reason": "I’m not this hard up for spectacle outlets, so I’d rather dodge this if possible. It costs a mana to use, and is very weak when you don’t activate it.",
+		"format": 34,
+		"rator": 2
+	},
+	{
+		"id": 23393,
+		"card": "Windstorm Drake",
+		"rating": "3.0",
+		"reason": "Windstorm Drake needs friends, but gives the opponent the business once it has a couple. I’d slam this in any deck looking to lean on flyers, which is definitely Azorius and sometimes Simic.",
+		"format": 34,
+		"rator": 2
+	},
+	{
+		"id": 23449,
+		"card": "Titanic Brawl",
+		"rating": "3.0",
+		"reason": "I think Titanic Brawl will end up being good this time around. Fight effects vary wildly based on the stats in the format, and Simic and Gruul both have a lot of beaters. Plus, being cheapermatters, and a 1-mana spell of this power level is often going to be a huge blowout.",
+		"format": 34,
+		"rator": 2
+	},
+	{
+		"id": 23362,
+		"card": "Tithe Taker",
+		"rating": "3.0",
+		"reason": "In Draft, the fancy lines of text here won’t come up all that much, but a 2/1 afterlife 1 for 2 mana is a great deal. Plus, every now and then this will make combat tricks or removal hard for your opponent to cast, which is just gravy.",
+		"format": 34,
+		"rator": 2
+	},
+	{
+		"id": 23506,
+		"card": "Tome of the Guildpact",
+		"rating": "3.5",
+		"reason": "I like Tome of the Guildpact. It helps fix your mana and provides you a steady stream of card advantage. I’d love to draft this and go into the Gate deck, but you may be able to make this work in a less ambitious 3-color build.",
+		"format": 34,
+		"rator": 2
+	},
+	{
+		"id": 23448,
+		"card": "Tower Defense",
+		"rating": "1.0",
+		"reason": "I don’t know what the tower is, but I don’t plan on defending it. The combo with High Alert\r\nis cute, though Bant Walls is not exactly a well-supported archetype.",
+		"format": 34,
+		"rator": 2
+	},
+	{
+		"id": 23447,
+		"card": "Trollbred Guardian",
+		"rating": "3.5",
+		"reason": "Trollbred Guardian\r\nis huge before it adapts, immense once it does, and can even give other creatures trample (while trampling itself). That’s a lot for 5 mana, and this is one of the better Simic monsters around, even if you discount my affinity for Trolls.",
+		"format": 34,
+		"rator": 2
+	},
+	{
+		"id": 23363,
+		"card": "Twilight Panther",
+		"rating": "2.0",
+		"reason": "This is essentially a gold card, and a solid one at that. It’s at its best against Gruul and Simic, but will do decent defensive work in most matchups.",
+		"format": 34,
+		"rator": 2
+	},
+	{
+		"id": 23364,
+		"card": "Unbreakable Formation",
+		"rating": "3.5",
+		"reason": "While this isn’t broken, it’s quite strong. It’s almost always going to be cast with the addendum bonus, but in a pinch can be used to save your team. Giving your whole squad a permanent +1/+1 bonus and getting a risk-free attack is huge, making this a great card in any creature-heavy deck.",
+		"format": 34,
+		"rator": 2
+	},
+	{
+		"id": 23418,
+		"card": "Undercity Scavenger",
+		"rating": "2.5",
+		"reason": "In a deck with good sacrifice fodder, Undercity Scavenger goes up in value, as a 5/5 with scry 2 is definitely worth eating something small. In a normal Rakdos deck, I’m less sold, as it won’t have as many good options to devour.",
+		"format": 34,
+		"rator": 2
+	},
+	{
+		"id": 23419,
+		"card": "Undercity's Embrace",
+		"rating": "1.0",
+		"reason": "I don’t like sacrifice effects (edicts, as they’re commonly called) in Limited much. The opponent’s worst creature is often pretty bad, and especially at 3 mana, this will trade down for a 2-drop all too often. The potential to gain 4 life makes this more interesting, and I could see siding it in against an aggro deck if you have a lot of ways to get the kicker.",
+		"format": 34,
+		"rator": 2
+	},
+	{
+		"id": 23391,
+		"card": "Verity Circle",
+		"rating": "2.5",
+		"reason": "Verity Circle is a strange card, but I think control decks will want it. By itself, it’s 5 mana to draw a card and keep a creature off your back, which is a complementary pair of abilities. If you can add a couple tap effects (Chillbringer being the best of them), it becomes very strong, and once you’ve drawn enough cards you can usually take some time off to deploy them.",
+		"format": 34,
+		"rator": 2
+	},
+	{
+		"id": 23543,
+		"card": "Verity Circle",
+		"rating": "2.5",
+		"reason": "Verity Circle is a strange card, but I think control decks will want it. By itself, it’s 5 mana to draw a card and keep a creature off your back, which is a complementary pair of abilities. If you can add a couple tap effects (Chillbringer being the best of them), it becomes very strong, and once you’ve drawn enough cards you can usually take some time off to deploy them.",
+		"format": 34,
+		"rator": 2
+	},
+	{
+		"id": 23445,
+		"card": "Wrecking Beast",
+		"rating": "2.0",
+		"reason": "This will really hit the opponent like a wrecking ball if they aren’t prepared, and I like having one to top off my curve. You’re going to pick haste almost all the time, and Wrecking Beast gives green a substantial haste threat at common to be worried about.",
+		"format": 34,
+		"rator": 2
+	},
+	{
+		"id": 23420,
+		"card": "Vindictive Vampire",
+		"rating": "3.5",
+		"reason": "This is awesome in both Orzhov and Rakdos, as it’s a very powerful card and plays nicely with Spirit tokens and spectacle cards alike. Draining the opponent for 1 every time one of your creatures dies adds up quickly, and this is big enough that it might even attack once or twice itself.",
+		"format": 34,
+		"rator": 2
+	},
+	{
+		"id": 23494,
+		"card": "Vizkopa Vampire",
+		"rating": "2.0",
+		"reason": "Vizkopa Vampire\r\nis easy to cast and demands a trade, which makes it a winner in my book. It’s not going to dominate the board or anything, but getting to trade off and gain 3 life is a fine deal for 3 mana.",
+		"format": 34,
+		"rator": 2
+	},
+	{
+		"id": 23392,
+		"card": "Wall of Lost Thoughts",
+		"rating": "1.0",
+		"reason": "At uncommon, I still don’t see a mill deck happening. That makes this a mediocre playable at best.",
+		"format": 34,
+		"rator": 2
+	},
+	{
+		"id": 23518,
+		"card": "Zegana, Utopian Speaker",
+		"rating": "4.0",
+		"reason": "Simic has some beaters in this set. Zegana replaces herself most of the time, and threatens to attack for a ton of damage without any outside help. She can also trample it up and makes your other creatures more fearsome. That’s enough for me, and I’m always in for some Zegana action.",
+		"format": 34,
+		"rator": 2
+	}
+]
