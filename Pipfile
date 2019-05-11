@@ -5,9 +5,12 @@ verify_ssl = true
 
 [dev-packages]
 pep8 = "*"
+black = "*"
 
 [packages]
 mtga = "*"
+fuzzywuzzy = "*"
+requests = "*"
 
 [requires]
 python_version = "3.7"

@@ -1,0 +1,1925 @@
+[
+  {
+    "card": "Ajani, the Greathearted",
+    "rating": "4.0",
+    "reason": "Ajani is a ridiculous card when ahead or at parity, but does suffer from needing a lot of creatures to truly be great. He won't protect you when you don't have a good squad, and that leads to some situations where he doesn't quite live up to his full bomb status. That said, he's still awesome, and better than any common or uncommon. I'd look to draft G/W Proliferate, and Ajani will be unbeatable in any of your good draws.",
+    "id": 69635,
+    "rarity": "Rare"
+  },
+  {
+    "card": "Angrath's Rampage",
+    "rating": "2.5",
+    "reason": "While I still don't love edict effects in Limited because your opponent's worst creature is often quite bad, this being able to pick off planeswalkers does help. The opponent will rarely have multiple planeswalkers in play, and a card that can hit a walker or creature does offer a lot of flexibility. Plus, sometimes you may actually want to kill an artifact, and this does that too.",
+    "id": 69636,
+    "rarity": "Uncommon"
+  },
+  {
+    "card": "Bioessence Hydra",
+    "rating": "4.0",
+    "reason": "Hydra into planeswalker is very hard to beat (I can verify, losing to that exact sequence in the Mythic Invitational), and this starts out as a burly 4/4. Trample helps a ton here too, and in a deck with 3+ planeswalkers this is an absurd card.",
+    "id": 69637,
+    "rarity": "Rare"
+  },
+  {
+    "card": "Casualties of War",
+    "rating": "3.5",
+    "reason": "The casting cost here is a doozy, which does make me hesitant to take this early. The rating is predicated on you already being black-green, and I wouldn't hesitate to take one of the better commons over Casualties when you don't know your colors yet. Once casting this isn't an issue, it does do a lot of work, often taking out three cards (creature, land, and planeswalker being the most common). In some matchups it may even do more, though I've yet to see the fabled five-for-one.",
+    "id": 69638,
+    "rarity": "Rare"
+  },
+  {
+    "card": "Cruel Celebrant",
+    "rating": "1.5 // 3.0",
+    "reason": "Cruel Celebrant is passable in any creature-heavy deck, but doesn't become a high priority until you really commit to the B/W sacrifice deck. This plus Spark Reaper , Teyo, and Lazotep Reavers is an effective combination, and I have enjoyed when that deck comes together.",
+    "id": 69639,
+    "rarity": "Uncommon"
+  },
+  {
+    "card": "Deathsprout",
+    "rating": "3.5",
+    "reason": "Even if the casting cost is a little tricky, Deathsprout is not only in the right colors for tricky costs, but it helps cast other cards once you resolve it. I love this card in the B/G deck that splashes 2-3 other colors, and don't mind starting with it from pack one. Killing any creature at instant speed is huge, and this fixes your mana quite nicely.",
+    "id": 69640,
+    "rarity": "Uncommon"
+  },
+  {
+    "card": "Despark",
+    "rating": "3.0",
+    "reason": "Despark is less good than it initially looked, but good enough to always play in B/W. I like it a little less than the good commons, as it misses more often than you might think, but it's always nice to have as a backstop against ridiculous bombs (unless those bombs are God-Eternals, or Finales, or...).",
+    "id": 69762,
+    "rarity": "Uncommon"
+  },
+  {
+    "card": "Domri, Anarch of Bolas",
+    "rating": "4.0",
+    "reason": "Domri does a lot of work for just 3 mana. First of all, you can often find a profitable fight to pick, especially with your creatures getting +1/+0. Even if you have to trade, you didn't really spend a card on Domri (assuming you can protect him), so it's still even on cards to have your 3/3 trade up for their 4/4. Domri also ramps you, and eventually builds up enough loyalty to fight again, so he's not a one-and-done. Domri is dangerous early, and can snowball easily, while also being relevant late. That's a lot for 3 mana, and makes Domri a great card even if the average case isn't that much more than just a 3 mana fight card.",
+    "id": 69641,
+    "rarity": "Rare"
+  },
+  {
+    "card": "Domri's Ambush",
+    "rating": "3.5",
+    "reason": "Domri's Ambush is a solid removal spell, and note that it isn't a fight, it's a punch, so their creature doesn't hit back. This is great in red-green but not quite worth splashing, making it land about where good common removal does.",
+    "id": 69642,
+    "rarity": "Uncommon"
+  },
+  {
+    "card": "Dovin's Veto",
+    "rating": "2.0",
+    "reason": "I usually main deck Dovin's Veto in this format, thanks to all the planeswalkers, but I don't hesitate to side it out if the opponent doesn't have a lot of targets.",
+    "id": 69643,
+    "rarity": "Uncommon"
+  },
+  {
+    "card": "Dreadhorde Butcher",
+    "rating": "3.0",
+    "reason": "Dreadhorde Butcher gets out of control if you land it early, and even late game it's a Footlight Fiend at the very least. That's a solid playable, though not something that would put me into black-red early.",
+    "id": 69644,
+    "rarity": "Rare"
+  },
+  {
+    "card": "Elite Guardmage",
+    "rating": "3.5",
+    "reason": "This Guardmage may be Elite, but blue-white tends not to be. I do like that this is easily splashable, and powerful enough to be worth it. This delivers a solid card-and-a-half worth of value, and is good at basically any stage in the game, so seeing one pick five or six does bias me towards U/W, even if that isn't where I'd like to start.",
+    "id": 69645,
+    "rarity": "Uncommon"
+  },
+  {
+    "card": "Enter the God-Eternals",
+    "rating": "4.5",
+    "reason": "Enter the God-Eternals does it all. It slices (a creature), it dices (their deck), and it leaves you with a 4/4 plus 4 life. That's a ton of value, and well worth 5 mana. This is the perfect card when you're behind, while also being awesome when you're ahead, and is something I'd definitely try to splash in any blue deck.",
+    "id": 69646,
+    "rarity": "Rare"
+  },
+  {
+    "card": "Feather, the Redeemed",
+    "rating": "4.0",
+    "reason": "Feather is less splashable, since a ton of her value is in being a cheap 3/4 flyer. She has some neat combos with various red and white commons too, making her both a powerful card in her own right as well as a rewarding build-around.",
+    "id": 69647,
+    "rarity": "Rare"
+  },
+  {
+    "card": "Gleaming Overseer",
+    "rating": "3.5",
+    "reason": "I love Gleaming Overseer . A 1/4 plus a 1/1 is already good value, and this often pumps your amass token into something respectable. At that point, having hexproof and menace means that you're rewarded for piling on tokens, and U/B is very good at doing so. This is great no matter how you use it, and enables both a sacrifice theme and a go-big amass theme.",
+    "id": 69648,
+    "rarity": "Uncommon"
+  },
+  {
+    "card": "Heartwarming Redemption",
+    "rating": "1.5",
+    "reason": "As heartwarming as this may be, Boros is aggressive enough that this effect doesn't quite fit. It is powerful, as replacing itself means you aren't losing card advantage, and cycling your hand and gaining 4-5 life is a sweet effect, so I'd be inclined to run this in any midrange or control deck where the colors work out.",
+    "id": 69649,
+    "rarity": "Uncommon"
+  },
+  {
+    "card": "Huatli's Raptor",
+    "rating": "3.0",
+    "reason": "Once you are firmly in the G/W proliferate deck, Huatli's Raptor is awesome. You don't actually want to drop it on turn 2 most of the time, as it's at its most clever when you play it on turn 5 along side other proliferate or +1/+1 counter effects.",
+    "id": 69650,
+    "rarity": "Uncommon"
+  },
+  {
+    "card": "Invade the City",
+    "rating": "1.0 // 2.0",
+    "reason": "In a heavy U/R spells deck, Invade the City sometimes is better than Relentless Advance , and that's a pretty low bar. I don't much like this as a build-around, and while I will begrudgingly play it if I'm at 15+ spells, it's definitely not an early pick.",
+    "id": 69763,
+    "rarity": "Uncommon"
+  },
+  {
+    "card": "Leyline Prowler",
+    "rating": "3.5",
+    "reason": "I love when the 2-color card perfectly encapsulates that color pair's strategy, and Leyline Prowler gets high marks on that metric. It enables 5-color GB, providing mana fixing, ramp, and a good body for brawling. This is great on turn 3 and still good on turn 7, making it exactly what these ramp decks need.",
+    "id": 69652,
+    "rarity": "Uncommon"
+  },
+  {
+    "card": "Living Twister",
+    "rating": "4.0",
+    "reason": "Living Twister is a nightmare to play against. You have to play as if the opponent is always holding a handful of Shocks, because they basically are, and that makes double-blocking or even deciding what to play extremely difficult. It's also tough enough that many cards can't take it down, meaning it's definitely sticking around and making things difficult. This is worth taking early and worth splashing, and does particularly well with card draw, as it efficiently converts resources for you.",
+    "id": 69764,
+    "rarity": "Rare"
+  },
+  {
+    "card": "Mayhem Devil",
+    "rating": "3.0",
+    "reason": "Mayhem Devil falls into the Huatli's Raptor bucket -- it's great in its color pair, but not worth splashing. It enables sacrifice decks nicely, and even punishes the opponent for sacrificing, but isn't something I want to commit to in the first couple picks.",
+    "id": 69653,
+    "rarity": "Uncommon"
+  },
+  {
+    "card": "Merfolk Skydiver",
+    "rating": "3.5",
+    "reason": "I love Merfolk Skydiver . All by itself, it's a 2/2 flyer for 2 that grows itself, and the ceiling is much higher than that. It crushes in proliferate-heavy decks while being great in any deck, which is a card I like starting with. It's also worth splashing if you're really going deep on proliferate, as the effect is powerful even in the late game.",
+    "id": 69654,
+    "rarity": "Uncommon"
+  },
+  {
+    "card": "Neoform",
+    "rating": "1.0",
+    "reason": "We aren't quite on the topic of Constructed, though it's clear at this point that Neoform delivers there (mostly Griselbrands , piping hot to your door). In Limited, I'd only play this if I had a really tight curve, a lot of sacrifice fodder, and some really good hits. That's not going to be often, though I saw Josh Utter-Leyton draft a pretty sweet Simic Proliferate deck that sacrificed Iron Bully to go get some powerful 4-drops.",
+    "id": 69655,
+    "rarity": "Uncommon"
+  },
+  {
+    "card": "Nicol Bolas, Dragon-God",
+    "rating": "4.0",
+    "reason": "Bolas is an obscenely powerful card, but also a very difficult card to cast. I don't recommend slamming Bolas and diving headfirst into Grixis, but if you see Bolas after taking a few black cards, it is possible to cast. You want to be heavy black, with blue and red as splashes, and prioritize fixers. Being able to -3 to kill anything and +1 to draw a card plus tax them for a card is awesome, and sometimes this even hijacks the abilities of other planeswalkers (though there aren't many that do it better than Bolas). The power here is worth it, and fixing does make it possible, but you likely should keep yourself open to begin with, and only move into Bolas territory if you see him a little later.",
+    "id": 69656,
+    "rarity": "Mythic Rare"
+  },
+  {
+    "card": "Niv-Mizzet Reborn",
+    "rating": "1.0",
+    "reason": "Niv is just a little too hard to realistically cast, as all five colors is quite the ask. I would need 5+ multicolor fixers to even attempt this, and even then, it's a hard-to-cast 6/6 flyer that may draw you a card. That's a lot of effort for not a huge payoff -- save this one for showing off.",
+    "id": 69657,
+    "rarity": "Mythic Rare"
+  },
+  {
+    "card": "Oath of Kaya",
+    "rating": "3.5",
+    "reason": "Even a sorcery-speed Lightning Helix is great, and Oath of Kaya's passive ability is quite strong. It's easy to get another 4-6 points of life drain out of it, making this a fantastic card.",
+    "id": 69658,
+    "rarity": "Rare"
+  },
+  {
+    "card": "Pledge of Unity",
+    "rating": "3.5",
+    "reason": "All Pledge of Unity requires to be good is a creature-heavy deck, as permanent mass pump with life gain attached is great. Once you add in a few ways to proliferate, Pledge becomes one of the best cards in your deck, and is exactly what G/W is looking for.",
+    "id": 69659,
+    "rarity": "Uncommon"
+  },
+  {
+    "card": "Ral, Storm Conduit",
+    "rating": "4.5",
+    "reason": "Ral has blown me away. I first thought he would be just OK, but the combination of super high loyalty and a really powerful -2 has me convinced. You do want 5+ spells in your deck to really take advantage of Ral, and once you do he becomes a bomb. He also pings other planeswalkers nicely, and doubling up on any bounce or removal spell keeps him well-protected.",
+    "id": 69660,
+    "rarity": "Rare"
+  },
+  {
+    "card": "Ral's Outburst",
+    "rating": "3.5",
+    "reason": "Ral's Outburst gives you a nice bit of card advantage attached to your removal spell, and is a card I'd take early, never cut, and even splash for. Note that if the target is removed (bounced, sacrificed, etc), you don't draw the card, so if you need the card then you should point this at the opponent's face.",
+    "id": 69661,
+    "rarity": "Uncommon"
+  },
+  {
+    "card": "Roalesk, Apex Hybrid",
+    "rating": "5.0",
+    "reason": "Roalesk really is the gift that keeps on giving. Not only do you get a 5 mana 4/5 flying, trample, but you get two +1/+1 counters immediately and a double proliferate upon exit. That's an insane amount of stats for 5 mana, and Roalesk is just ridiculous as a result. It's basically a flying Verdurous Gearhulk , which is high praise indeed.",
+    "id": 69662,
+    "rarity": "Mythic Rare"
+  },
+  {
+    "card": "Role Reversal",
+    "rating": "3.5",
+    "reason": "The grade on Role Reversal is undoubtedly much higher than many people would expect, especially given how mediocre cards like Switcheroo tended to be. There are a few things going on that make this a great card: Add all that together and Role Reversal becomes a great card, and one well worth enabling. I'd try to have some amass and a few planeswalkers to really maximize it, though I've yet to find a U/R deck that doesn't want it.",
+    "id": 69663,
+    "rarity": "Rare"
+  },
+  {
+    "card": "Rubblebelt Rioters",
+    "rating": "3.0",
+    "reason": "The Rioters are a strong threat, even if they do need a little help. Note that if they are the biggest creature, they will look at their own power, so pump spells do play here. I like Rioters in any creature-heavy R/G deck, but am generally not looking to splash them.",
+    "id": 69664,
+    "rarity": "Uncommon"
+  },
+  {
+    "card": "Solar Blaze",
+    "rating": "3.5",
+    "reason": "This rating is predicated on you drafting a controlling deck, and often one thats 3+ colors. That's where Solar Blaze really shines, as it doesn't fit all that well in an aggressive R/W deck. You can also attack into bigger creatures before playing this, and note that any deathtouch creature kills itself no matter what.",
+    "id": 69665,
+    "rarity": "Rare"
+  },
+  {
+    "card": "Sorin, Vengeful Bloodlord",
+    "rating": "4.5",
+    "reason": "Sorin is a beast. He has a ton of loyalty, gives you a ton of life due to his passive, and can pick off opposing planeswalkers nicely. He also lets you spend his loyalty well, bringing back all sorts of creatures over the course of the game. I've been very impressed by Sorin, and wouldn't hesitate to splash him.",
+    "id": 69666,
+    "rarity": "Rare"
+  },
+  {
+    "card": "Soul Diviner",
+    "rating": "3.5",
+    "reason": "Soul Diviner is a bit of a build-around, but due to the makeup of the set, it doesn't take a whole lot of work to do so. It'll be great in your average U/B deck, as it takes counters off amass tokens as well as planeswalkers, and at 2/3 for 2, can even brawl well.",
+    "id": 69667,
+    "rarity": "Rare"
+  },
+  {
+    "card": "Storrev, Devkarin Lich",
+    "rating": "3.5",
+    "reason": "Storrev has actually underperformed for me a little, largely thanks to the tricky casting cost. So much of Storrev's value is in slamming him early, and on turn 6+ he gets dealt with by commons like Invading Manticore or Kiora's Dambreaker . That said, this is still a hyper-efficient beater that can draw you cards when it connects, so I'm still taking Storrev early.",
+    "id": 69668,
+    "rarity": "Rare"
+  },
+  {
+    "card": "Tamiyo, Collector of Tales",
+    "rating": "4.0",
+    "reason": "Tamiyo is another card that's better than she looks. She brings back any card with her -3, and if you can protect her, the +1 will eventually hit. The first place to start is naming any card you have multiples of, but if you need a specific card to survive, or win the game, feel free to name that instead. Her passive is also a nice one, and I've seen Toll of the Invasion get bricked hard by Tamiyo before.",
+    "id": 69669,
+    "rarity": "Rare"
+  },
+  {
+    "card": "Teferi, Time Raveler",
+    "rating": "3.5",
+    "reason": "Teferi is essentially an Arrester's Admonition with upside, which is pretty sweet. Thanks to proliferate, you can often get a second bounce out of Teferi, at which point he did a ton of work for you, and even if it's just one bounce + you save a few life, he did only cost 3 mana. It's also nice not having to worry about combat tricks, thanks to his passive, and sometimes you even get to play a sweet sorcery at instant speed.",
+    "id": 69670,
+    "rarity": "Rare"
+  },
+  {
+    "card": "Tenth District Legionnaire",
+    "rating": "3.0",
+    "reason": "The rating here goes up a little bit once you are already in Boros Aggro, especially if you have a couple combat tricks. I wouldn't want to start with this, because it is pretty narrow, but it's powerful once you are going down that road.",
+    "id": 69671,
+    "rarity": "Uncommon"
+  },
+  {
+    "card": "Time Wipe",
+    "rating": "4.0",
+    "reason": "Time Wipe is really sweet. Wrath + Rescue is a cute combo, and it's absurd how much better a sweeper gets when you don't have to telegraph it. Your opponent won't know it's coming, given that you get to play out your best creature still, and the tables turn rather quickly once the board gets wiped. This card is great and easily worth splashing.",
+    "id": 69672,
+    "rarity": "Rare"
+  },
+  {
+    "card": "Tolsimir, Friend to Wolves",
+    "rating": "4.0",
+    "reason": "Tolsimir delivers to you, as long as what you ordered is an extremely angry Wolf. He puts a ton of stats into play, and eats a 2/2 or trades for a 3/3, all of which is great. You can choose not to fight as well, which occasionally comes up.",
+    "id": 69673,
+    "rarity": "Rare"
+  },
+  {
+    "card": "Tyrant's Scorn",
+    "rating": "3.0",
+    "reason": "Smother + Unsummon is a fine combination, but I'm not jumping into U/B early just because of this. I like picking this up mid-pack, as it isn't a bomb uncommon or a gold card worth committing to.",
+    "id": 69676,
+    "rarity": "Uncommon"
+  },
+  {
+    "card": "Widespread Brutality",
+    "rating": "4.0",
+    "reason": "Widespread Brutality is very similar to Time Wipe , and effective for many of the same reasons. This even lets you attack right away with the creature you keep, assuming you already have an amass token out, and you can sometimes maneuver things so this doesn't kill your biggest creatures. Of course, sometimes you won't be able to kill your opponent's biggest creatures either, which is a risk you take.",
+    "id": 69677,
+    "rarity": "Rare"
+  },
+  {
+    "card": "Angrath, Captain of Chaos",
+    "rating": "3.5",
+    "reason": "Angrath is a menacing card, both in form and function. Making a 2/2 (or buffing an amass token) is a good -2, and giving your squad menace makes killing opposing planeswalkers very easy. Angrath is at his best in aggressive decks, but is still a totally fine defensive card, and gets bonus points for being hybrid (as all of this cycle does).",
+    "id": 69678,
+    "rarity": "Uncommon"
+  },
+  {
+    "card": "Ashiok, Dream Render",
+    "rating": "2.5",
+    "reason": "I really like Ashiok in some matchups, or in a deck that does a good job defending itself. I wouldn't just jam Ashiok in any random deck, because it doesn't affect the board at all.",
+    "id": 69679,
+    "rarity": "Uncommon"
+  },
+  {
+    "card": "Dovin, Hand of Control",
+    "rating": "3.0",
+    "reason": "I've got to hand it to Dovin -- he does a really good Icy Manipulator impression. I especially like Dovin with proliferate and other planeswalkers to protect, as you do need to be doing something in order to gain an advantage from Dovin. Plus, his passive sometimes really messes the opponent up, and overall Dovin provides more than enough value to make the cut.",
+    "id": 69680,
+    "rarity": "Uncommon"
+  },
+  {
+    "card": "Huatli, the Sun's Heart",
+    "rating": "1.0 // 3.0",
+    "reason": "Huatli is a nice build-around, and really goes off with Charity Extractor . You often won't want to even use the -3, and she survives pretty well with 7 loyalty. I like her in B/W decks the most, though I've seen G/W be able to use her well enough.",
+    "id": 69681,
+    "rarity": "Uncommon"
+  },
+  {
+    "card": "Kaya, Bane of the Dead",
+    "rating": "4.0",
+    "reason": "Kaya is one of the cards I most want to first pick, due to her combination of power (high) and flexibility (very high). Hybrid mana means that Kaya can be played in any color combination that includes white or black, and given that she picks off two creatures, is a card I want in any deck. She even cuts through Lazotep Plating , a mistake I've seen many people make. I get asked Draft picks on Twitter frequently, and my most common answer is \"take the Kaya\".",
+    "id": 69682,
+    "rarity": "Uncommon"
+  },
+  {
+    "card": "Kiora, Behemoth Beckoner",
+    "rating": "1.5 // 3.5",
+    "reason": "Kiora is basically a green card, given how few blue creatures are large enough to get you that extra card. She is fantastic as long as you have 5+ ways to trigger her, as she starts with a lot of loyalty and generates a good bit of extra mana (bonus points for combining her with New Horizons ).",
+    "id": 69683,
+    "rarity": "Uncommon"
+  },
+  {
+    "card": "Nahiri, Storm of Stone",
+    "rating": "3.0",
+    "reason": "Nahiri is rock solid, and good in both aggressive and defensive decks. Giving all your creatures first strike is an excellent way to push in attacks, and killing tapped creatures helps defend you nicely. She is a great combo with Law Rune Enforcer too, so keep that in mind.",
+    "id": 69684,
+    "rarity": "Uncommon"
+  },
+  {
+    "card": "Saheeli, Sublime Artificer",
+    "rating": "3.0",
+    "reason": "In a spell-heavy U/R deck, Saheeli is great. She won't close out a game by herself, but she gives you a ton of ground blockers, and her -2 can let you hit for extra damage if you have something big in play. I like Saheeli with 9+ ways to trigger her, and bonus points if some of those are card draw, to keep the spells flowing.",
+    "id": 69685,
+    "rarity": "Uncommon"
+  },
+  {
+    "card": "Samut, Tyrant Smasher",
+    "rating": "1.5",
+    "reason": "Samut is only good when you are pressuring the opponent, though she does perform well in that spot. I'd look to be R/G with large monsters, and treat Samut as a temporary speed boost.",
+    "id": 69686,
+    "rarity": "Uncommon"
+  },
+  {
+    "card": "Vraska, Swarm's Eminence",
+    "rating": "4.0",
+    "reason": "Vraska is another card I find myself first-picking frequently. Making two 1/1 super deathtouchers is great for 4 mana, and with proliferate you may even get a third sometimes. She also punishes the opponent for not blocking your 1/1s, and given her hybrid cost, can show up basically anywhere.",
+    "id": 69765,
+    "rarity": "Uncommon"
+  },
+  {
+    "card": "Karn, the Great Creator",
+    "rating": "1.0 // 2.0",
+    "reason": "Karn is a weird one. The best use I can imagine for him is to have a God-Pharaoh's Statue and a Saheeli's Silverwing in the board, making Karn a bizarre sort of Divination. I'm not sure how feasible that is, but you'll likely be able to pick up all the pieces on the cheap.",
+    "id": 69452,
+    "rarity": "Rare"
+  },
+  {
+    "card": "Ugin, the Ineffable",
+    "rating": "5.0",
+    "reason": "Ugin nabs a coveted perfect score thanks to being colorless. This goes in any deck, and is the safest/best first pick in the set. The combination of abilities is excellent, with both the -3 and +1 being good in just about any situation. The fact that the 2/2s draw you cards when they die is a nice cherry on top, and I've found that Ugin delivers.",
+    "id": 69453,
+    "rarity": "Rare"
+  },
+  {
+    "card": "Ugin's Conjurant",
+    "rating": "3.5",
+    "reason": "I think Ugin's Conjurant might be the most underrated card in the set. People read the drawback of taking damage as permanent -1/-1 and think the card is crap, when it's anything but. First of all, it's an X spell where X is good at any number (though four or five is the sweet spot), making it flexible. It can be a 3-drop if you have an expensive hand or a 7-drop if you're flooding out. It also works very well with proliferate, and the ability does prevent damage, so it's immune to deathtouch. All that added together makes this a great early pick and a card I'm happy with in any deck.",
+    "id": 69454,
+    "rarity": "Uncommon"
+  },
+  {
+    "card": "Firemind Vessel",
+    "rating": "1.0 // 3.0",
+    "reason": "In a normal 2-color deck, this is crap. It's too expensive and doesn't affect the board until way too late. In a 3+ color deck, especially one with some expensive bombs, it becomes a strong enabler, though I tend to prefer the Mana Geode .",
+    "id": 69688,
+    "rarity": "Uncommon"
+  },
+  {
+    "card": "God-Pharaoh's Statue",
+    "rating": "0.5",
+    "reason": "The Statue is way too expensive to be good, though the effect is so miserable that it's surely by design. I can see siding this in against someone with a lot of expensive cards, and there is the Karn combo I talked about earlier, but you should be able to pick this up for free most drafts.",
+    "id": 69689,
+    "rarity": "Uncommon"
+  },
+  {
+    "card": "Guild Globe",
+    "rating": "2.5 // 3.0",
+    "reason": "I like Guild Globe , and am happy playing it in 2-color decks if they have a lot of double mana costs. It also triggers cards like Spellgorger Weird , and overall has a pretty low opportunity cost. In a 3+ color deck it becomes even better, and those decks will nab these as soon as they can.",
+    "id": 69690,
+    "rarity": "Common"
+  },
+  {
+    "card": "Iron Bully",
+    "rating": "2.0",
+    "reason": "Iron Bully takes a little work to be good. In a deck with heavy proliferate it can be quite menacing, but it's otherwise too expensive for what you get.",
+    "id": 69691,
+    "rarity": "Common"
+  },
+  {
+    "card": "Mana Geode",
+    "rating": "2.0 // 3.0",
+    "reason": "Like the other fixers, I wouldn't really look to play Mana Geode in a 2-color deck, but it shines once you are getting a little more wild.",
+    "id": 69692,
+    "rarity": "Common"
+  },
+  {
+    "card": "Prismite",
+    "rating": "1.0",
+    "reason": "I really dislike Prismite . It's expensive fixing, a mediocre body, and good at basically no point in the game.",
+    "id": 69693,
+    "rarity": "Common"
+  },
+  {
+    "card": "Saheeli's Silverwing",
+    "rating": "1.5",
+    "reason": "The Silverwing gets a bad rap. Don't get me wrong, the card isn't great, but it can attack planeswalkers well enough. I'd play this if I really needed a flyer, and leave it at home if you don't.",
+    "id": 69694,
+    "rarity": "Common"
+  },
+  {
+    "card": "Blast Zone",
+    "rating": "3.0",
+    "reason": "All of the lands are somewhat similar in that they are strong playables that don't count against your spell slots. Blast Zone does a good job of punishing the opponent for having too many cards of the same cost, and can also scare them into playing out their hand differently than they'd want to. Note that this is one of the few cards in the set where the opponent may choose to proliferate onto it, so don't be caught unawares if they do.",
+    "id": 69766,
+    "rarity": "Rare"
+  },
+  {
+    "card": "Emergence Zone",
+    "rating": "0.5",
+    "reason": "I don't think my mana can ever get good enough to justify playing Emergence Zone . The effect is just too minor to give up a colored source.",
+    "id": 69695,
+    "rarity": "Uncommon"
+  },
+  {
+    "card": "Gateway Plaza",
+    "rating": "1.0 // 3.0",
+    "reason": "Gateway Plaza is mediocre in 2-color decks and great in 3+ color decks, just like previous cards. Having your land cost 2 mana is rough, so it's only worth it if you're really going deep.",
+    "id": 69696,
+    "rarity": "Common"
+  },
+  {
+    "card": "Interplanar Beacon",
+    "rating": "1.5",
+    "reason": "You'd need a lot of planeswalkers before this becomes better than a basic land, and ideally they span 3+ colors as well.",
+    "id": 69697,
+    "rarity": "Uncommon"
+  },
+  {
+    "card": "Karn's Bastion",
+    "rating": "3.5",
+    "reason": "Karn's Bastion has a very powerful effect, and can win a game from a stalemate quite easily. Almost any deck will want this, and in a heavy proliferate deck, it's nearly a bomb.",
+    "id": 69698,
+    "rarity": "Rare"
+  },
+  {
+    "card": "Mobilized District",
+    "rating": "3.0",
+    "reason": "Mobilized District is a nice way to get value from a land, and often worth playing as the 18th land. It taps for mana until you need it to trade off, and can even pressure the opponent if you have a land-heavy draw. Whew. The journey was longer than anticipated, but we did get to the end. Thanks for bearing with me, and I'll be back soon with Constructed! LSV Luis is one of the most accomplished players in Magic: the Gathering history. His resume includes eight PT top 8s with a win at Berlin in 2008, fifteen GP Top 8s with five wins, and a Hall of Fame induction in 2013. He can often be found playing Vintage in between competitions and loves any format where Force of Will is legal.",
+    "id": 69699,
+    "rarity": "Rare"
+  },
+  {
+    "card": "Ajani's Pridemate",
+    "rating": "2.0/3.0",
+    "reason": "At a base level, Ajani's Pridemate is a passable card, and you may randomly end up with 1 or 2 life-gain cards in your deck. Once you have 3+, especially repeatable ones, this becomes a powerhouse, largely because the opportunity cost is so low on a 2-mana 2/2."
+  },
+  {
+    "card": "Battlefield Promotion",
+    "rating": "1.5",
+    "reason": "This isn't much of a promotion -- it comes with a small pay bump, but I bet the new boss is gonna pile on tons of new responsibilities. Basically, this is a fine trick if you're in the market for one, but most decks will want 0-2 cards in this vein, and this doesn't help your 2/2s take down 4/4s."
+  },
+  {
+    "card": "Bond of Discipline",
+    "rating": "1.5",
+    "reason": "I'm not very high on Bond of Discipline, despite it having a potentially powerful effect. This is the kind of card that really captures people's imaginations -- while there are games where this taps down six creatures and lets you attack for lethal (or near-lethal while you gain 10+ life), it also rots in your hand most games. When you have this in hand instead of another creature or a removal spell, you lose games where you just needed one more game piece, as this by itself doesn't get you ahead. If you compare it to Sleep , it's largely worse -- it only gives you one attack step, and the life gain is similar to preventing a counterattack. Add that to the fact that Sleep varied by format (it was good in fast formats and mediocre in slow, removal-heavy ones), and you have a card I think will be overrated. It is worth mentioning that with more planeswalkers, this does give you a way to kill opposing ‘walkers, but most of them provide value immediately, so spending a card killing them is often not the most exciting proposition. Overall, this card is playable as a way to win races and break board stalls, but I'd only run it if I had a ton of creatures and little removal. I'd also side it out against decks with lots of removal, so please be disciplined and don't just look at this and think it's the next Overrun ."
+  },
+  {
+    "card": "Bulwark Giant",
+    "rating": "1.5",
+    "reason": "This is expensive enough that I'd be looking to side it in against decks with reach (like burn, or funnily enough, cards like Bond of Discipline that get extra damage through). It's a mediocre main-deck card, given the stats and cost, but if you're playing a control deck and have no expensive cards, feel free to do your best Tormund Giantsbane impression. Yum."
+  },
+  {
+    "card": "Charmed Stray",
+    "rating": "1.0",
+    "reason": "Charming, yes. Effective, no. I'd mostly be looking to side this in against an aggro deck full of 2/1s, or maybe run this if I had multiple Ajani's Pridemates and a life-gain theme. There will be around 3 of these per draft, and I would want 5+ before even considering them. A stray one of these won't do much -- you need the whole pack before they become a threat."
+  },
+  {
+    "card": "Defiant Strike",
+    "rating": "2.0",
+    "reason": "The floor on a 1-mana card that replaces itself isn't very low, so I don't mind Defiant Strike if you are a couple cards short. It's also pretty nice in U/W or R/W, as there's a spells-matter theme going on in blue and red, so sometimes you'll end up enabling your Thunder Drakes or Spellgorger Weirds with this."
+  },
+  {
+    "card": "Divine Arrow",
+    "rating": "3.0",
+    "reason": "Divine Arrow is efficient enough that it's beyond reproach, as it kills most things and does so pretty cleanly. It's at its worst in aggressive decks, as they get to block before you can kill their creature, but even then it still removes 4/4s from play for only 2 mana."
+  },
+  {
+    "card": "Enforcer Griffin",
+    "rating": "2.0",
+    "reason": "At no point will you be excited to play Enforcer Griffin, but it should still make the cut more often than not. It's a solid combination of stats and cost, and fills out the 5-drop slot with a beefy evasive threat. It's nothing fancy, but it gets the job done."
+  },
+  {
+    "card": "Finale of Glory",
+    "rating": "4.5",
+    "reason": "At 4 mana, Finale of Glory is a slightly worse Call the Cavalry , but it scales up quickly after that. The sweet spot is 6-7 mana, though it's absurd if you somehow get to 12. The reason cards like this are so good is that they are very strong with lots of mana, yet still castable and effective if you're stuck on 4-5 mana. That flexibility plus power is worth a lot, and as a result this is one of the better cards in the set."
+  },
+  {
+    "card": "Gideon Blackblade",
+    "rating": "4.0",
+    "reason": "Gideon is powerful, but he can't protect himself, which unfortunately may lead to him getting killed. When you are ahead, Gideon will stomp your opponent -- an indestructible 4/4 attacker plus a good keyword each turn is a lot to handle. He eventually gets to exile anything he wants, though at that point your opponent is probably on the ropes anyway. That's a lot for 3 mana, and Gideon is a legit early pick. Still, if you are behind, he doesn't stop the opponent from bashing him, so he's a step below the bombs in the set."
+  },
+  {
+    "card": "Gideon's Sacrifice",
+    "rating": "0.5",
+    "reason": "It's really hard to get even one card's worth of value from Gideon's Sacrifice, much less multiple. If somehow you end up with a really big board, this could help sway a combat involving tons of creatures, but that's just not all that likely, and on the face of things this is card disadvantage."
+  },
+  {
+    "card": "Gideon's Triumph",
+    "rating": "3.0",
+    "reason": "While I normally don't like Edicts (cards that make your opponent choose and sacrifice a creature, named after Diabolic Edict , Killer of Morphlings, First of Its Name), Gideon's Triumph works a bit differently. It only interacts with creatures that attacked or blocked, which means your opponent's 5/5 can't hide behind their 1/1, as the 1/1 won't be getting into combat. Even if they do send both creatures, note that you can block and kill a smaller creature, then cast Gideon's Triumph after damage to make the opponent sacrifice the bigger one. You will take damage, but that's usually going to be worth it. I think this will play out pretty well, and I'd look at it like a slightly worse Divine Arrow ."
+  },
+  {
+    "card": "God-Eternal Oketra",
+    "rating": "5.0",
+    "reason": "So this is effectively a 5-mana 6/6 (slightly better, as double strike stacks nicely with combat tricks and is harder to multiblock), and the drawbacks are that it's unkillable and provides a constant stream of value? I'm in! God-Eternal Oketra is easily one of the best cards in the set, and you should slam it if you can -- I'd even consider switching into white if I opened this in pack two."
+  },
+  {
+    "card": "Grateful Apparition",
+    "rating": "1.0/3.5",
+    "reason": "Without any other synergies, this is mediocre, but the synergies with proliferate are abundant and easy to find. If you have two other cards that work well, I'd be grateful for Grateful Apparition, and at 3+ it becomes one of the better cards in your deck. I'd mostly look for +1/+1 counters, though planeswalker loyalty is another good combo."
+  },
+  {
+    "card": "Ignite the Beacon",
+    "rating": "1.0",
+    "reason": "Paying 5 mana to draw two cards is a tough sell, and unless you have 3-4 planeswalkers in your deck, you may not have two cards to draw. It is true that Ignite the Beacon finds two of your better cards, so I'd consider it if I had one great planeswalker and a couple decent ones, but it's slow enough that you have to make sure your deck has enough early game that you can afford to take a turn off to start igniting things."
+  },
+  {
+    "card": "Ironclad Krovod",
+    "rating": "1.5",
+    "reason": "Maybe I'm thinking too fondly of Wishcoin Crab , but I could see this providing ironclad defense of your planeswalkers. Granted, this format is shaping up to be slower than Guilds of Ravnica , but Crab was a 2.0 there, so I like starting this at 1.5."
+  },
+  {
+    "card": "Law-Rune Enforcer",
+    "rating": "3.5",
+    "reason": "We haven't seen a tapper this good in Limited for quite some time (this set has a bunch of intentionally juiced commons, which should be interesting). I like that it can't tap other copies of itself, as the \"tap your tapper\" dynamic can rune a game. This is cheap, locks down the creatures you care about (with the Zombie Army from amass being the most notable miss) and does a good job dealing with the progressively larger threats your opponent will produce. Law-Rune Enforcer is efficient enough that I'd play two with no problem, and three still sounds pretty good to me."
+  },
+  {
+    "card": "Loxodon Sergeant",
+    "rating": "1.5",
+    "reason": "Loxodon Sergeant may look appealing, but it's mediocre. A 3/3 for 4 is passable, and adding vigilance to both it and your team for one turn doesn't do a lot, so you end up with a filler card you're not thrilled to end up playing."
+  },
+  {
+    "card": "Makeshift Battalion",
+    "rating": "2.0",
+    "reason": "In a creature-heavy aggro deck, Makeshift Battalion does its job. It's a decent threat if you can trigger it once, and if you get there twice you got a very good deal."
+  },
+  {
+    "card": "Martyr for the Cause",
+    "rating": "2.0",
+    "reason": "A bear with upside is a fine playable, and Martyr for the Cause goes up in value if you end up with a bunch of planeswalkers and +1/+1 counters. It is pretty neat that it may stop your opponent from attacking entirely if you can chump and threaten a planeswalker ultimate, which really lets this live up to its name."
+  },
+  {
+    "card": "Parhelion II",
+    "rating": "3.0",
+    "reason": "Despite costing 8 mana and requiring multiple creatures to crew (or one big one), I'm still into it. It basically wins the game if it attacks, and this format does not seem like it punishes 8-drops as much as most. I wouldn't slam it in an aggro deck, but as a finisher for control or midrange it doesn't get much more powerful than Parhelion II."
+  },
+  {
+    "card": "Pouncing Lynx",
+    "rating": "2.5",
+    "reason": "I don't like Pouncing Lynx much in defensive decks, but it's a great attacker if you're in the market. I'm not surprised we are starting to see more first-strike-on-your-turn cards -- it's a clean mechanic that plays well."
+  },
+  {
+    "card": "Prison Realm",
+    "rating": "3.5",
+    "reason": "Cheap removal that also scrys? Sign me up! There's nothing fancy about this card, and it's good in and against any Limited deck."
+  },
+  {
+    "card": "Rally of Wings",
+    "rating": "1.0/2.5",
+    "reason": "Not many decks will be able to play this, but it's a beating when you do have a good Rally deck. A teamwide +2/+2 and an untap for just 2 mana is powerful -- I'd look to have 8+ fliers in my deck before Rallying. Note that this works very nicely with Trusted Pegasus , and I'd count Pegasus as two fliers for this calculation."
+  },
+  {
+    "card": "Ravnica at War",
+    "rating": "1.5",
+    "reason": "If your deck mostly dodges Ravnica at War, I'd lean toward maindecking it, as it does hit hybrid cards, and there are a lot of multicolored cards overall. This is also a good sideboard card, though pay close attention to what your opponent has -- you'll want to side it out or in depending on how much it hits, and it's critical you have the most accurate info possible."
+  },
+  {
+    "card": "Rising Populace",
+    "rating": "3.0",
+    "reason": "As long as you have a decent number of creatures/planeswalkers in your deck, this card will perform. Its stock rises especially quickly with planeswalkers, as those tend not to last too long on the battlefield."
+  },
+  {
+    "card": "Single Combat",
+    "rating": "1.0",
+    "reason": "I'm not a big fan of Single Combat. Your opponent getting to keep their best card means there's no way to really punish them, and having both players wait a turn before reloading isn't that huge either. I like this in Constructed, but in Limited I'm less optimistic."
+  },
+  {
+    "card": "Sunblade Angel",
+    "rating": "3.0",
+    "reason": "Sunblade Angel is expensive, so early in the Draft I wouldn't prioritize her (you have so few spots for expensive cards that I like to start out with cheaper ones). Still, once she hits the battlefield she does work, and she scales very nicely with any sort of pump spells. All those keywords add up, and she can easily dominate a game, even if it is unfortunate that she dies to a bunch of common removal spells."
+  },
+  {
+    "card": "Teyo, the Shieldmage",
+    "rating": "2.5",
+    "reason": "Like any good shield, Teyo's value is predicated on what he has to protect. If he's guarding other powerful planeswalkers, he can be dynamite, but if you're lacking in finishers he is more likely to break your heart than get anything meaningful done. I do like that he provides a lot of toughness and hexproof, so if you pick your spots right you can get plenty of value for 3 mana."
+  },
+  {
+    "card": "Teyo's Lightshield",
+    "rating": "2.5",
+    "reason": "I like this a bit more than I thought I would, all thanks to context (it's what makes Limited great). A +1/+1 counter is just worth a lot more with proliferate in the set, and this gets you started when you have multiple ways to get value from counters. Teyo's Lightshield also combines nicely with fliers, and at worst provides a 1/4 blocker to protect your planeswalkers. Note that this isn't a defender, so if it gets enough counters it can start bashing."
+  },
+  {
+    "card": "Tomik, Distinguished Advokist",
+    "rating": "3.0",
+    "reason": "You can safely ignore all of Tomik's fancy lands text, and evaluate Tomik as a 2/3 flier for 2. That is good, even with a WW casting cost."
+  },
+  {
+    "card": "Topple the Statue",
+    "rating": "2.0",
+    "reason": "Can anyone say best-of-one artifact hate? Topple the Statue does actually do the trick, as it's Ice for 3 mana, and a cantrip Shatter if they happen to have an artifact. Killing Parhelion with this is gross, and even if they don't have any good targets you can still tap down a key blocker or even a land on their upkeep."
+  },
+  {
+    "card": "Trusted Pegasus",
+    "rating": "3.5",
+    "reason": "Having this at 2/2 instead of 1/3, like the last couple incarnations of the effect , is a big change. This slants much more aggressive than Pegasus Courser, and can really pressure both opponents and their planeswalkers. Trusted Pegasus is fantastic in aggressive decks and really solid everywhere else, with only the most glacial of control decks not being interested."
+  },
+  {
+    "card": "The Wanderer",
+    "rating": "2.5",
+    "reason": "This wanders back and forth between being nearly a dead card and almost unbeatable, all depending on your opponent's deck. If they have a lot of big creatures, it can eviscerate their board, and lead to an insane 2-for-1. If not, it's basically blank, which makes me want to sideboard it unless I'm very short on removal. It's also relevant that it protects your creatures from burn spells, even if you won't always know when that part is being good."
+  },
+  {
+    "card": "Wanderer's Strike",
+    "rating": "3.0",
+    "reason": "Wanderer's Strike is a solid piece of removal, and in some sets would be among the better options. This set has a bunch of pushed commons, which makes Strike more of a decent card than a truly desirable one. I also wouldn't worry too much about the proliferate part -- in some decks that will be a good bonus, but even if you have zero combos, it's a fine card."
+  },
+  {
+    "card": "War Screecher",
+    "rating": "2.5",
+    "reason": "I like cheap creatures with expensive activated abilities, as they tend to be good at any point in the game. War Screecher is no exception, as it's a relevant early drop and a great way to use your mana later in the game. It does get better in aggressive decks, but it's still fine in any deck that needs a 2-drop."
+  },
+  {
+    "card": "Ashiok's Skulker",
+    "rating": "1.5",
+    "reason": "The idea here is that this can skulk by the opponent's defenses and kill planeswalkers, but in practice it's just a little too expensive to be good. I'd play this if I needed a body, as a 3/5 for 5 is passable, but it's not a high priority card.",
+    "id": 69491,
+    "rarity": "Common"
+  },
+  {
+    "card": "Augur of Bolas",
+    "rating": "1.5/2.5",
+    "reason": "In the spells-matter deck (mostly U/R) this is a fine 2-drop. At 8 spells, you're 50/50 to find one, which is decent. When you start lowering the spell count, this gets worse and worse, and it's not worth playing in the average 5-6 spell deck.",
+    "id": 69492,
+    "rarity": "Uncommon"
+  },
+  {
+    "card": "Aven Eternal",
+    "rating": "3.5",
+    "reason": "I really like Aven Eternal . A 2/2 flying plus a 1/1 is a great deal by itself, and this can combine with other amass cards and sacrifice outlets for additional value. You can't go wrong with a powerful card that's good on its own and good when combined with major themes of the set.",
+    "id": 69493,
+    "rarity": "Common"
+  },
+  {
+    "card": "Bond of Insight",
+    "rating": "1.0/3.0",
+    "reason": "I've been liking Bond in spell-heavy Draft decks. It flips four cards, so you have a few additional shots at finding better options, and a 2-for-1 that gets all the good common removal spells back is something I'm in for. This is another spells-matter payoff, and again rewards synergy more than just being a powerful card in a vacuum.",
+    "id": 69494,
+    "rarity": "Uncommon"
+  },
+  {
+    "card": "Callous Dismissal",
+    "rating": "3.0",
+    "reason": "This sounds better when you think about it as a 1/1 Man-o'-War (it sure did when I framed it that way for Marshall on the LR set review ), and it plays nicely with the various amass payoffs. I also like that it's a 2-drop if you need to make a relevant play early, and a good way to push damage through late. This is flexible and gives you good value, though the number is small enough that sometimes you want to trade your amass token off before casting this, as a 1/1 is often better than a +1/+1 counter (and that's true for any amass card -- think of ways to use the creature in order to get a new one).",
+    "id": 69495,
+    "rarity": "Common"
+  },
+  {
+    "card": "Commence the Endgame",
+    "rating": "4.0",
+    "reason": "Fittingly, this sounds like an Archenemy scheme rather than a normal Magic card. I'm a huge fan of Commence the Endgame  -- a 4/4 or 5/5 at instant speed that also draws you two cards is a beating. This can frequently ambush an attacker, and can be used as a combat trick if you already have an Army in play.",
+    "id": 69496,
+    "rarity": "Rare"
+  },
+  {
+    "card": "Contentious Plan",
+    "rating": "3.0",
+    "reason": "There's nothing contentious about this card -- it's just great. It's a low-cost way to get extra mileage out of amass cards and +1/+1 counters, and puts extra loyalty onto planeswalkers. Replacing itself is huge, and Contentious Plan is one of the best ways to make your proliferate deck tick.",
+    "id": 69497,
+    "rarity": "Common"
+  },
+  {
+    "card": "Crush Dissent",
+    "rating": "1.0",
+    "reason": "Crush Dissent is way worse than it looks. Leaving mana up for this and having the opponent play around it is brutal, and given that it isn't a hard counter, it's often easy for them to avoid walking into it. It's also quite difficult to get to a board state early where you can leave up 4 mana, and later in the game it won't usually counter anything. Crush Dissent is not a card I'd be happy to play, and the more people get used to factoring it in, the worse it will get.",
+    "id": 69498,
+    "rarity": "Common"
+  },
+  {
+    "card": "Erratic Visionary",
+    "rating": "2.5",
+    "reason": "As much as I like looters (I always loot), paying 2 mana is a real cost. I still do like that this is a 2-drop that develops your board while being a decent way to filter cards later, and 1/3 is a good statline to dump +1/+1 counters on in a proliferate deck.",
+    "id": 69499,
+    "rarity": "Common"
+  },
+  {
+    "card": "Eternal Skylord",
+    "rating": "4.0",
+    "reason": "I've had the pleasure of playing with this multiple times by now, and my estimation of it keeps going up. Eternal Skylord dominates the board, at worst is a 3/3 plus a 2/2, and frequently lets you hit with a 5/5 flyer the turn you play it. This is one of the best amass payoffs in the set, and even works nicely with proliferate, making it a slam-dunk early pick.",
+    "id": 69500,
+    "rarity": "Uncommon"
+  },
+  {
+    "card": "Fblthp, the Lost",
+    "rating": "3.0",
+    "reason": "Fblthp isn't just a meme card, as a 2-mana 1/1 that draws a card is a solid playable. It won't get shuffled back or played from your deck very frequently, but I'll take an Elvish Visionary any day of the week.",
+    "id": 69501,
+    "rarity": "Rare"
+  },
+  {
+    "card": "Finale of Revelation",
+    "rating": "3.5",
+    "reason": "This format lends itself well to this card, and if you can fire this off for 5 or 6 mana, you should be able to close out the game shortly thereafter. This pairs well with green acceleration or cheap removal in red-black, so keep that in mind if you pick this up early.",
+    "id": 69502,
+    "rarity": "Mythic Rare"
+  },
+  {
+    "card": "Flux Channeler",
+    "rating": "3.0",
+    "reason": "Flux Channeler looks like a build-around but it actually fits into just about any blue deck. It does get better when you try and maximize the ability, but your average deck will have 5+ spells and a bunch of rewards for proliferating, making this a great card even without putting in much work. Proliferate is a real thing, and this makes all of your amass cards and planeswalkers that much better.",
+    "id": 69503,
+    "rarity": "Uncommon"
+  },
+  {
+    "card": "God-Eternal Kefnet",
+    "rating": "5.0",
+    "reason": "All the God-Eternals are just absurd, and Kefnet is no exception. A 4-mana 4/5 flyer is already great, and this gives you random card advantage and is nearly unkillable. If you're lucky enough to get graced by a God-Eternal, do not turn down that gift.",
+    "id": 69504,
+    "rarity": "Mythic Rare"
+  },
+  {
+    "card": "Jace, Wielder of Mysteries",
+    "rating": "3.0",
+    "reason": "I would like Jace a lot more if his cost was a little bit lighter on the blue requirements. A lot of the power of planeswalkers is dropping them at the right time, ideally when ahead on board. At triple-blue, Jace is awkward to cast, though quite good when you get him into play. A card a turn and high loyalty is a good combo, and Jace can mill either player out to good effect. In general, I'd target the opponent, unless you're very confident you can keep Jace alive.",
+    "id": 69505,
+    "rarity": "Rare"
+  },
+  {
+    "card": "Jace's Triumph",
+    "rating": "3.0",
+    "reason": "I've never turned down a Divination , and I certainly won't be starting now. Don't be fooled though -- this being uncommon is because it's part of a cycle, not because Divination is all of a sudden better than common power level.",
+    "id": 69506,
+    "rarity": "Uncommon"
+  },
+  {
+    "card": "Kasmina, Enigmatic Mentor",
+    "rating": "3.5",
+    "reason": "Move over Jace, a new Wizard has entered the arena! Kasmina combines a powerful passive and a great minus ability, making her a great early pick. A 2/2 + a loot is great, and making the opponent pay more to target your stuff with spells increases the odds she survives to -2 a second time. Throw a little proliferate into the mix and you have a card that can snowball early and is wonderful late.",
+    "id": 69507,
+    "rarity": "Uncommon"
+  },
+  {
+    "card": "Kasmina's Transmutation",
+    "rating": "1.0",
+    "reason": "While this is a solution to some problematic cards (like God-Eternals), overall it's a fairly bad one. Your opponent gets to keep a 1/1, and can rescue their creature later with bounce or enchantment removal. This also doesn't interact well with armies, as they are 0/0 base, so this actually makes them bigger.",
+    "id": 69508,
+    "rarity": "Common"
+  },
+  {
+    "card": "Kiora's Dambreaker",
+    "rating": "2.0",
+    "reason": "While I wouldn't call this great, it's been pretty dam good, and definitely better than it looks. Proliferate is a well-supported mechanic, and it's easy to get two counters or more out of this, which makes it worth 6 mana.",
+    "id": 69509,
+    "rarity": "Common"
+  },
+  {
+    "card": "Lazotep Plating",
+    "rating": "2.5",
+    "reason": "I'm a fan of Lazotep Plating . It will often save a creature and give you a solid bonus, and it can even protect you from discard or burn that's going upstairs. That's a lot of value for 2 mana, though if you have zero other amass cards you may end up cutting this.",
+    "id": 69510,
+    "rarity": "Uncommon"
+  },
+  {
+    "card": "Naga Eternal",
+    "rating": "0.5",
+    "reason": "There are more than enough playables in this format, and I'd be eternally sad if this made the cut.",
+    "id": 69511,
+    "rarity": "Common"
+  },
+  {
+    "card": "Narset, Parter of Veils",
+    "rating": "1.0/3.0",
+    "reason": "Narset is very similar to Augur of Bolas and operates under basically the same restrictions. I have had the passive come up before, and it was pretty annoying against my looter, but for the most part it won't make a huge impact.",
+    "id": 69512,
+    "rarity": "Uncommon"
+  },
+  {
+    "card": "Narset's Reversal",
+    "rating": "0.5",
+    "reason": "Narset's Reversal is too narrow for what you end up getting. Even when this does work, it's not often a huge blowout, and it will rot in your hand too often for my taste.",
+    "id": 69513,
+    "rarity": "Rare"
+  },
+  {
+    "card": "No Escape",
+    "rating": "2.0",
+    "reason": "I don't mind playing one of these if I need another 3-drop, as this does counter most of the cards you care about. Having only a single blue in the cost and providing a scry 1 makes this easy to use and rewarding, though you don't want too many counters in most decks.",
+    "id": 69514,
+    "rarity": "Common"
+  },
+  {
+    "card": "Relentless Advance",
+    "rating": "1.5",
+    "reason": "While Relentless Advance is better than a Hill Giant , you do need a couple of synergies before it becomes good enough to play. I'd run this with 2+ amass or proliferate payoffs, and it even checks the box for spells-matter decks if you run short. These aren't hard to pick up, so don't go nuts grabbing them early.",
+    "id": 69515,
+    "rarity": "Common"
+  },
+  {
+    "card": "Rescuer Sphinx",
+    "rating": "3.0",
+    "reason": "The Sphinx is a big flyer that often bounces something with a good ETB ability, which is well worth 4 mana. I've liked this with Lazotep Reaver primarily, though there are plenty of juicy options to pick up. It's also perfectly playable without synergies, as it threatens enough damage in the air that it's a force to be reckoned with.",
+    "id": 69516,
+    "rarity": "Uncommon"
+  },
+  {
+    "card": "Silent Submersible",
+    "rating": "1.5",
+    "reason": "I'm deeply disappointed in Silent Submersible . Not only is it mediocre in Limited, which is a waste of a cool card concept, how does the submarine not have evasion of some kind?! The flavor judge in me finds this wanting.",
+    "id": 69517,
+    "rarity": "Rare"
+  },
+  {
+    "card": "Sky Theater Strix",
+    "rating": "1.0",
+    "reason": "Much like the actual theater experience these days, this usually isn't worth leaving home for. It takes too much work to get a good damage output, and doesn't block well at all. I could see running it in very dedicated spells decks, or siding it in against specific planeswalkers if your opponent is weak to flyers.",
+    "id": 69518,
+    "rarity": "Common"
+  },
+  {
+    "card": "Spark Double",
+    "rating": "3.5",
+    "reason": "Finally, MTG Arena's own Sparky gets a card! Spark Double is almost always worth more than the mana you paid for it, as a +1/+1 counter or +1 loyalty makes copying a 3-drop pretty good value (and that's near the floor). This card is splashable, powerful, and only requires that you have some good creatures/planeswalkers in order to profit.",
+    "id": 69519,
+    "rarity": "Rare"
+  },
+  {
+    "card": "Spellkeeper Weird",
+    "rating": "2.0",
+    "reason": "Even in spells-matter decks, this is a little bit slow. It does do a decent job of defending you early, but getting the spell back is more of a late-game bonus than the main focus of the card. I'd look to play this when I have 5+ good spells to get back, ideally alongside a few others just to have options.",
+    "id": 69520,
+    "rarity": "Common"
+  },
+  {
+    "card": "Stealth Mission",
+    "rating": "1.5",
+    "reason": "Even though this does let you kill most planeswalkers with ease, it usually isn't that great of a deal. Spending a card to kill a planeswalker that already used its ability isn't where I want to be, even if I get a couple +1/+1 counters as part of the deal. In an aggressive deck, this is a decent finisher, but most blue decks don't seem to be interested in closing out the game like this.",
+    "id": 69521,
+    "rarity": "Common"
+  },
+  {
+    "card": "Tamiyo's Epiphany",
+    "rating": "3.5",
+    "reason": "I foresee casting this card a lot, especially given how nicely it pairs with removal. Getting to look at up to six cards is immensely powerful, and it gives you a great chance of finding whatever you are looking for. The only reason this isn't the best blue common is because of how absurd Aven Eternal is, but both are well above the curve we are used to for commons.",
+    "id": 69522,
+    "rarity": "Common"
+  },
+  {
+    "card": "Teferi's Time Twist",
+    "rating": "1.5",
+    "reason": "Running the triple T is perfectly reasonable, and gets better the more ETB and proliferate effects you have. This is the kind of card it can be hard to find room for, so don't prioritize it, but if you have an extra slot this fights removal pretty well.",
+    "id": 69523,
+    "rarity": "Common"
+  },
+  {
+    "card": "Thunder Drake",
+    "rating": "3.5",
+    "reason": "I really like Thunder Drake . It's not hard to make this a 3/4, and 4/5 is definitely not out of the question. It makes cheap cards more valuable, especially cantrips like Defiant Strike , and fits perfectly into the blue-red spells deck.",
+    "id": 69524,
+    "rarity": "Common"
+  },
+  {
+    "card": "Totally Lost",
+    "rating": "1.5",
+    "reason": "Fblthp's Signature Spellbook is a passable card, but not exciting in the slightest. You play this if you have no other good removal options, or if your spells-matter deck really needs another instant. Note that against planeswalkers, you often want to cast this during the opponent's draw step. That stops them from using the planeswalker that turn, because they can't until their main phase, but also prevents them from drawing it since they've drawn for their turn, so you get a guaranteed turn off.",
+    "id": 69525,
+    "rarity": "Common"
+  },
+  {
+    "card": "Wall of Runes",
+    "rating": "1.5",
+    "reason": "In a good control deck, Wall of Runes can buy you some breathing room at a pretty cheap cost. Blocking early and scrying gives you time to leverage cards like Tamiyo's Epiphany , which makes this a little better than it looks.",
+    "id": 69526,
+    "rarity": "Common"
+  },
+  {
+    "card": "Arboreal Grazer",
+    "rating": "0.0",
+    "reason": "Despite losing to this at the Mythic Championship (turn 2 Trusted Pegasus got me good), I would highly recommend against playing it. An 0/3 and an extra land drop is not worth a card, even with reach, and there's not much that this can do to make it worth running. Maybe a G/B sacrifice deck that needs more fodder, but that also is a reach.",
+    "id": 69600,
+    "rarity": "Common"
+  },
+  {
+    "card": "Arlinn, Voice of the Pack",
+    "rating": "3.5",
+    "reason": "Arlinn is not only the voice of the pack, she's the whole pack in one card. She is a little soft to flyers, but unimpeded puts three 3/3 Wolves into play, while pumping any stray Arlinn's Wolves you also happen to cast. Note that if you use her -2 and she dies, the ensuing Wolf will not get a +1/+1 counter. Arlinn is also awesome with proliferate, as she gets counters and so do all of her Wolves.",
+    "id": 69601,
+    "rarity": "Uncommon"
+  },
+  {
+    "card": "Arlinn's Wolf",
+    "rating": "2.0",
+    "reason": "I've liked Arlinn's Wolf well enough. Dodging 2/x creatures is surprisingly strong on a 3/2, as this tends to trade up more often than not. It also threatens planeswalkers nicely, and is a fine way to fill out your curve.",
+    "id": 69602,
+    "rarity": "Common"
+  },
+  {
+    "card": "Awakening of Vitu-Ghazi",
+    "rating": "3.5",
+    "reason": "Unchecked, this card wins the game very quickly -- a 9/9 haste is a beating. It sadly does lack trample, which means the opponent can sometimes chump, then kill or bounce it, but every time they don't they lose in a matter of turns. It's also an instant, so you can ambush opposing attackers if that's a better use.",
+    "id": 69603,
+    "rarity": "Rare"
+  },
+  {
+    "card": "Band Together",
+    "rating": "3.0",
+    "reason": "Band Together is a fine removal spell, and has a couple of things that make it stand out compared to cards like Pounce . First of all, it's a sucker punch, not a fight -- the enemy creature doesn't hit back. It also lets you combine forces, which not only lets you kill bigger creatures, but gives you backup in case of removal (if you punch their 3/3 with two of yours, they need two removal spells to get out of it). Note that this works well with deathtouch and lifelink too.",
+    "id": 69604,
+    "rarity": "Common"
+  },
+  {
+    "card": "Bloom Hulk",
+    "rating": "3.5",
+    "reason": "Each color got a pushed common, and green's is definitely Bloom Hulk . This offers a ton of stats naturally, and pairs very nicely with any sort of counters, of which there are many. I like this in any green deck, and once the proliferate really starts popping, this becomes an easy early pick.",
+    "id": 69605,
+    "rarity": "Common"
+  },
+  {
+    "card": "Bond of Flourishing",
+    "rating": "3.0",
+    "reason": "Bond is a solid bit of card selection, and the 3 life doesn't hurt. Unless your deck is particularly spell-heavy, I'd always run this, and it's a great way to use your mana on turn 2 (or any other turn where you're not curving out).",
+    "id": 69606,
+    "rarity": "Uncommon"
+  },
+  {
+    "card": "Centaur Nurturer",
+    "rating": "2.0",
+    "reason": "In the 5-color green deck, Centaur Nurturer rockets up in value, but in a normal 2-color deck that isn't ramping super hard, this is nothing special. If you want these, you can usually get them.",
+    "id": 69607,
+    "rarity": "Common"
+  },
+  {
+    "card": "Challenger Troll",
+    "rating": "3.5",
+    "reason": "New Troll here! Challenger Troll is a beating by itself, and it even does something as soon as it comes down by making your other big guns harder to block effectively. This is exactly what you want in most green decks, and can close out games quite well.",
+    "id": 69608,
+    "rarity": "Uncommon"
+  },
+  {
+    "card": "Courage in Crisis",
+    "rating": "3.0",
+    "reason": "At a base level, Courage in Crisis is nothing special. It's two +1/+1 counters, and at sorcery speed. But this set is made to optimize proliferate, and Courage in Crisis is often worth 4+ counters, making it a huge swing. I take this highly in G/W proliferate, and it has its moments in any color combination once you hit four or five cards that combo with it.",
+    "id": 69609,
+    "rarity": "Common"
+  },
+  {
+    "card": "Evolution Sage",
+    "rating": "4.0",
+    "reason": "Evolution Sage is a near-bomb, as it gives you a ton of value for very little investment. This snowballs wildly if you can put a counter or two on your creatures, and plays a lot closer to Tireless Tracker than you might think. If you are lucky enough to start with Evolution Sage, you can usually draft a pretty sick proliferate deck.",
+    "id": 69610,
+    "rarity": "Uncommon"
+  },
+  {
+    "card": "Finale of Devastation",
+    "rating": "1.0",
+    "reason": "Despite an early misread of what Finale of Devastation does (Matt Nass lied to me and told me it got a creature from both your deck and graveyard), I now know how this works, and it isn't good. Paying a 2 mana premium on top of your creature's cost isn't worth it, and I'd only play this if I had some nuts creatures and was short on playables.",
+    "id": 69611,
+    "rarity": "Mythic Rare"
+  },
+  {
+    "card": "Forced Landing",
+    "rating": "1.0",
+    "reason": "Forced Landing is perfectly good sideboard material, and you aren't forced to main deck it in this format.",
+    "id": 69612,
+    "rarity": "Common"
+  },
+  {
+    "card": "Giant Growth",
+    "rating": "1.5",
+    "reason": "WAR is not the format for Giant Growth , despite +3/+3 for 1 mana looking like a great deal. It just happens that this doesn't work in 5-Color Green, isn't a +1/+1 counter trick for the proliferate decks, and often ends up on the chopping block as a result. If you're playing an aggressive deck and don't care about proliferate, Giant Growth is a fine option, but it's not the all-star it used to be.",
+    "id": 69613,
+    "rarity": "Common"
+  },
+  {
+    "card": "God-Eternal Rhonas",
+    "rating": "4.5",
+    "reason": "Rhonas doesn't disappoint. It's a 5/5 unkillable, deathtouch monster for 5, and makes all of your creatures hit very hard for a turn (though note that it doesn't help them survive any better). It can also work to trade Rhonas off late game so you get the ETB effect again once you redraw it. The God-Eternals are pretty silly, and even as one of the lesser ones, Rhonas delivers.",
+    "id": 69614,
+    "rarity": "Mythic Rare"
+  },
+  {
+    "card": "Jiang Yanggu, Wildcrafter",
+    "rating": "2.5",
+    "reason": "I'm not as high on Jiang as some people. I find him to be a little too vulnerable for my tastes, and once he's killed, all your bonus mana goes away. Sure, if you curve out and can protect Jiang, he gives you a big advantage, but I've had enough games where that doesn't happen that I'm no longer treating him as a great card.",
+    "id": 69615,
+    "rarity": "Uncommon"
+  },
+  {
+    "card": "Kraul Stinger",
+    "rating": "1.5",
+    "reason": "Kraul Stinger is a better blocker than attacker, and in both cases is rarely a high pick (it definitely stings to take this early). If you need more creatures, this can fill out your curve, but don't go nuts over it.",
+    "id": 69616,
+    "rarity": "Common"
+  },
+  {
+    "card": "Kronch Wrangler",
+    "rating": "3.0",
+    "reason": "KRONCH (Wrangler)! The Wrangler is great in all but the most controlling green decks, as it's hard not to have 3+ creatures that trigger it, and like the card suggests, it's excellent in the R/G Kronch archetype. Trample kicks in once this grows, and it even picks up some nice proliferate synergy once it starts getting bigger.",
+    "id": 69617,
+    "rarity": "Common"
+  },
+  {
+    "card": "Mowu, Loyal Companion",
+    "rating": "3.5",
+    "reason": "More like Mowow, amiright? Mowu gets really big, really fast, and all you need is something tons of commons in multiple colors provide. Mowu is worth building around, and doesn't even take much dedication -- a few ways to gain counters and you're in business.",
+    "id": 69618,
+    "rarity": "Uncommon"
+  },
+  {
+    "card": "New Horizons",
+    "rating": "2.5",
+    "reason": "New Horizons is much better than it initially looked. It provides a +1/+1 counter for proliferate purposes and color fixing in a format where 3+ colors is viable, which makes it a desirable common for most green decks.",
+    "id": 69619,
+    "rarity": "Common"
+  },
+  {
+    "card": "Nissa, Who Shakes the World",
+    "rating": "4.5",
+    "reason": "You can definitely count on Nissa to shake up any game she's involved in. Making a 3/3 every turn is big, and doubling the mana from your Forests means you will be able to deploy the rest of your cards while using your 3/3s to brawl. You can do some neat stuff by untapping Forests, but regardless of how you use Nissa, you'll end up ahead.",
+    "id": 69620,
+    "rarity": "Rare"
+  },
+  {
+    "card": "Nissa's Triumph",
+    "rating": "1.0",
+    "reason": "Nissa's Triumph costing double-green is pretty awkward, as it means this doesn't fix colors, just total mana. I'd only play this in a heavy green deck that has a high curve, and it's generally worse than other options on the table.",
+    "id": 69621,
+    "rarity": "Uncommon"
+  },
+  {
+    "card": "Paradise Druid",
+    "rating": "3.5",
+    "reason": "Paradise Druid fixes for every color, which is awesome in the 5-color decks and great even in a 2-color deck. You know it's going to survive, too, and if you really need it for something down the line you can avoid tapping it.",
+    "id": 69622,
+    "rarity": "Uncommon"
+  },
+  {
+    "card": "Planewide Celebration",
+    "rating": "3.5",
+    "reason": "All of the modes on Planewide Celebration are good in different situations, which makes this the ever-desirable combo of powerful and flexible. Getting back a permanent is the most powerful usually, though since it doesn't affect the board, you usually combine it with making some 2/2s. If the board lends itself, proliferating can be great too, and in a pinch the life gain can keep you alive. I'd look to draft a more controlling deck if I had this, as it closes out games nicely.",
+    "id": 69623,
+    "rarity": "Rare"
+  },
+  {
+    "card": "Pollenbright Druid",
+    "rating": "3.0",
+    "reason": "Pollenbright Druid looks innocuous, but it's impressive. It's a 2/2 for 2 early and can really amp up your board once you've gotten some +1/+1 counter action going, making it slot nicely at any point in the curve. This is one of the better green commons, and really rewards you for drafting a proliferate deck.",
+    "id": 69624,
+    "rarity": "Common"
+  },
+  {
+    "card": "Primordial Wurm",
+    "rating": "1.5",
+    "reason": "If you need a 6-drop, Primordial Wurm will get the job done, even if it's not the most exciting card to include.",
+    "id": 69625,
+    "rarity": "Common"
+  },
+  {
+    "card": "Return to Nature",
+    "rating": "1.0",
+    "reason": "Strict sideboard material, Return to Nature is not a high priority, as this format doesn't have tons of good targets.",
+    "id": 69626,
+    "rarity": "Common"
+  },
+  {
+    "card": "Snarespinner",
+    "rating": "3.0",
+    "reason": "I've seen bigger spiders, though Snarespinner wins the efficiency prize for sure. I really like this, as there is a dearth of good 2-drops, and this curves nicely into New Horizons . It's good in all the defensive green decks, and is especially important for planeswalker protection.",
+    "id": 69627,
+    "rarity": "Common"
+  },
+  {
+    "card": "Steady Aim",
+    "rating": "0.5",
+    "reason": "This definitely missed the mark. It doesn't provide enough power to be worth it, and untapping the creature and giving it reach aren't enough to salvage the card.",
+    "id": 69628,
+    "rarity": "Common"
+  },
+  {
+    "card": "Storm the Citadel",
+    "rating": "1.0",
+    "reason": "+2/+2 at sorcery speed isn't impressive, and turning all of your creatures into Trygon Predators for a turn does not make Storm the Citadel all that much more exciting. Overrun this is not, and if these are the tactics used, no wonder Bolas did so well.",
+    "id": 69629,
+    "rarity": "Uncommon"
+  },
+  {
+    "card": "Thundering Ceratok",
+    "rating": "2.5",
+    "reason": "Ceratok fits nicely into 4-power matters decks and is just a good deal on stats alone. I tend to be pretty happy playing this, and any additional synergies are a nice bonus.",
+    "id": 69630,
+    "rarity": "Common"
+  },
+  {
+    "card": "Vivien, Champion of the Wilds",
+    "rating": "4.0",
+    "reason": "Vivien gives you a ton of value for 3 mana. She's got one of the best passive abilities, and reliably draws you cards in a creature-heavy deck. What usually happens is that your opponent is forced to attack into Vivien, at which point you can flash in creatures and get your ambush on. Note that you can play exiled cards even if Vivien dies, so it's almost impossible not to get something good out of this very cheap investment.",
+    "id": 69631,
+    "rarity": "Rare"
+  },
+  {
+    "card": "Vivien's Arkbow",
+    "rating": "1.0",
+    "reason": "Her Arkbow , on the other hand, is an expensive investment, and not a reliable one. When you hit, you still traded 1-for-1, after spending a card on the bow. That's fine, but when you miss, you lost so much time and a lot of resources, making this a very bad bet (and leading to some very bad beats).",
+    "id": 69632,
+    "rarity": "Rare"
+  },
+  {
+    "card": "Vivien's Grizzly",
+    "rating": "2.0",
+    "reason": "The Grizzly is a fine mana sink, and a decent way to gum up the ground. I usually want one of these in my slower green decks, and haven't looked to play multiples.",
+    "id": 69633,
+    "rarity": "Common"
+  },
+  {
+    "card": "Wardscale Crocodile",
+    "rating": "1.0",
+    "reason": "3 toughness is too low for my tastes, and I tend to sideboard Wardscale Crocodile more than main deck it. It's just too small and too expensive, and this format isn't about building a giant hexproof battlecruiser.",
+    "id": 69634,
+    "rarity": "Common"
+  },
+  {
+    "card": "Ahn-Crop Invader",
+    "rating": "3.0",
+    "reason": "It takes a little work to make Ahn-Crop Invader perform at full potential, but in red-black sacrifice or red-white aggro this is a beater. You do have to avoid going all-in when the opponent has mana untapped, but it can usually get in for solid damage without having to be fed. I also wish this was bad so I could call it the Ahn-Crap Invader, but it's way too good to deserve that moniker.",
+    "id": 69564,
+    "rarity": "Common"
+  },
+  {
+    "card": "Blindblast",
+    "rating": "1.5",
+    "reason": "Blindblast occupies a weird spot. It's not an intrinsically powerful card, but in the right deck it does a good job checking some boxes. It can pick off small creatures, but there aren't tons of those that really matter (amass tokens aren't exactly must-kills), and removing blockers doesn't matter as much as just drawing a card and being a spell. The decks that want this are mostly the spells-matter decks, though aggressive decks can play this if needed. The grade reflects how often you cut the card, even if I never feel too bad about playing this because it replaces itself.",
+    "id": 69565,
+    "rarity": "Common"
+  },
+  {
+    "card": "Bolt Bend",
+    "rating": "1.5 // 3.0",
+    "reason": "In a deck with a lot of 4-power creatures, Bolt Bend is a very strong spell. Sure, it may not have many targets in the opposing deck but when you do land it, it completely destroys the opponent. Making a removal spell hit their own creature for 1 mana is an incredible swing, and worth sometimes having a dead card in hand. This is a card that highly relies on the opponent's deck, so side it out aggressively if you don't see any targets.",
+    "id": 69566,
+    "rarity": "Uncommon"
+  },
+  {
+    "card": "Bond of Passion",
+    "rating": "2.0",
+    "reason": "At 6 mana, Bond is a pricey number, even if it kills planeswalkers quite effectively. It's a little too expensive to reliably be part of the sacrifice-themed deck, so I'd mostly look to use this as a curve-topper in aggressive decks.",
+    "id": 69567,
+    "rarity": "Uncommon"
+  },
+  {
+    "card": "Burning Prophet",
+    "rating": "2.5",
+    "reason": "It's not hard to pick up 7-8 noncreature spells, at which point this becomes a solid addition. Once you get above 10, Burning Prophet is great, and in both cases it benefits from the lack of good 2-drops in the set.",
+    "id": 69568,
+    "rarity": "Common"
+  },
+  {
+    "card": "Chainwhip Cyclops",
+    "rating": "1.5",
+    "reason": "There's no shortage of 5+ drops, as usual, so I wouldn't describe this one as off the chain. If you need an expensive card, I'd keep an eye out for this, but it's rarely a priority.",
+    "id": 69569,
+    "rarity": "Common"
+  },
+  {
+    "card": "Chandra, Fire Artisan",
+    "rating": "4.0",
+    "reason": "Chandra is a brutal play when you're ahead, and can even turn the tables when you're behind, depending on the situation. The most common sequence is that you play her, +1, and she gets attacked for a couple points next turn. You then get to untap with her in play and protect her from there, leaving you with a powerful card draw machine. Note that you can play lands off her ability, so you usually want to use it first thing each turn. Her passive ability is great too, as she punishes the opponent hard for attacking her, and can take down opposing planeswalkers easily. Chandra is a great card, and one I'll take early if I'm lucky enough to have the option.",
+    "id": 69570,
+    "rarity": "Rare"
+  },
+  {
+    "card": "Chandra's Pyrohelix",
+    "rating": "2.5",
+    "reason": "The first Pyrohelix is pretty good, but these aren't great in multiples, as they run out of targets quickly. This format doesn't revolve around small creatures, so it's not unthinkable that you'd side this out if the opponent is light on targets.",
+    "id": 69571,
+    "rarity": "Common"
+  },
+  {
+    "card": "Chandra's Triumph",
+    "rating": "3.5",
+    "reason": "The difference between 2 and 3 damage is big, and Chandra's Triumph is a great piece of removal. It does the job you want, and does it efficiently.",
+    "id": 69572,
+    "rarity": "Uncommon"
+  },
+  {
+    "card": "Cyclops Electromancer",
+    "rating": "1.5/3.5",
+    "reason": "This scales up pretty quickly once you hit 7 spells, and at 13+ it essentially becomes a Flametongue Kavu . That's a good build-around if I've ever seen one, and makes Cyclops Electromancer worth speculating on early.",
+    "id": 69573,
+    "rarity": "Uncommon"
+  },
+  {
+    "card": "Demolish",
+    "rating": "0.0",
+    "reason": "Demolish is in every set and not once have I sided it in.",
+    "id": 69574,
+    "rarity": "Common"
+  },
+  {
+    "card": "Devouring Hellion",
+    "rating": "1.0 // 3.0",
+    "reason": "Red-black and red-blue both enable the sacrifice deck well enough, largely thanks to amass. Note that this can eat planeswalkers too, and devouring one with 1 loyalty that's just sitting there can be effective. I'm a little lower on Devouring Hellion than I would be if the removal in this set wasn't so good, and I'd usually recommend against going all-in early.",
+    "id": 69575,
+    "rarity": "Uncommon"
+  },
+  {
+    "card": "Dreadhorde Arcanist",
+    "rating": "2.0",
+    "reason": "Sometimes this goes up in value quite a bit, as it can really go nuts with pump spells or cards like Stealth Mission . If you have no ways to pump it or 1-drop spells, it's nothing special, but most aggressive decks will find ways to use Dreadhorde Arcanist.",
+    "id": 69576,
+    "rarity": "Rare"
+  },
+  {
+    "card": "Dreadhorde Twins",
+    "rating": "2.5",
+    "reason": "Dreadhorde Twins isn't bad, though it needs support to make it better than a red Call the Cavalry . The best place for this is a deck with Heartfire or other sacrifice cards, a heavy amass deck, or ideally both.",
+    "id": 69577,
+    "rarity": "Uncommon"
+  },
+  {
+    "card": "Finale of Promise",
+    "rating": "1.0/3.5",
+    "reason": "This is a promising build-around, and it's basically a blue-red gold card. If you've got a healthy mix of instants and sorceries, this really delivers, and it triggers cards like Spellgorger Weird three times. That's a lot of action, and Finale of Promise is one of the better reasons to be in the spells deck in the first place.",
+    "id": 69578,
+    "rarity": "Mythic Rare"
+  },
+  {
+    "card": "Goblin Assailant",
+    "rating": "1.0",
+    "reason": "When I say this format is short on good 2-drops, that doesn't mean Goblin Assailant goes up in value. In fact, this is part of why the format is short on good 2-drops, as this certainly is not one.",
+    "id": 69579,
+    "rarity": "Common"
+  },
+  {
+    "card": "Goblin Assault Team",
+    "rating": "1.5",
+    "reason": "The best use of Goblin Assault Team is to enable Raging Kronch or various 4-power synergies. It's only got 1 toughness, so it won't ever survive combat, but it at least takes something out with it.",
+    "id": 69580,
+    "rarity": "Common"
+  },
+  {
+    "card": "Grim Initiate",
+    "rating": "2.0",
+    "reason": "I've ended up playing Grim Initiate a lot more often than I thought I would. It provides just enough value between sacrifice cards and amass synergies, and I like this in most R/B or U/R decks (less so in R/W or R/G, though it can be passable there sometimes).",
+    "id": 69581,
+    "rarity": "Common"
+  },
+  {
+    "card": "Heartfire",
+    "rating": "2.0 // 3.0",
+    "reason": "In a deck with 3-4 good fodder cards, Heartfire is an excellent removal spell (or finisher). Most decks will want this, and some decks will really want it, as it pairs excellently with amass, Tibalt, and Tibalt's Rager .",
+    "id": 69582,
+    "rarity": "Common"
+  },
+  {
+    "card": "Honor the God-Pharaoh",
+    "rating": "2.5",
+    "reason": "I like how good the commons are in WAR. It's not like Honor the God-Pharaoh is something special, but adding amass to Tormenting Voice really goes a long way. I've liked it in most red decks, especially those that care about spells and having creatures to sacrifice (which as you can see, is a lot of the space for red).",
+    "id": 69583,
+    "rarity": "Common"
+  },
+  {
+    "card": "Ilharg, the Raze-Boar",
+    "rating": "4.0",
+    "reason": "The worst God-Eternal is still great. Ilharg is enormous, attacks for a ton of trampling damage, and can bring friends along for the ride. This is well-suited to take out your opponent in a few short attacks, and even kings have been known to fall to the Raze-Boar. Note that the creature this puts in doesn't return until EOT, so you may want to just cast it if you have a lot of mana and don't care about attacking immediately.",
+    "id": 69584,
+    "rarity": "Mythic Rare"
+  },
+  {
+    "card": "Invading Manticore",
+    "rating": "2.0",
+    "reason": "This is replaceable but powerful, and if you need a finisher, it doesn't sting to have to play this. The cycle of 6-drops at common makes each individual one low-priority, as you want 1-2 cards of that cost at most.",
+    "id": 69585,
+    "rarity": "Common"
+  },
+  {
+    "card": "Jaya, Venerated Firemage",
+    "rating": "3.5",
+    "reason": "Jaya is a beating. Getting two Shocks plus a good passive (which makes your creatures deal more damage in combat, mind you) is a great deal for 5 mana. Jaya is a powerful splash, though she's at her best in a heavy-red deck. She's also very good with Chandra's Pyrohelix , as it deals 2 damage to two targets (or 3 to one) with her passive around.",
+    "id": 69586,
+    "rarity": "Uncommon"
+  },
+  {
+    "card": "Jaya's Greeting",
+    "rating": "3.5",
+    "reason": "You can't go wrong with Jaya's Greeting , and it's certainly the best red common. It takes out most creatures that cost 4 or less, and even nets you a scry while you're at it.",
+    "id": 69587,
+    "rarity": "Common"
+  },
+  {
+    "card": "Krenko, Tin Street Kingpin",
+    "rating": "3.5",
+    "reason": "Krenko gets out of control really quickly. If you play him early, he is a must-answer, and if you have one removal spell the opponent may just die to the Goblin hoard. He also scales really nicely with pump spells (any Goblin Stealth Missions?), and even later in the game it's a card you have to watch out for. He gets high marks for the runaway potential, and is a card I'd be happy to take early.",
+    "id": 69588,
+    "rarity": "Rare"
+  },
+  {
+    "card": "Mizzium Tank",
+    "rating": "1.5",
+    "reason": "I'm not a big fan of Mizzium Tank . In a spell-heavy deck, it's still worse than Spellgorger Weird , though it's an acceptable payoff. In a deck without a lot of spells, it's nigh-unplayable, leaving it in the mediocre build-around camp.",
+    "id": 69589,
+    "rarity": "Rare"
+  },
+  {
+    "card": "Nahiri's Stoneblades",
+    "rating": "1.0",
+    "reason": "Every now and then, a spell deck that is lacking in spells will play this, but it's a marginal card at best. Of all cards to call the stoneblade, this is not what I would have picked.",
+    "id": 69590,
+    "rarity": "Common"
+  },
+  {
+    "card": "Neheb, Dreadhorde Champion",
+    "rating": "4.0",
+    "reason": "Neheb is huge, hits for a lot of damage, and can let you cycle through all of your bad cards. That's a great deal for 4 mana, and not one I'm going to pass up.",
+    "id": 69591,
+    "rarity": "Rare"
+  },
+  {
+    "card": "Raging Kronch",
+    "rating": "3.0",
+    "reason": "KRONCH! This card is both funny and good, and does a great job in any aggressive deck. Note that it can block without any help, so don't go attacking into any Kronches, wild or not.",
+    "id": 69592,
+    "rarity": "Common"
+  },
+  {
+    "card": "Samut's Sprint",
+    "rating": "1.0",
+    "reason": "Like Nahiri's Stoneblades , I'd save Samut's Sprint for a spells-matter deck, though you can also play it in a very aggressive deck in a pinch.",
+    "id": 69593,
+    "rarity": "Common"
+  },
+  {
+    "card": "Sarkhan, the Masterless",
+    "rating": "4.5",
+    "reason": "Sarkhan gives you a 4/4 Dragon at the very worst, and his other abilities are definitely relevant too. He stops x/1s from attacking, can let your planeswalkers alpha strike, and eventually makes a second Dragon if the game somehow lasts long enough. Sarkhan is one of the bigger bombs in the set, and I'd recommend slamming him if that's an option.",
+    "id": 69594,
+    "rarity": "Rare"
+  },
+  {
+    "card": "Sarkhan's Catharsis",
+    "rating": "1.0",
+    "reason": "The best use for Sarkhan's Catharsis is to side it in against planeswalkers, though an extremely aggressive deck may just want it as a finisher. As cathartic as it may feel, killing a planeswalker they've already used isn't all that great, but you do need to get Ugin or Liliana off the board somehow.",
+    "id": 69595,
+    "rarity": "Common"
+  },
+  {
+    "card": "Spellgorger Weird",
+    "rating": "3.5",
+    "reason": "Spellgorger Weird is awesome in this set. It's very well-supported and goes in the best red archetype. I'd take this early and often, and it's not crazy to take this over Jaya's Greeting once you are firmly in U/R spells.",
+    "id": 69596,
+    "rarity": "Common"
+  },
+  {
+    "card": "Tibalt, Rakish Instigator",
+    "rating": "3.5",
+    "reason": "Tibalt is a little too good for my tastes. Making two 1/1 Devils is a fantastic deal for 3 mana, though not so good that I'd call it a deal with the devil. Proliferate sometimes stretches that to three Devils, and these sacrifice to Heartfire perfectly (as does Tibalt). This is great in any red deck save the most aggressive ones, and especially good in R/B sacrifice.",
+    "id": 69597,
+    "rarity": "Uncommon"
+  },
+  {
+    "card": "Tibalt's Rager",
+    "rating": "3.0",
+    "reason": "The pump ability really sells Tibalt's Rager, as it allows it to trade up easily in the late game. This is another great creature to sacrifice, and another reason red's themes are reinforced so well.",
+    "id": 69598,
+    "rarity": "Uncommon"
+  },
+  {
+    "card": "Turret Ogre",
+    "rating": "2.0",
+    "reason": "This is a very powerful common, especially compared to something like Summit Prowler . That said, it doesn't fit super well into some of the red decks, so I bench it more often than I thought I would. Format considerations matter, and Turret Ogre doesn't play well with sacrifice or spells, red's two biggest themes.",
+    "id": 69599,
+    "rarity": "Common"
+  },
+  {
+    "card": "Aid the Fallen",
+    "rating": "1.5",
+    "reason": "If you have 2 good planeswalkers, this becomes a decent addition to your deck, and at 3+, it's actively good. There's also a big difference between good uncommon planeswalkers and busted rare ones, so the high end here is pretty high. That all said, I usually want 0 main deck and 1 sideboard, so I wouldn't take this too early.",
+    "id": 69527,
+    "rarity": "Common"
+  },
+  {
+    "card": "Banehound",
+    "rating": "0.5",
+    "reason": "This doesn't have a big enough impact on the game to be good -- haste on a 1/1 is underwhelming and as much as I like lifelink, you need a lot of pump spells before this actually does anything.",
+    "id": 69528,
+    "rarity": "Common"
+  },
+  {
+    "card": "Bleeding Edge",
+    "rating": "3.5",
+    "reason": "Ravenous Chupacabra this is not, but it is still a great removal spell. It picks off a small creature and provides good value while doing so. This card is great in any deck, though it does get better in one focused on amass.",
+    "id": 69529,
+    "rarity": "Uncommon"
+  },
+  {
+    "card": "Bolas's Citadel",
+    "rating": "1.0/3.5",
+    "reason": "The split rating on this is a little weird, but Bolas's Citadel is a weird card. In a normal deck, you shouldn't play this, as it costs a ton of mana and requires you have a lot of life to take advantage of it. In a deck with good ramp, defense, and life gain, it can be quite the engine, and it is obscenely powerful if you have enough life points. This one is going to need more testing, but I am going to start with it in the \"powerful build-around\" camp, where it delivers if you do the work.",
+    "id": 69530,
+    "rarity": "Rare"
+  },
+  {
+    "card": "Bond of Revival",
+    "rating": "1.0",
+    "reason": "There isn't really a reanimator strategy present here, so this would have to see play on base power level alone. Unfortunately for Zombify fans, that power level isn't very high, as this only selects from your graveyard, and giving haste doesn't do enough to get it over the line and into your deck.",
+    "id": 69531,
+    "rarity": "Uncommon"
+  },
+  {
+    "card": "Charity Extractor",
+    "rating": "1.5",
+    "reason": "The flavor on this card is great, and it's a solid defender to boot. It is one of the best cards to pair with Huatli, and you can extract max value off even one hit with those two cards in play. I'd look to play this in defensive decks, or to side it in against opponents attacking on the ground.",
+    "id": 69532,
+    "rarity": "Common"
+  },
+  {
+    "card": "Command the Dreadhorde",
+    "rating": "1.0/3.5",
+    "reason": "This is eerily similar to Bolas's Citadel . It costs the same and rewards largely the same deckbuilding, and like the Citadel, is very powerful when you can get it to work. In a control deck with a lot of life gain, it's a powerful finisher, especially if you have removal to put some of their better targets into the graveyard.",
+    "id": 69533,
+    "rarity": "Rare"
+  },
+  {
+    "card": "Davriel, Rogue Shadowmage",
+    "rating": "3.5",
+    "reason": "A 3-mana Fugue is a beating, and if the opponent is unable to kill Davriel, Rogue Shadowmage , that's exactly what you get. You can also keep this around and ping the opponent for 2 a turn, which is a nice option to have. Davriel is high upside and low downside, and one of the more punishing planeswalkers when unanswered.",
+    "id": 69534,
+    "rarity": "Uncommon"
+  },
+  {
+    "card": "Davriel's Shadowfugue",
+    "rating": "1.0",
+    "reason": "Despite this format not being super fast, it's also a format where it's easy to get behind on board. Planeswalkers are a big part of that, as are powerful cards like the various 2-for-1 amass creatures or proliferate combos. As such, paying 4 mana to knock two cards out of the opponent's hand isn't something I'm interested in doing, and this is more of a sideboard card for control mirrors.",
+    "id": 69535,
+    "rarity": "Common"
+  },
+  {
+    "card": "Deliver Unto Evil",
+    "rating": "1.5",
+    "reason": "I really like this art style, though the card itself isn't quite as good. It's powerful in a control deck that fills up its graveyard, but for the most part is worse than other methods of gaining card advantage.",
+    "id": 69536,
+    "rarity": "Rare"
+  },
+  {
+    "card": "Dreadhorde Invasion",
+    "rating": "4.0",
+    "reason": "On turn 2, this is nigh-impossible to beat. Later in the game, it has a much less immediate effect and sometimes just won't do enough. That still makes it a great card, and one I'm happy to take early. The lifelink part is huge too -- it's worth taking strides to make sure you get at least one big lifelink hit in.",
+    "id": 69537,
+    "rarity": "Rare"
+  },
+  {
+    "card": "Dreadmalkin",
+    "rating": "3.0",
+    "reason": "I've liked Dreadmalkin quite a bit. It's hard to block, both due to menace and because of the instant-speed ability to grow. It hunts down planeswalkers and gives you the perfect way to use amass tokens. With this out, you usually want to eat 1/1 amass tokens before playing more amass cards, as that gives you more value than making the token bigger.",
+    "id": 69538,
+    "rarity": "Uncommon"
+  },
+  {
+    "card": "Duskmantle Operative",
+    "rating": "1.0",
+    "reason": "This isn't a format for 2-mana 2/2s, especially ones with such a mediocre ability. Stay clear of this unless you're aggressive and really lacking at this spot in the curve.",
+    "id": 69539,
+    "rarity": "Common"
+  },
+  {
+    "card": "The Elderspell",
+    "rating": "2.0/3.0",
+    "reason": "The first rating is for the main deck, where I'd play The Elderspell if I was short on removal for planeswalkers (especially if I have a couple to add loyalty to). The second is for sideboard use, where it's a good efficient answer if your opponent has a few in their deck. Note that while I'm not high on cards like Stealth Mission as an answer to planeswalkers, having a 2-mana direct kill spell is different. This is less vulnerable to removal and can help get you back into the game when you're behind.",
+    "id": 69540,
+    "rarity": "Rare"
+  },
+  {
+    "card": "Eternal Taskmaster",
+    "rating": "3.0",
+    "reason": "I like the Taskmaster , as it's got good stats and a reasonable ability, but I will say that it's a little less good than it looks. This is good, not great, and I've found myself taking Lazotep Reaver over it in decks full of sacrifice/amass synergies. It just doesn't come up that this has a clear attack and something good to get back, alongside the time and mana needed to use it.",
+    "id": 69541,
+    "rarity": "Uncommon"
+  },
+  {
+    "card": "Finale of Eternity",
+    "rating": "5.0",
+    "reason": "This is Plague Wind for 5-7 mana, and that's just off-the-wall absurd. Finale of Eternity is easily one of the best cards in the set.",
+    "id": 69542,
+    "rarity": "Mythic Rare"
+  },
+  {
+    "card": "God-Eternal Bontu",
+    "rating": "4.5",
+    "reason": "Bontu is enormous, unkillable, and lets you cash in lands plus bad creatures for extra cards. That's more than enough for me, and I'd be eternally grateful to get to take this first pick.",
+    "id": 69543,
+    "rarity": "Mythic Rare"
+  },
+  {
+    "card": "Herald of the Dreadhorde",
+    "rating": "3.0",
+    "reason": "Cards like this are why I dread attacking on the ground against black decks. It's hard to avoid getting 2-for-1'd against this, and it's a very good way to clog up the board. Herald works perfectly well on its own, and does even better with sacrifice or amass synergy, making it a solid common indeed.",
+    "id": 69544,
+    "rarity": "Common"
+  },
+  {
+    "card": "Kaya's Ghostform",
+    "rating": "0.5",
+    "reason": "Kaya's Ghostform is too situational for me to want to play it, and gets trounced by bounce spells and tap effects. Having an effect like this that requires you to predict which of your creature or planeswalkers will get killed beforehand is too risky, and not worth the payoff when you do get it right.",
+    "id": 69545,
+    "rarity": "Common"
+  },
+  {
+    "card": "Lazotep Behemoth",
+    "rating": "1.5",
+    "reason": "Sometimes, you just need a big purple Hippo.",
+    "id": 69546,
+    "rarity": "Common"
+  },
+  {
+    "card": "Lazotep Reaver",
+    "rating": "3.0",
+    "reason": "This doesn't quite get to 3.5, but it's close. There are precious few good 2-drops in the format, and this one checks a lot of boxes. It works in a wide variety of decks, has tons of synergies, and even by itself is pretty good value. I don't fear the Reaver and in fact, I'm a very big fan.",
+    "id": 69547,
+    "rarity": "Common"
+  },
+  {
+    "card": "Liliana, Dreadhorde General",
+    "rating": "5.0",
+    "reason": "Liliana is absurd when ahead, when behind, and at parity. She has tons of loyalty, so just using her +1 already makes her hard for flyers to kill, and forget about attacking on the ground. Her passive is unbeatable once your opponent starts trading in combat, and great even if you're just chump-blocking. She can also clear the board quickly if the opponent is only on a few creatures, and her ultimate (if it gets that far) is game over too. She competes with Ugin for title of best card in the set, and in this set, that's saying a lot.",
+    "id": 69548,
+    "rarity": "Mythic Rare"
+  },
+  {
+    "card": "Liliana's Triumph",
+    "rating": "1.5",
+    "reason": "Edicts are at a low point in this set, what with amass and various death triggers floating around. I prefer sideboarding Triumph against decks lacking in creatures, and would recommend against putting this in your main deck.",
+    "id": 69549,
+    "rarity": "Uncommon"
+  },
+  {
+    "card": "Massacre Girl",
+    "rating": "4.5",
+    "reason": "Massacre Girl lives up to her name (and it's a sweet name, at that). She goes up the chain nicely, killing a 1/1, which then kills a 2/2, and so on. Note that the effect lasts until end of turn, so playing her and then using a removal spell can kick start a domino effect. She's also great post-combat after their creatures block your smaller ones, and overall this is just a very good card.",
+    "id": 69550,
+    "rarity": "Rare"
+  },
+  {
+    "card": "Ob Nixilis, the Hate-Twisted",
+    "rating": "3.0/3.5",
+    "reason": "Ob is a great card, but can be a little tricky to use. When you're ahead, he's amazing, as the opponent will often not have time to use all the cards anyways. That makes him something akin to double Unlicensed Disintegration , which is usually unbeatable. In an attrition-based game, giving your opponent two cards per creature isn't as appealing, but you can actually start pointing him at your own creatures instead. Killing a 1/1 amass token or a Lazotep Reaver in exchange for two cards is a great deal, and Ob's passive still pressures the opponent at 1 per turn. On balance, Ob is much better in aggro decks, but with the right setup he's good anywhere.",
+    "id": 69551,
+    "rarity": "Uncommon"
+  },
+  {
+    "card": "Ob Nixilis's Cruelty",
+    "rating": "3.5",
+    "reason": "I'm loving the pushed commons in this set, and Cruelty is the prime example. This kills just about anything at instant speed, and even gets around death triggers to boot.",
+    "id": 69552,
+    "rarity": "Common"
+  },
+  {
+    "card": "Price of Betrayal",
+    "rating": "0.5",
+    "reason": "I like this as a sideboard card against planeswalkers more than a main deck option. This is less powerful and has less upside than The Elderspell , which is why they differ in ratings. I really don't want to be taking counters off creatures either, even if this does kill amass tokens when needed.",
+    "id": 69553,
+    "rarity": "Uncommon"
+  },
+  {
+    "card": "Shriekdiver",
+    "rating": "1.5",
+    "reason": "The rating on this takes a bit of a dive in non-aggro decks, and I've mostly liked using Shriekdiver to attack planeswalkers. It's a fine card if you need a 3-drop, but the stats are small enough that I am not excited about it.",
+    "id": 69554,
+    "rarity": "Common"
+  },
+  {
+    "card": "Sorin's Thirst",
+    "rating": "2.0",
+    "reason": "Sorin's Thirst is a decent way to interact, but the BB casting cost really hurts it. I like it when I have 9-10 Swamps in my deck, and am not a huge fan when black is the secondary color. The effectiveness of this just falls off later in the game, and when you can't cast it early it ends up underperforming.",
+    "id": 69555,
+    "rarity": "Common"
+  },
+  {
+    "card": "Spark Harvest",
+    "rating": "3.5",
+    "reason": "Spark Harvest is definitely behind Ob Nixilis's Cruelty , but not by a whole lot. This kills both creatures and planeswalkers, and can do so cheaply in a pinch. Either mode of this is worth including, and having the option of both really pushes it over the top.",
+    "id": 69556,
+    "rarity": "Common"
+  },
+  {
+    "card": "Spark Reaper",
+    "rating": "2.0",
+    "reason": "I've liked this in the average black deck, though if you're light on amass or creatures in general, it's fine to cut it. The rating goes up a fair bit if you can build around it, but even as just a value card it tends to pull its weight. It's also great at eating planeswalkers that are stuck at 1 loyalty, which happens fairly often.",
+    "id": 69557,
+    "rarity": "Common"
+  },
+  {
+    "card": "Tithebearer Giant",
+    "rating": "2.0",
+    "reason": "This is another one that I play most of the time, though it's expensive enough that I rarely pick it early. Tithebearer Giant adds to the board nicely and replaces itself, which is pretty good for a card you can pick up 10th pick.",
+    "id": 69558,
+    "rarity": "Common"
+  },
+  {
+    "card": "Toll of the Invasion",
+    "rating": "2.5",
+    "reason": "This takes a toll on slow decks, and thanks to amass 1, does respectably well against faster ones too. Getting a token or a +1/+1 counter is almost exactly enough to take this effect from sideboard to main deck, and I'd play this almost every time.",
+    "id": 69559,
+    "rarity": "Common"
+  },
+  {
+    "card": "Unlikely Aid",
+    "rating": "1.0",
+    "reason": "If you've got a very aggressive deck and need a combat trick, this, well, does the trick. It's unlikely that I'll play this very often, and you can basically get the card for free, so don't worry about taking it early.",
+    "id": 69560,
+    "rarity": "Common"
+  },
+  {
+    "card": "Vampire Opportunist",
+    "rating": "1.5",
+    "reason": "This random Vampire won't actually have many opportunities in this set, as a 2-mana 2/1 is quite bad in the format (amass really owns it), and the expensive activated ability doesn't come up often. I'd avoid unless you really need a 2-drop or expect the game to stall out.",
+    "id": 69561,
+    "rarity": "Common"
+  },
+  {
+    "card": "Vizier of the Scorpion",
+    "rating": "3.0",
+    "reason": "I take this behind the good common removal, though there are matchups where it really delivers. This card more incentivizes you to spread out your amass card more than most, and only playing a new one after trading off the token. Note that if they kill the Vizier mid-combat you lose deathtouch and subsequently, the battle.",
+    "id": 69562,
+    "rarity": "Uncommon"
+  },
+  {
+    "card": "Vraska's Finisher",
+    "rating": "2.5",
+    "reason": "This effect has never been better. The fact that this snipes planeswalkers means that the opponent will almost always block, at which point you can use this to finish off their creature. The only decks I don't like this in are the heavy control ones, as those tend to run light on creatures.",
+    "id": 69563,
+    "rarity": "Common"
+  },
+  {
+    "card": "Ajani's Pridemate",
+    "rating": "2.0/3.0",
+    "reason": "At a base level, Ajani's Pridemate is a passable card, and you may randomly end up with 1 or 2 life-gain cards in your deck. Once you have 3+, especially repeatable ones, this becomes a powerhouse, largely because the opportunity cost is so low on a 2-mana 2/2.",
+    "id": 69455,
+    "rarity": "Uncommon"
+  },
+  {
+    "card": "Battlefield Promotion",
+    "rating": "1.5",
+    "reason": "This isn't much of a promotion -- it comes with a small pay bump, but I bet the new boss is gonna pile on tons of new responsibilities. Basically, this is a fine trick if you're in the market for one, but most decks will want 0-2 cards in this vein, and this doesn't help your 2/2s take down 4/4s.",
+    "id": 69456,
+    "rarity": "Common"
+  },
+  {
+    "card": "Bond of Discipline",
+    "rating": "1.5",
+    "reason": "I'm not very high on Bond of Discipline, despite it having a potentially powerful effect. This is the kind of card that really captures people's imaginations -- while there are games where this taps down six creatures and lets you attack for lethal (or near-lethal while you gain 10+ life), it also rots in your hand most games. When you have this in hand instead of another creature or a removal spell, you lose games where you just needed one more game piece, as this by itself doesn't get you ahead. If you compare it to Sleep , it's largely worse -- it only gives you one attack step, and the life gain is similar to preventing a counterattack. Add that to the fact that Sleep varied by format (it was good in fast formats and mediocre in slow, removal-heavy ones), and you have a card I think will be overrated. It is worth mentioning that with more planeswalkers, this does give you a way to kill opposing ‘walkers, but most of them provide value immediately, so spending a card killing them is often not the most exciting proposition. Overall, this card is playable as a way to win races and break board stalls, but I'd only run it if I had a ton of creatures and little removal. I'd also side it out against decks with lots of removal, so please be disciplined and don't just look at this and think it's the next Overrun .",
+    "id": 69457,
+    "rarity": "Uncommon"
+  },
+  {
+    "card": "Bulwark Giant",
+    "rating": "1.5",
+    "reason": "This is expensive enough that I'd be looking to side it in against decks with reach (like burn, or funnily enough, cards like Bond of Discipline that get extra damage through). It's a mediocre main-deck card, given the stats and cost, but if you're playing a control deck and have no expensive cards, feel free to do your best Tormund Giantsbane impression. Yum.",
+    "id": 69458,
+    "rarity": "Common"
+  },
+  {
+    "card": "Charmed Stray",
+    "rating": "1.0",
+    "reason": "Charming, yes. Effective, no. I'd mostly be looking to side this in against an aggro deck full of 2/1s, or maybe run this if I had multiple Ajani's Pridemates and a life-gain theme. There will be around 3 of these per draft, and I would want 5+ before even considering them. A stray one of these won't do much -- you need the whole pack before they become a threat.",
+    "id": 69459,
+    "rarity": "Common"
+  },
+  {
+    "card": "Defiant Strike",
+    "rating": "2.0",
+    "reason": "The floor on a 1-mana card that replaces itself isn't very low, so I don't mind Defiant Strike if you are a couple cards short. It's also pretty nice in U/W or R/W, as there's a spells-matter theme going on in blue and red, so sometimes you'll end up enabling your Thunder Drakes or Spellgorger Weirds with this.",
+    "id": 69460,
+    "rarity": "Common"
+  },
+  {
+    "card": "Divine Arrow",
+    "rating": "3.0",
+    "reason": "Divine Arrow is efficient enough that it's beyond reproach, as it kills most things and does so pretty cleanly. It's at its worst in aggressive decks, as they get to block before you can kill their creature, but even then it still removes 4/4s from play for only 2 mana.",
+    "id": 69461,
+    "rarity": "Common"
+  },
+  {
+    "card": "Enforcer Griffin",
+    "rating": "2.0",
+    "reason": "At no point will you be excited to play Enforcer Griffin, but it should still make the cut more often than not. It's a solid combination of stats and cost, and fills out the 5-drop slot with a beefy evasive threat. It's nothing fancy, but it gets the job done.",
+    "id": 69462,
+    "rarity": "Common"
+  },
+  {
+    "card": "Finale of Glory",
+    "rating": "4.5",
+    "reason": "At 4 mana, Finale of Glory is a slightly worse Call the Cavalry , but it scales up quickly after that. The sweet spot is 6-7 mana, though it's absurd if you somehow get to 12. The reason cards like this are so good is that they are very strong with lots of mana, yet still castable and effective if you're stuck on 4-5 mana. That flexibility plus power is worth a lot, and as a result this is one of the better cards in the set.",
+    "id": 69463,
+    "rarity": "Mythic Rare"
+  },
+  {
+    "card": "Gideon Blackblade",
+    "rating": "4.0",
+    "reason": "Gideon is powerful, but he can't protect himself, which unfortunately may lead to him getting killed. When you are ahead, Gideon will stomp your opponent -- an indestructible 4/4 attacker plus a good keyword each turn is a lot to handle. He eventually gets to exile anything he wants, though at that point your opponent is probably on the ropes anyway. That's a lot for 3 mana, and Gideon is a legit early pick. Still, if you are behind, he doesn't stop the opponent from bashing him, so he's a step below the bombs in the set.",
+    "id": 69464,
+    "rarity": "Mythic Rare"
+  },
+  {
+    "card": "Gideon's Sacrifice",
+    "rating": "0.5",
+    "reason": "It's really hard to get even one card's worth of value from Gideon's Sacrifice, much less multiple. If somehow you end up with a really big board, this could help sway a combat involving tons of creatures, but that's just not all that likely, and on the face of things this is card disadvantage.",
+    "id": 69465,
+    "rarity": "Common"
+  },
+  {
+    "card": "Gideon's Triumph",
+    "rating": "3.0",
+    "reason": "While I normally don't like Edicts (cards that make your opponent choose and sacrifice a creature, named after Diabolic Edict , Killer of Morphlings, First of Its Name), Gideon's Triumph works a bit differently. It only interacts with creatures that attacked or blocked, which means your opponent's 5/5 can't hide behind their 1/1, as the 1/1 won't be getting into combat. Even if they do send both creatures, note that you can block and kill a smaller creature, then cast Gideon's Triumph after damage to make the opponent sacrifice the bigger one. You will take damage, but that's usually going to be worth it. I think this will play out pretty well, and I'd look at it like a slightly worse Divine Arrow .",
+    "id": 69466,
+    "rarity": "Uncommon"
+  },
+  {
+    "card": "God-Eternal Oketra",
+    "rating": "5.0",
+    "reason": "So this is effectively a 5-mana 6/6 (slightly better, as double strike stacks nicely with combat tricks and is harder to multiblock), and the drawbacks are that it's unkillable and provides a constant stream of value? I'm in! God-Eternal Oketra is easily one of the best cards in the set, and you should slam it if you can -- I'd even consider switching into white if I opened this in pack two.",
+    "id": 69467,
+    "rarity": "Mythic Rare"
+  },
+  {
+    "card": "Grateful Apparition",
+    "rating": "1.0/3.5",
+    "reason": "Without any other synergies, this is mediocre, but the synergies with proliferate are abundant and easy to find. If you have two other cards that work well, I'd be grateful for Grateful Apparition, and at 3+ it becomes one of the better cards in your deck. I'd mostly look for +1/+1 counters, though planeswalker loyalty is another good combo.",
+    "id": 69468,
+    "rarity": "Uncommon"
+  },
+  {
+    "card": "Ignite the Beacon",
+    "rating": "1.0",
+    "reason": "Paying 5 mana to draw two cards is a tough sell, and unless you have 3-4 planeswalkers in your deck, you may not have two cards to draw. It is true that Ignite the Beacon finds two of your better cards, so I'd consider it if I had one great planeswalker and a couple decent ones, but it's slow enough that you have to make sure your deck has enough early game that you can afford to take a turn off to start igniting things.",
+    "id": 69469,
+    "rarity": "Rare"
+  },
+  {
+    "card": "Ironclad Krovod",
+    "rating": "1.5",
+    "reason": "Maybe I'm thinking too fondly of Wishcoin Crab , but I could see this providing ironclad defense of your planeswalkers. Granted, this format is shaping up to be slower than Guilds of Ravnica , but Crab was a 2.0 there, so I like starting this at 1.5.",
+    "id": 69470,
+    "rarity": "Common"
+  },
+  {
+    "card": "Law-Rune Enforcer",
+    "rating": "3.5",
+    "reason": "We haven't seen a tapper this good in Limited for quite some time (this set has a bunch of intentionally juiced commons, which should be interesting). I like that it can't tap other copies of itself, as the \"tap your tapper\" dynamic can rune a game. This is cheap, locks down the creatures you care about (with the Zombie Army from amass being the most notable miss) and does a good job dealing with the progressively larger threats your opponent will produce. Law-Rune Enforcer is efficient enough that I'd play two with no problem, and three still sounds pretty good to me.",
+    "id": 69471,
+    "rarity": "Common"
+  },
+  {
+    "card": "Loxodon Sergeant",
+    "rating": "1.5",
+    "reason": "Loxodon Sergeant may look appealing, but it's mediocre. A 3/3 for 4 is passable, and adding vigilance to both it and your team for one turn doesn't do a lot, so you end up with a filler card you're not thrilled to end up playing.",
+    "id": 69472,
+    "rarity": "Common"
+  },
+  {
+    "card": "Makeshift Battalion",
+    "rating": "2.0",
+    "reason": "In a creature-heavy aggro deck, Makeshift Battalion does its job. It's a decent threat if you can trigger it once, and if you get there twice you got a very good deal.",
+    "id": 69473,
+    "rarity": "Common"
+  },
+  {
+    "card": "Martyr for the Cause",
+    "rating": "2.0",
+    "reason": "A bear with upside is a fine playable, and Martyr for the Cause goes up in value if you end up with a bunch of planeswalkers and +1/+1 counters. It is pretty neat that it may stop your opponent from attacking entirely if you can chump and threaten a planeswalker ultimate, which really lets this live up to its name.",
+    "id": 69474,
+    "rarity": "Common"
+  },
+  {
+    "card": "Parhelion II",
+    "rating": "3.0",
+    "reason": "Despite costing 8 mana and requiring multiple creatures to crew (or one big one), I'm still into it. It basically wins the game if it attacks, and this format does not seem like it punishes 8-drops as much as most. I wouldn't slam it in an aggro deck, but as a finisher for control or midrange it doesn't get much more powerful than Parhelion II.",
+    "id": 69475,
+    "rarity": "Rare"
+  },
+  {
+    "card": "Pouncing Lynx",
+    "rating": "2.5",
+    "reason": "I don't like Pouncing Lynx much in defensive decks, but it's a great attacker if you're in the market. I'm not surprised we are starting to see more first-strike-on-your-turn cards -- it's a clean mechanic that plays well.",
+    "id": 69476,
+    "rarity": "Common"
+  },
+  {
+    "card": "Prison Realm",
+    "rating": "3.5",
+    "reason": "Cheap removal that also scrys? Sign me up! There's nothing fancy about this card, and it's good in and against any Limited deck.",
+    "id": 69477,
+    "rarity": "Uncommon"
+  },
+  {
+    "card": "Rally of Wings",
+    "rating": "1.0/2.5",
+    "reason": "Not many decks will be able to play this, but it's a beating when you do have a good Rally deck. A teamwide +2/+2 and an untap for just 2 mana is powerful -- I'd look to have 8+ fliers in my deck before Rallying. Note that this works very nicely with Trusted Pegasus , and I'd count Pegasus as two fliers for this calculation.",
+    "id": 69478,
+    "rarity": "Uncommon"
+  },
+  {
+    "card": "Ravnica at War",
+    "rating": "1.5",
+    "reason": "If your deck mostly dodges Ravnica at War, I'd lean toward maindecking it, as it does hit hybrid cards, and there are a lot of multicolored cards overall. This is also a good sideboard card, though pay close attention to what your opponent has -- you'll want to side it out or in depending on how much it hits, and it's critical you have the most accurate info possible.",
+    "id": 69479,
+    "rarity": "Rare"
+  },
+  {
+    "card": "Rising Populace",
+    "rating": "3.0",
+    "reason": "As long as you have a decent number of creatures/planeswalkers in your deck, this card will perform. Its stock rises especially quickly with planeswalkers, as those tend not to last too long on the battlefield.",
+    "id": 69480,
+    "rarity": "Common"
+  },
+  {
+    "card": "Single Combat",
+    "rating": "1.0",
+    "reason": "I'm not a big fan of Single Combat. Your opponent getting to keep their best card means there's no way to really punish them, and having both players wait a turn before reloading isn't that huge either. I like this in Constructed, but in Limited I'm less optimistic.",
+    "id": 69481,
+    "rarity": "Rare"
+  },
+  {
+    "card": "Sunblade Angel",
+    "rating": "3.0",
+    "reason": "Sunblade Angel is expensive, so early in the Draft I wouldn't prioritize her (you have so few spots for expensive cards that I like to start out with cheaper ones). Still, once she hits the battlefield she does work, and she scales very nicely with any sort of pump spells. All those keywords add up, and she can easily dominate a game, even if it is unfortunate that she dies to a bunch of common removal spells.",
+    "id": 69482,
+    "rarity": "Uncommon"
+  },
+  {
+    "card": "Teyo, the Shieldmage",
+    "rating": "2.5",
+    "reason": "Like any good shield, Teyo's value is predicated on what he has to protect. If he's guarding other powerful planeswalkers, he can be dynamite, but if you're lacking in finishers he is more likely to break your heart than get anything meaningful done. I do like that he provides a lot of toughness and hexproof, so if you pick your spots right you can get plenty of value for 3 mana.",
+    "id": 69483,
+    "rarity": "Uncommon"
+  },
+  {
+    "card": "Teyo's Lightshield",
+    "rating": "2.5",
+    "reason": "I like this a bit more than I thought I would, all thanks to context (it's what makes Limited great). A +1/+1 counter is just worth a lot more with proliferate in the set, and this gets you started when you have multiple ways to get value from counters. Teyo's Lightshield also combines nicely with fliers, and at worst provides a 1/4 blocker to protect your planeswalkers. Note that this isn't a defender, so if it gets enough counters it can start bashing.",
+    "id": 69484,
+    "rarity": "Common"
+  },
+  {
+    "card": "Tomik, Distinguished Advokist",
+    "rating": "3.0",
+    "reason": "You can safely ignore all of Tomik's fancy lands text, and evaluate Tomik as a 2/3 flier for 2. That is good, even with a WW casting cost.",
+    "id": 69485,
+    "rarity": "Rare"
+  },
+  {
+    "card": "Topple the Statue",
+    "rating": "2.0",
+    "reason": "Can anyone say best-of-one artifact hate? Topple the Statue does actually do the trick, as it's Ice for 3 mana, and a cantrip Shatter if they happen to have an artifact. Killing Parhelion with this is gross, and even if they don't have any good targets you can still tap down a key blocker or even a land on their upkeep.",
+    "id": 69486,
+    "rarity": "Common"
+  },
+  {
+    "card": "Trusted Pegasus",
+    "rating": "3.5",
+    "reason": "Having this at 2/2 instead of 1/3, like the last couple incarnations of the effect , is a big change. This slants much more aggressive than Pegasus Courser, and can really pressure both opponents and their planeswalkers. Trusted Pegasus is fantastic in aggressive decks and really solid everywhere else, with only the most glacial of control decks not being interested.",
+    "id": 69487,
+    "rarity": "Common"
+  },
+  {
+    "card": "The Wanderer",
+    "rating": "2.5",
+    "reason": "This wanders back and forth between being nearly a dead card and almost unbeatable, all depending on your opponent's deck. If they have a lot of big creatures, it can eviscerate their board, and lead to an insane 2-for-1. If not, it's basically blank, which makes me want to sideboard it unless I'm very short on removal. It's also relevant that it protects your creatures from burn spells, even if you won't always know when that part is being good.",
+    "id": 69488,
+    "rarity": "Uncommon"
+  },
+  {
+    "card": "Wanderer's Strike",
+    "rating": "3.0",
+    "reason": "Wanderer's Strike is a solid piece of removal, and in some sets would be among the better options. This set has a bunch of pushed commons, which makes Strike more of a decent card than a truly desirable one. I also wouldn't worry too much about the proliferate part -- in some decks that will be a good bonus, but even if you have zero combos, it's a fine card.",
+    "id": 69489,
+    "rarity": "Common"
+  },
+  {
+    "card": "War Screecher",
+    "rating": "2.5",
+    "reason": "I like cheap creatures with expensive activated abilities, as they tend to be good at any point in the game. War Screecher is no exception, as it's a relevant early drop and a great way to use your mana later in the game. It does get better in aggressive decks, but it's still fine in any deck that needs a 2-drop.",
+    "id": 69490,
+    "rarity": "Common"
+  }
+]

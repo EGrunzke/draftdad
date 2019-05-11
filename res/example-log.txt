@@ -1,0 +1,28 @@
+<== Draft.DraftStatus(42)
+{
+  "playerId": "558BC43BA6CEA36A",
+  "eventName": "QuickDraft_RNA_20190426",
+  "draftId": "558BC43BA6CEA36A:QuickDraft_RNA_20190426:Draft",
+  "draftStatus": "Draft.PickNext",
+  "packNumber": 0,
+  "pickNumber": 0,
+  "draftPack": [
+    "69267",
+    "69199",
+    "69161",
+    "69156",
+    "69330",
+    "69152",
+    "69245",
+    "69159",
+    "69133",
+    "69217",
+    "69291",
+    "69296",
+    "69151",
+    "69202",
+    "69398"
+  ],
+  "pickedCards": [],
+  "requestUnits": 0.0
+}
