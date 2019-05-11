@@ -69,15 +69,14 @@ class LogWatch:
         ratings = []
         for id_ in pack:
             card = self.ratings_by_id.get(id_, {"card": id_, "rating": "???", "reason": "UNKNOWN ID", "rarity": "?"})
-            r['rarity'] = card.rarity[:1]
             ratings.append(card)
         sorted_ = sorted(ratings, key=lambda rt: rt["rating"], reverse=True)
         for r in sorted_:
             card = r["card"]
-            rating = r["rating"][:1]
+            rating = r["rating"]
             reason = r["reason"]
             rarity = r["rarity"]
-            print(f"{rarity} {rating:<10} {card:<30} {reason}")
+            print(f"{rarity:.1} {rating:<10} {card:<30} {reason}")
 
 if __name__ == '__main__':
     main()

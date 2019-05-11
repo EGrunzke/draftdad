@@ -2,6 +2,7 @@ import json
 import requests
 from html.parser import HTMLParser
 from mtga.set_data.war import WarOfTheSpark
+from mtga import all_mtga_cards
 from fuzzywuzzy import process
 
 
@@ -35,26 +36,24 @@ def aggregate(urls):
 def infuse(ratings):
     card_by_name = {
         card.pretty_name: card
-        for card in WarOfTheSpark.cards_in_set
-        if card.collectible and card.set_number < 250
+        for card in all_mtga_cards.cards
     }
-    lsv_by_name = {r["card"]: r for r in ratings}
-    lsv_names = [r["card"] for r in ratings]
+    mtg_names = [card.pretty_name for card in all_mtga_cards.cards]
     infused = []
 
-    for card in card_by_name.values():
-        pn = card.pretty_name
+    for r in ratings:
+        name = r['card']
         try:
-            rating = lsv_by_name[pn]
+            card = card_by_name[name]
         except KeyError:
-            best_match, ratio = process.extractOne(pn, lsv_names)
-            rating = lsv_by_name[best_match]
+            best_match, ratio = process.extractOne(name, mtg_names)
+            card = card_by_name[best_match]
             print(
-                f"No rating found for '{pn}'. Best match is '{best_match}' with ratio '{ratio}'"
+                f"No card found for '{name}'. Best match is '{best_match}' with ratio '{ratio}'"
             )
-        rating["id"] = card.mtga_id
-        rating["rarity"] = card.rarity
-        infused.append(rating)
+        r["id"] = str(card.mtga_id)
+        r["rarity"] = card.rarity
+        infused.append(r)
     return infused
 
 
