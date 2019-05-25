@@ -63,7 +63,12 @@ class LogWatch:
                 print(obj)
                 print()
                 pack = obj['draftPack']
-                self.print_ratings(pack)
+                if pack:
+                    self.print_ratings(pack)
+                elif obj['draftStatus'] == "Draft.Complete":
+                    status = obj['draftStatus']
+                    deck = obj['pickedCards']
+                    print('Draft Done! I should really print a summary')
 
     def print_ratings(self, pack):
         ratings = []

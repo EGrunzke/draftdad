@@ -58,12 +58,12 @@ def infuse(ratings):
 
 
 def write_to_disk(ratings):
-    with open("res/WAR.json", "w") as outfile:
+    with open("res/DOM.json", "w") as outfile:
         json.dump(ratings, outfile, ensure_ascii=False, indent=2)
 
 
 def load_from_disk():
-    with open("res/WAR.json") as infile:
+    with open("res/DOM.json") as infile:
         return json.load(infile)
 
 
@@ -127,8 +127,16 @@ if __name__ == "__main__":
         "https://www.channelfireball.com/articles/war-of-the-spark-limited-set-review-black/",
         "https://www.channelfireball.com/articles/luis-scott-vargas/war-of-the-spark-limited-set-review-white/",
     ]
-    # aggregate(urls)
-    ratings = load_from_disk()
-    infused = infuse(ratings)
-    write_to_disk(ratings)
+    dom = [
+        "https://www.channelfireball.com/articles/dominaria-limited-set-review-gold-artifacts-and-lands/",
+        "https://www.channelfireball.com/articles/dominaria-limited-set-review-white/",
+        "https://www.channelfireball.com/articles/dominaria-limited-set-review-blue/",
+        "https://www.channelfireball.com/articles/dominaria-limited-set-review-green/",
+        "https://www.channelfireball.com/articles/dominaria-limited-set-review-red/",
+        "https://www.channelfireball.com/articles/dominaria-limited-set-review-black/",
+    ]
+    aggregate(dom)
+    # ratings = load_from_disk()
+    # infused = infuse(ratings)
+    # write_to_disk(ratings)
     # print(ratings)
